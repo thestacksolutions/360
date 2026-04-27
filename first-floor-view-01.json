@@ -1,0 +1,59 @@
+{
+  "sceneConfig": {
+    "panorama": "first-floor-view-01/first-floor-view-01.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-01",
+      "targetContent": "selection-01-01",
+      "position": "-6.40 1.58 -1.4",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-01": {
+    "title": "First Floor - View 01",
+    "products": [
+      {
+        "id": "content-01-01",
+        "prevContent": "selection-01-01",
+        "title": "Glass Door",
+        "cardImg": "first-floor-view-01/01-01-01.jpg",
+        "carouselId": "carousel-01-01",
+        "images": [
+          "first-floor-view-01/01-01-01.jpg"
+        ],
+        "features": [
+          "Feature Point 1",
+          "Feature Point 2",
+          "Feature Point 3",
+          "Feature Point 4",
+          "Feature Point 5",
+          "Feature Point 6",
+          "Feature Point 7",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 21%;'>Code</th><th style='width: 18%;'>Finish</th><th style='width: 12%;'>Qty</th><th style='width: 15%;'>MRP</th></tr></thead><tbody><tr><td>Item-1</td><td>001</td><td>-</td><td>-</td><td>₹ -</td></tr><tr><td>Item-2</td><td>002</td><td>-</td><td>-</td><td>₹ -</td></tr><tr><td colspan='4' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ -</td></tr><tr><td colspan='5' style='text-align: end; border: 0px;'>NOTE: The above amount covers hardware cost only.</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02",
+        "prevContent": "selection-01-01",
+        "title": "Door Handle",
+        "cardImg": "first-floor-view-01/01-02-01.jpg",
+        "carouselId": "carousel-01-02",
+        "images": [
+          "first-floor-view-01/01-02-01.jpg"
+        ],
+        "features": [
+          "Feature Point 1",
+          "Feature Point 2",
+          "Feature Point 3",
+          "Feature Point 4",
+          "Feature Point 5",
+          "Feature Point 6",
+          "Feature Point 7",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 21%;'>Code</th><th style='width: 18%;'>Finish</th><th style='width: 12%;'>Qty</th><th style='width: 15%;'>MRP</th></tr></thead><tbody><tr><td>Item-1</td><td>001</td><td>-</td><td>-</td><td>₹ -</td></tr><tr><td>Item-2</td><td>002</td><td>-</td><td>-</td><td>₹ -</td></tr><tr><td colspan='4' style='text-align: end; padding-right: 25px;'>Total: </td><td>₹ -</td></tr><tr><td colspan='5' style='text-align: end; border: 0px;'>NOTE: The above amount covers hardware cost only.</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
