@@ -1,0 +1,482 @@
+/* 1. Target the scrollbar globally */
+::-webkit-scrollbar {
+    width: 4px; 
+    height: 4px;
+    margin: 30px;
+}
+
+/* 2. THE FIX: Force arrows to 0px height/width */
+::-webkit-scrollbar-button:single-button {
+    background-color: transparent;
+    display: block;
+    border-style: none;
+    height: 0px; /* This kills the vertical arrows */
+    width: 0px;  /* This kills the horizontal arrows */
+}
+
+/* 3. Also hide the double-button variants */
+::-webkit-scrollbar-button {
+    display: none !important;
+}
+
+/* 4. Ensure the track and thumb are clean */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ababab;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a9a9a9;
+}
+
+html,
+body {
+    font-family: system-ui, sans-serif !important;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* This removes the scrollbar for the whole screen */
+    overflow: hidden !important; 
+    overscroll-behavior-x: none;
+    overscroll-behavior: none;
+}
+
+/* Full screen overlay to cover the scene */
+#scene-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.loader-content {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.spinner {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #007bff;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1.5s linear infinite;
+    margin: 0 auto 15px auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+} */
+
+.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 999;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#content-master-container {
+    background: url('../code/icon/brand-element-right-bottom.png') no-repeat right bottom 0 / 50% auto,
+        linear-gradient(180deg, #deceb1 0%, #ffffff 100%);
+    position: absolute;
+    /* padding-top: 60px !important; */ /* Creates clear space at the top so buttons don't overlap text */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* padding: 3rem 2rem 2rem 2rem; */
+    padding: 4rem 3rem !important;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    display: flex;
+    flex-direction: column;
+
+    /* display: inline-block; */
+    /* width: auto; */
+    /* width: max-content; */
+    /* width: 90vw; */
+    /* width: fit-content; */
+    /* max-width: 900px; */  
+    width: max-content;       
+    min-width: 280px;          
+    max-width: 90vw;  
+    
+    height: auto;
+    min-height: 480px;      
+    max-height: 90vh;
+    /* max-height: 95vh; */
+    
+    overflow-y: auto; 
+    box-sizing: border-box;
+    border-radius: 1rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    /* transition: max-width 0.4s ease-in-out, transform 0.3s; */
+    /* transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); */
+    /* overflow: hidden; */ /* Prevents content from 'popping' out during the grow animation */
+}
+
+/* MODIFIED: When Product Detail is open */
+#content-master-container.wide-mode {
+    /* width: 90vw; */
+    width: 90vw !important;
+    height: 80vh;    
+    /* max-width: 90vw; */
+    max-width: 1100px;
+    display: flex;   
+    flex-direction: column; 
+    /* Lock the outer container so it doesn't scroll */
+    overflow: hidden !important; 
+}
+
+.modal-content-block {
+    display: none;
+    /* Ensure content takes full height for the flex split */
+    height: 100%; 
+    /* animation: fadeIn 0.5s ease; */
+}
+
+.product-selection-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    max-width: 1200px;
+}
+
+.product-card {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+    padding: 10px;
+    width: 15rem;
+    text-align: center;
+    transition: box-shadow 0.3s, transform 0.3s;
+    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.50);
+    background-color: white;
+}
+
+.product-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    transform: translateY(5px);
+}
+
+.product-card:active {
+    transform: translateY(0);
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    margin-bottom: 5px;
+}
+
+.card-heading {
+    font-size: 2rem;
+    margin: 0;
+    text-align: center;
+    /* margin: 1rem 0 2rem 0; */
+    margin: 0rem 0 1.5rem 0;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+/* MODIFIED: The Split Container */
+.modal-flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch; /* Stretch to fill height */
+    gap: 20px;
+    padding-top: 0px;
+    height: 100%; /* Fill the 80vh container */
+    overflow: hidden;
+}
+
+/* MODIFIED: Left stays fixed */
+.modal-left-column {
+    flex: 0 0 40%;
+    max-width: 40%;
+    /* margin-top: 1rem; */
+    overflow: hidden; /* Prevent this half from scrolling */
+}
+
+/* MODIFIED: Right scrolls */
+.modal-right-column {
+    flex: 0 0 60%;
+    max-width: 60%;
+    padding: 0 10px 0 0;
+    /* This is the only part that scrolls in landscape */
+    /* max-height: 440px; */
+    max-height: 62vh;
+    overflow-y: auto !important; 
+    box-sizing: border-box;
+    margin-top: 1.5rem;
+}
+
+.image-carousel {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    margin: 0;
+    overflow: hidden;
+    /* margin-top: 2rem; */
+    margin-top: 1.5rem;
+}
+
+.slides-container {
+    border-radius: 1rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    z-index: 5;
+    transition: opacity 0.4s ease-in-out;
+}
+
+.carousel-slide.active {
+    opacity: 1;
+    z-index: 10;
+}
+
+.prev-btn,
+.next-btn {
+    position: absolute;
+    top: 5px;
+    align-self: anchor-center;
+    cursor: pointer;
+    width: 4rem;
+    height: 100%;
+    line-height: 35px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 2.5rem;
+    transition: background-color 0.3s ease;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.0);
+    border-radius: 0.5rem;
+    z-index: 100;
+    padding: 0;
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.prev-btn { left: 0px; }
+.next-btn { right: 0px; }
+
+.close-button {
+    position: absolute !important;
+    top: 33px;
+    right: 51px;
+    line-height: 1;
+    z-index: 1001;
+    float: right;
+    color: #565454;
+    text-align: right;
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
+    /* margin-top: -15px !important; */
+}
+
+.back-button {
+    position: absolute !important;
+    top: 32px; 
+    left: 54px; /* Moves it from right to left */
+    line-height: 1;
+    z-index: 1001;
+    display: inline;
+    color: #565454;
+    float: right;
+    font-size: 38px;
+    font-weight: bold;
+    cursor: pointer;
+    /* margin-left: 1rem; */
+    margin-right: 3rem;
+    padding-top: 0px;
+    /* margin-top: -15px !important; */
+}
+
+.back-button:hover { color: #000; }
+
+.close-button,
+.back-button {
+    cursor: pointer;
+    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+/* .close-button:hover,
+.back-button:hover {
+    color: #000;
+    transform: scale(1.0);
+} */
+
+/* Feature List (Keeping your specific styling) */
+.feature-list {
+    list-style-type: square;
+    padding-left: 20px !important;
+    margin-top: 10px;
+    z-index: 45;
+}
+
+.feature-list li {
+    font-size: 1.1rem;
+    white-space: normal;
+    margin-bottom: 7px;
+}
+
+.feature-list li:has(table) {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    padding: 10px 0 30px 0;
+}
+
+.feature-list table {
+    width: 99% !important;
+    table-layout: fixed;
+    border-collapse: collapse;
+    word-break: break-word;
+    margin-left: -18px;
+    margin-top: 10px;
+}
+
+.feature-list th {
+    background-color: #f1e6d1;
+    font-weight: 500;
+}
+
+.feature-list td,
+.feature-list th {
+    padding: 8px;
+    border: 1px solid #a9a9a9;
+    text-align: left;
+    white-space: normal;
+    vertical-align: top;
+    align-content: center;
+}
+
+.feature-list::-webkit-scrollbar { width: 4px; }
+.feature-list::-webkit-scrollbar-thumb { background: #c4c4c4; }
+
+/* ===================================== RESPONSIVENESS ===================================== */
+@media (max-width: 800px), (orientation: landscape) {
+    .feature-list{
+        /* max-height: 30vh;
+        overflow-y: auto; */
+    }
+}
+
+@media (max-width: 800px), (orientation: portrait) {
+    /* MODIFIED: Portrait Scroll Logic */
+    #content-master-container.wide-mode {
+        flex-direction: column;
+        height: 90vh; /* Set a limit so the modal itself scrolls internally */
+        overflow-y: auto !important; 
+    }
+
+    .modal-flex-container {
+        flex-direction: column;
+        height: auto;
+        overflow: visible;
+    }
+
+    .modal-left-column,
+    .modal-right-column {
+        flex: 1 1 100%;
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+    }
+    
+
+    .modal-right-column {
+        overflow-y: visible !important; /* Disable double scrollbar on mobile */
+    }
+
+    #content-master-container {
+        top: 5%; 
+        transform: translate(-50%, 0); 
+        margin-bottom: 5%;
+        padding: 5%;
+        padding-bottom: 8%;
+    }
+}
+
+
+
+/* 3. THE MOBILE FIX (Media Query) */
+@media (max-width: 800px) {
+    #content-master-container {
+        /* On mobile, max-content is dangerous. We switch to relative width. */
+        width: 90vw !important; 
+        max-width: 95vw;
+        /* Padding adjustment for smaller screens */
+        padding: 1.5rem; 
+    }
+
+    #content-master-container.wide-mode {
+        width: 95vw !important;
+        height: 90vh;
+    }
+
+    /* Ensure one card doesn't look weird on mobile */
+    .product-card {
+        width: 100%; /* Card fills the modal width on phones */
+        max-width: 15rem;
+        margin: 0 auto;
+    }
+
+    
+}
+
