@@ -1,0 +1,246 @@
+{
+  "sceneConfig": {
+    "panorama": "media-first-floor-view-02/first-floor-view-02.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-02-01",
+      "targetContent": "selection-01-02-01",
+      "position": "0.13 1.58 -8.14",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-02-02",
+      "targetContent": "selection-01-02-02",
+      "position": "5.58 3.18 -7.79",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-02-01": {
+    "title": "First Floor View 02",
+    "products": [
+      {
+        "id": "content-01-02-01-01",
+        "prevContent": "selection-01-02-01",
+        "title": "Mortise Door Handle Brass Zen - On Rose 50mm",
+        "cardImg": "media-first-floor-view-02/01-02-01-01-01.webp",
+        "carouselId": "carousel-01-02-01-01",
+        "images": [
+          "media-first-floor-view-02/01-02-01-01-01.webp",
+          "media-first-floor-view-02/01-02-01-01-02.webp",
+          "media-first-floor-view-02/01-02-01-01-03.webp",
+          "media-first-floor-view-02/01-02-01-01-04.webp",
+          "media-first-floor-view-02/01-02-01-01-05.webp"
+        ],
+        "features": [
+          "Crafted to enhance both aesthetics and functionality.",
+          "Dura Zinc Coating offers protection against rust and corrosion.",
+          "Hot forging process reduces porosity and risk of cracking.",
+          "Pencil hardness up to 5H.",
+          "Tested and guaranteed to pass 2,00,000 Spring Cycles.",
+          "Acetone Resistance up to 1,000 Rubs & Salt Spray Tested Up to 300 Hrs.",
+          "5 year functional warranty.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mortise Door Handle Brass Zen - On Rose 1</td><td>MDHBZ-KH50-R1-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 2</td><td>MDHBZ-KH50-R2-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 3</td><td>MDHBZ-KH50-R3-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 5</td><td>MDHBZ-KH50-R5-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 6</td><td>MDHBZ-KH50-R6-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-01-02",
+        "prevContent": "selection-01-02-01",
+        "title": "Mortise Door Handle Brass Zen - Backplate",
+        "cardImg": "media-first-floor-view-02/01-02-01-02-01.webp",
+        "carouselId": "carousel-01-02-01-02",
+        "images": [
+          "media-first-floor-view-02/01-02-01-02-01.webp",
+          "media-first-floor-view-02/01-02-01-02-02.webp",
+          "media-first-floor-view-02/01-02-01-02-03.webp"
+        ],
+        "features": [
+          "Crafted to enhance both aesthetics and functionality.",
+          "Dura Zinc Coating offers protection against rust and corrosion.",
+          "Hot forging process reduces porosity and risk of cracking.",
+          "Pencil hardness up to 5H.",
+          "Tested and guaranteed to pass 2,00,000 Spring Cycles.",
+          "Acetone Resistance up to 1,000 Rubs & Salt Spray Tested Up to 300 Hrs.",
+          "5 year functional warranty.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mortise Door Handle Brass Zen - Backplate 1</td><td>MDHBZ-B1-AQ/BL/NB</td><td>250 x 35 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - Backplate 2</td><td>MDHBZ-B2-AQ/BL/NB</td><td>250 x 35 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-01-03",
+        "prevContent": "selection-01-02-01",
+        "title": "Mortise Door Lock Body Brass Zen",
+        "cardImg": "media-first-floor-view-02/01-02-01-03-01.webp",
+        "carouselId": "carousel-01-02-01-03",
+        "images": [
+          "media-first-floor-view-02/01-02-01-03-01.webp",
+          "media-first-floor-view-02/01-02-01-03-02.webp"
+        ],
+        "features": [
+          "Tested and guaranteed to pass 2,00,000 Spring Cycles.",
+          "The latch, bolt and follower are made of brass.",
+          "Mortise Door Lock Body Brass Zen 1: Anti-saw bolts, The top latch with roller prevents damage to marble door frames.",
+          "To be used with:  Mortise Door Handle Brass Zen.",
+          "5 year functional warranty.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mortise Door Lock Body Brass Zen 1 (85 x 50mm)</td><td>MDLBBZ1-50-AQ/BL/NB</td><td>85 x 50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Body Brass Zen 2 (85 x 50mm)</td><td>MDLBBZ2-50-AQ/BL/NB</td><td>85 x 50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Body Brass Zen 2 (85 x 60mm)</td><td>MDLBBZ2-60-AQ/BL/NB</td><td>85 x 60 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-01-04",
+        "prevContent": "selection-01-02-01",
+        "title": "Mortise Door Lock Cylinder Brass Zen",
+        "cardImg": "media-first-floor-view-02/01-02-01-04-01.webp",
+        "carouselId": "carousel-01-02-01-04",
+        "images": [
+          "media-first-floor-view-02/01-02-01-04-01.webp",
+          "media-first-floor-view-02/01-02-01-04-02.webp",
+          "media-first-floor-view-02/01-02-01-04-03.webp",
+          "media-first-floor-view-02/01-02-01-04-04.webp"
+        ],
+        "features": [
+          "Tested and guaranteed to pass 2,00,000 Spring Cycles.",
+          "To be used with: Mortise Door Handle Brass Zen.",
+          "5 year functional warranty.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mortise Door Lock Cylinder Brass Zen - 60 (Key x Key)</td><td>MDLCBZ-60-2K-AQ/BL/NB</td><td>60 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Cylinder Brass Zen - 60 (Key x Knob)</td><td>MDLCBZ-60-1K-AQ/BL/NB</td><td>60 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Cylinder Brass Zen - 60 (Coin x Knob)</td><td>MDLCBZ-60-CK-AQ/BL/NB</td><td>60 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Half Cylinder Brass Zen - 60 (with Knob)</td><td>MDLCBZ-60H-AQ/BL/NB</td><td>40 mm (60 mm half cylinder)</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Cylinder Brass Zen - 70 (Key x Key)</td><td>MDLCBZ-70-2K-AQ/BL/NB</td><td>70 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Cylinder Brass Zen - 70 (Key x Knob)</td><td>MDLCBZ-70-1K-AQ/BL/NB</td><td>70 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Cylinder Brass Zen - 70 (Coin x Knob)</td><td>MDLCBZ-70-CK-AQ/BL/NB</td><td>70 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Lock Half Cylinder Brass Zen - 70 (with Knob)</td><td>MDLCBZ-70H-AQ/BL/NB</td><td>40 mm (70 mm half cylinder)</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-01-05",
+        "prevContent": "selection-01-02-01",
+        "title": "Mortise Door Handle Brass Zen - On Rose 50mm",
+        "cardImg": "media-first-floor-view-02/01-02-01-05-01.webp",
+        "carouselId": "carousel-01-02-01-05",
+        "images": [
+          "media-first-floor-view-02/01-02-01-05-01.webp",
+          "media-first-floor-view-02/01-02-01-05-02.webp",
+          "media-first-floor-view-02/01-02-01-05-03.webp",
+          "media-first-floor-view-02/01-02-01-05-04.webp",
+          "media-first-floor-view-02/01-02-01-05-05.webp"
+        ],
+        "features": [
+          "Crafted to enhance both aesthetics and functionality.",
+          "Dura Zinc Coating offers protection against rust and corrosion.",
+          "Hot forging process reduces porosity and risk of cracking.",
+          "Pencil hardness up to 5H.",
+          "Tested and guaranteed to pass 2,00,000 Spring Cycles.",
+          "Acetone Resistance up to 1,000 Rubs & Salt Spray Tested Up to 300 Hrs.",
+          "5 year functional warranty.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mortise Door Handle Brass Zen - On Rose 1</td><td>MDHBZ-KH50-R1-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 2</td><td>MDHBZ-KH50-R2-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 3</td><td>MDHBZ-KH50-R3-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 5</td><td>MDHBZ-KH50-R5-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr><tr><td>Mortise Door Handle Brass Zen - On Rose 6</td><td>MDHBZ-KH50-R6-AQ/BL/NB</td><td>⌀50 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-01-06",
+        "prevContent": "selection-01-02-01",
+        "title": "Door Buffer Brass",
+        "cardImg": "media-first-floor-view-02/01-02-01-06-01.jpg",
+        "carouselId": "carousel-01-02-01-06",
+        "images": [
+          "media-first-floor-view-02/01-02-01-06-01.jpg",
+          "media-first-floor-view-02/01-02-01-06-02.jpg"
+        ],
+        "features": [
+          "Prevents doors from slamming into walls.",
+          "Compact and easy to install on the door.",
+          "Great for homes, offices, hospitals, and schools.",
+          "Made from Solid Brass.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Door Buffer Brass</td><td>DBB1-AQ/BL/NB</td><td>-</td><td>Antique / Black / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-01-07",
+        "prevContent": "selection-01-02-01",
+        "title": "Mortise Door Handle Brass Zen - On Rose 60mm",
+        "cardImg": "media-first-floor-view-02/01-02-01-07-01.webp",
+        "carouselId": "carousel-01-02-01-07",
+        "images": [
+          "media-first-floor-view-02/01-02-01-07-01.webp",
+          "media-first-floor-view-02/01-02-01-07-02.webp"
+        ],
+        "features": [
+          "Crafted to enhance both aesthetics and functionality.",
+          "Dura Zinc Coating offers protection against rust and corrosion.",
+          "Hot forging process reduces porosity and risk of cracking.",
+          "Pencil hardness up to 5H.",
+          "Tested and guaranteed to pass 2,00,000 Spring Cycles.",
+          "Acetone Resistance up to 1,000 Rubs & Salt Spray Tested Up to 300 Hrs.",
+          "5 year functional warranty.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mortise Door Handle Brass Zen - On Rose 4</td><td>MDHBZ-KH60-R4-AQ/BL/NB</td><td>⌀60 mm</td><td>Antique Brass / Black Matt / Brushed Nickel</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-02-02": {
+    "title": "First Floor View 02",
+    "products": [
+      {
+        "id": "content-01-02-02-01",
+        "prevContent": "selection-01-02-02",
+        "title": "Ventilation Grill - Round",
+        "cardImg": "media-first-floor-view-02/01-02-02-01-01.png",
+        "carouselId": "carousel-01-02-02-01",
+        "images": [
+          "media-first-floor-view-02/01-02-02-01-01.png",
+          "media-first-floor-view-02/01-02-02-01-02.jpg",
+          "media-first-floor-view-02/01-02-02-01-03.jpg"
+        ],
+        "features": [
+          "Ideal to be used where ventalation is required like in cabinets and drawers, especially for gas cylinders, wardrobes etc.",
+          "Made out of Durable Plastic.",
+          "Easy to Fit.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Ventilation Grill Dia 40mm</td><td>VG40</td><td>Ø 40mm</td><td>Black / Grey / White</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-02-02",
+        "prevContent": "selection-01-02-02",
+        "title": "Ventilation Grill - Rectangular",
+        "cardImg": "media-first-floor-view-02/01-02-02-02-01.png",
+        "carouselId": "carousel-01-02-02-02",
+        "images": [
+          "media-first-floor-view-02/01-02-02-02-01.png",
+          "media-first-floor-view-02/01-02-02-02-02.jpg",
+          "media-first-floor-view-02/01-02-02-02-03.jpg"
+        ],
+        "features": [
+          "Ideal to be used where ventalation is required like in cabinets and drawers, especially for gas cylinders, wardrobes etc.",
+          "Made out of Durable plastic.",
+          "Easy to Fit.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Ventilation Grill - Rectangular</td><td>VG34168</td><td>34(H) x 168(W) mm</td><td>Black / Grey / White</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-02-03",
+        "prevContent": "selection-01-02-02",
+        "title": "Aluminium Shutter Grill Micro",
+        "cardImg": "media-first-floor-view-02/01-02-02-03-01.jpg",
+        "carouselId": "carousel-01-02-02-03",
+        "images": [
+          "media-first-floor-view-02/01-02-02-03-01.jpg",
+          "media-first-floor-view-02/01-02-02-03-02.jpg",
+          "media-first-floor-view-02/01-02-02-03-03.png",
+          "media-first-floor-view-02/01-02-02-03-04.png"
+        ],
+        "features": [
+          "Ideal to be used where ventilation is required like kitchen cabinet door, shoe rack, etc.",
+          "Finish: Anodized Silver / Brushed Aluminium / Special Finish",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Aluminium Shutter Grill Micro</td><td>ASGM-15-AS/BA/SF</td><td>62 x 150</td><td>Anodized Silver / Brushed Aluminium / Special Finish</td></tr><tr><td>Aluminium Shutter Grill Micro</td><td>ASGM-22-AS/BA/SF</td><td>62 x 225</td><td>Anodized Silver / Brushed Aluminium / Special Finish</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-02-02-04",
+        "prevContent": "selection-01-02-02",
+        "title": "Aluminium Shutter Grill",
+        "cardImg": "media-first-floor-view-02/01-02-02-04-01.png",
+        "carouselId": "carousel-01-02-02-04",
+        "images": [
+          "media-first-floor-view-02/01-02-02-04-01.png"
+        ],
+        "features": [
+          "Ideal to be used where ventilation is required like kitchen shutters (cabinets and drawers) especially for gas cylinders, wardrobes, etc.",
+          "Easy to Fit.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size W x L (mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Aluminium Shutter Grill</td><td>ASGS-10</td><td>62 x 100</td><td>Anodized Silver / White Matt / Anthracite / Anodized Black / Brushed Aluminium / Special Finish / Brushed Gold</td></tr><tr><td>Aluminium Shutter Grill</td><td>ASGS-15</td><td>62 x 150</td><td>Anodized Silver / White Matt / Anthracite / Anodized Black / Brushed Aluminium / Special Finish / Brushed Gold</td></tr><tr><td>Aluminium Shutter Grill</td><td>ASGS-22</td><td>62 x 225</td><td>Anodized Silver / White Matt / Anthracite / Anodized Black / Brushed Aluminium / Special Finish / Brushed Gold</td></tr><tr><td>Aluminium Shutter Grill</td><td>ASGS-30</td><td>62 x 300</td><td>Anodized Silver / White Matt / Anthracite / Anodized Black / Brushed Aluminium / Special Finish / Brushed Gold</td></tr><tr><td>Aluminium Shutter Grill</td><td>ASGS-45</td><td>62 x 450</td><td>Anodized Silver / White Matt / Anthracite / Anodized Black / Brushed Aluminium / Special Finish / Brushed Gold</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
