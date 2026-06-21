@@ -1,0 +1,161 @@
+{
+    "sceneConfig": {
+        "panorama": "media-first-floor-view-03/first-floor-view-03.jpg",
+        "rotation": "0 -90 0"
+    },
+    "hotspots": [
+        {
+            "id": "01-03-01",
+            "targetContent": "selection-01-03-01",
+            "position": "-6.00 5.50 -0.33",
+            "rotation": "0 0 0"
+        },
+        {
+            "id": "01-03-02",
+            "targetContent": "selection-01-03-02",
+            "position": "-6.00 2.00 -0.33",
+            "rotation": "0 0 0"
+        },
+        {
+            "id": "01-03-03",
+            "targetContent": "selection-01-03-03",
+            "position": "-4.56 -3.48 3.22",
+            "rotation": "0 0 0"
+        }
+    ],
+    "selection-01-03-01": {
+        "title": "First Floor View 03",
+        "products": [
+            {
+                "id": "content-01-03-01-01",
+                "prevContent": "selection-01-03-01",
+                "title": "Hinge for Aluminium Profile 3D - With Linear Mounting Plate",
+                "cardImg": "media-first-floor-view-03/01-03-01-01-01.jpg",
+                "carouselId": "carousel-01-03-01-01",
+                "images": [
+                    "media-first-floor-view-03/01-03-01-01-01.jpg",
+                    "media-first-floor-view-03/01-03-01-01-02.jpg",
+                    "media-first-floor-view-03/01-03-01-01-03.jpg",
+                    "media-first-floor-view-03/01-03-01-01-04.png"
+                ],
+                "features": [
+                    "Specially designed hinge with linear mounting plate for the Glass shutter Al. profiles.",
+                    "Available in Overlay & Half Overlay",
+                    "Hinge opening angle: 105˚",
+                    "To be used with Al. Frame for Hinge for Al. Profile 3D (HAP-4-22) & Al. Frame with Handle for Hinge for Al. Profile (HAP-4-22H)",
+                    "Glass THK: 4mm",
+                    "Al. Profile Length: 3mtr",
+                    "Finish: Hinge: Nickel Plated, Titanium Profile: Anodized Silver, Anodized Black, Special Finish, Anodized Gold, Chrome Plated, Brushed Aluminium, Champagne",
+                    "Hinge: Nickel Plated, Titanium",
+                    "Profile: Anodized Silver, Anodized Black, Special Finish, Anodized Gold, Chrome Plated, Brushed Aluminium, Champagne",
+                    "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='2'>Hinge for Al. Profile 3D - With linear mounting plate</td><td>HAP1-TN</td><td rowspan='8'>-</td><td rowspan='8'>Titanium</td></tr><tr><td>HAP2-TN</td></tr><tr><td>Hinge for Alu. Profile 3D - Overlay with Linear Mounting Plate</td><td>HAPL1-TN</td></tr><tr><td>Hinge for Alu. Profile 3D - Half Overlay with Linear Mounting Plate</td><td>HAPL2-TN</td></tr><tr><td>Hinge for Alu. Profile 3D - Linear Mounting Plate - Plastic Covers Titanium</td><td>HAPL-C-TN</td></tr><tr><td>Al. Frame for Hinge for Al. profile 3D</td><td>HAP-4-22-2</td></tr><tr><td>Al. Frame with Handle for Hinge for Al. profile 3D</td><td>HAP-4-22H-2</td></tr><tr><td>Hinge Drilling Template for HAP</td><td>HAP-T</td></tr></tbody></table></table>"
+                ]
+            },
+            {
+                "id": "content-01-03-01-02",
+                "prevContent": "selection-01-03-01",
+                "title": "Hinge For Aluminium Profile 3D",
+                "cardImg": "media-first-floor-view-03/01-03-01-02-01.jpg",
+                "carouselId": "carousel-01-03-01-02",
+                "images": [
+                    "media-first-floor-view-03/01-03-01-02-01.jpg",
+                    "media-first-floor-view-03/01-03-01-02-02.jpg",
+                    "media-first-floor-view-03/01-03-01-02-03.png"
+                ],
+                "features": [
+                    "Specially designed for Al. Profile Shutter",
+                    "Available in Overlay & Half Overlay",
+                    "To be used with Al. Frame for Hinge for Al. Profile 3D (HAP-4-22) & Al. Frame with Handle for Hinge for Al. Profile (HAP-4-22H)",
+                    "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Hinge for Aluminium Profile 3D - Overlay</td><td>HAP1-TN</td><td>-</td><td>Nickel Plated / Titanium</td></tr><tr><td>Hinge for Aluminium Profile 3D - Half Overlay</td><td>HAP2-TN</td><td>-</td><td>Nickel Plated / Titanium</td></tr></tbody></table>"
+                ]
+            }
+        ]
+    },
+    "selection-01-03-02": {
+        "title": "First Floor View 03",
+        "products": [
+            {
+                "id": "content-01-03-02-01",
+                "prevContent": "selection-01-03-02",
+                "title": "Aluminium Profile Glass Shutter",
+                "cardImg": "media-first-floor-view-03/01-03-02-01-01.jpg",
+                "carouselId": "carousel-01-03-02-01",
+                "images": [
+                    "media-first-floor-view-03/01-03-02-01-01.jpg",
+                    "media-first-floor-view-03/01-03-02-01-02.jpg",
+                    "media-first-floor-view-03/01-03-02-01-03.jpg",
+                    "media-first-floor-view-03/01-03-02-01-04.jpg"
+                ],
+                "features": [
+                    "Al. Profile for 4mm/8mm THK Glass Panels.",
+                    "Al. Profile width: 45/50/55/68/71mm",
+                    "Corner brackets to be procured separately",
+                    "Sleeves for Aluminium Profile Glass Shutter absorb vibration and thus protects the glass from breaking.",
+                    "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Al. Profile Glass Shutter Euro 45mm -Anodized Silver / Black</td><td>EGSP-4-45-3M-AS/AB</td><td>22 x 45 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle-Anodized Silver / Black</td><td>EGSP-4-45H-3M-AS/AB</td><td>22 x 68 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 45mm - Satin-Special Finish/ Anodized Gold</td><td>EGSP-4-45-3M-SF</td><td>22 x 45 mm</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle-Satin - Special Finish/ Anodized Gold</td><td>EGSP-4-45H-3M-SF</td><td>22 x 68 mm</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 45mm -Satin-Chrome / Brushed Al.</td><td>EGSP-4-45-3M-CP/BA/BG</td><td>22 x 45 mm</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle-Satin-Chrome / Brushed Al.</td><td>EGSP-4-45H-3M-CP/BA/BG</td><td>22 x 68 mm</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td rowspan='3'>Al. Profile Glass Shutter Euro 45mm Slim</td><td>EGSPS-4-45-3M-AS/AB</td><td>-</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>EGSPS-4-45-3M-CP/BA/BG</td><td>-</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td>EGSPS-4-45-3M-SF</td><td>-</td><td>Special Finish</td></tr><tr><td rowspan='3'>Al. Profile Glass Shutter Euro 45mm Slim with Handle</td><td>EGSPS-4-45H-3M-AS/AB</td><td>-</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>EGSPS-4-45H-3M-CP/BA/BG</td><td>-</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td>EGSPS-4-45H-3M-SF</td><td>-</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm - Anodized Silver / Black</td><td>EGSP-4-50-3M-AS/AB</td><td>For 4mm glass</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm with Handle - Anodized Silver / Black</td><td>EGSP-4-50H-3M-AS/AB</td><td>For 4mm glass</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm - Satin - Special Finish</td><td>EGSP-4-50-3M-SF</td><td>For 4mm glass</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm with Handle -Satin - Special Finish</td><td>EGSP-4-50H-3M-SF</td><td>For 4mm glass</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter 50mm*-Anodized Silver / Black</td><td>GSP1-4-50-3M-AS/AB</td><td>20 x 50 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle*-Anodized Silver /Black</td><td>GSP1-4-50H-3M-AS/AB</td><td>33 x 50 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter 50mm - Satin - Brushed Gold</td><td>GSP1-4-50-3M-BG</td><td>20 x 50 mm</td><td>Brushed Gold</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle - Satin - Brushed Gold</td><td>GSP1-4-50H-3M-BG</td><td>33 x 50 mm</td><td>Brushed Gold</td></tr><tr><td>Al. Profile Glass Shutter 50mm-Satin*-Special Finish</td><td>GSP1-4-50-3M-SF</td><td>20 x 50 mm</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle-Satin*-Special Finish</td><td>GSP1-4-50H-3M-SF</td><td>33 x 50 mm</td><td>Special Finish</td></tr></tbody></table>"
+                ]
+            },
+            {
+                "id": "content-01-03-02-02",
+                "prevContent": "selection-01-03-02",
+                "title": "Hinge Slow-Motion 'S' Click On (A)",
+                "cardImg": "media-first-floor-view-03/01-03-02-02-01.jpg",
+                "carouselId": "carousel-01-03-02-02",
+                "images": [
+                    "media-first-floor-view-03/01-03-02-02-01.jpg",
+                    "media-first-floor-view-03/01-03-02-02-02.jpg"
+                ],
+                "features": [
+                    "Unique built in damping system allows the shutter to close in slow motion without banging.",
+                    "Available in Full overlay, Half overlay & Inset.",
+                    "Max. opening : 105°.",
+                    "Max. Shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+                    "Shutter Thickness: 16mm to 19mm.",
+                    "Shutter Cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+                    "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Hinge Slow-Motion 'S' Click On (Overlay, Half-Overlay, Inset)</td><td>HSMS1A</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Hinge Slow-Motion 'S' Click On (Overlay, Half-Overlay, Inset)</td><td>HSMS2A</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Hinge Slow-Motion 'S' Click On (Overlay, Half-Overlay, Inset)</td><td>HSMS3A</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Hinge Slow-Motion 'S' Click On - with 4 Hole Mounting Plate (Overlay, Half-Overlay, Inset)</td><td>HSMS1A-M1</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Hinge Slow-Motion 'S' Click On - with 4 Hole Mounting Plate (Overlay, Half-Overlay, Inset)</td><td>HSMS2A-M1</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Hinge Slow-Motion 'S' Click On - with 4 Hole Mounting Plate (Overlay, Half-Overlay, Inset)</td><td>HSMS3A-M1</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+                ]
+            }
+        ]
+    },
+    "selection-01-03-03": {
+        "title": "First Floor View 03",
+        "products": [
+            {
+                "id": "content-01-03-03-01",
+                "prevContent": "selection-01-03-03",
+                "title": "Aluminium Glass Shutter Profile 2",
+                "cardImg": "media-first-floor-view-03/01-03-03-01-01.jpg",
+                "carouselId": "carousel-01-03-03-01",
+                "images": [
+                    "media-first-floor-view-03/01-03-03-01-01.jpg",
+                    "media-first-floor-view-03/01-03-03-01-02.jpg",
+                    "media-first-floor-view-03/01-03-03-01-03.jpg",
+                    "media-first-floor-view-03/01-03-03-01-04.jpg"
+                ],
+                "features": [
+                    "Specially designed glass shutter profiles for cabinet & wardrobe.",
+                    "Compatible with ebco Mini Hinge (HM1/2/3)",
+                    "Max recommended shutter size: 2100(H) x 500(W)mm",
+                    "Available in only Anodized Black finish",
+                    "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Angled Profile</td><td>GSP2-4-40-AP</td><td rowspan='3'>-</td><td rowspan='3'>Anodized Black</td></tr><tr><td>Horizontal Profile</td><td>GSP2-4-40-HP</td></tr><tr><td>Profile 2 Handle</td><td>GSP2-4-40H-192</td></tr></tbody></table>"
+                ]
+            },
+            {
+                "id": "content-01-03-03-02",
+                "prevContent": "selection-01-03-03",
+                "title": "Mini Hinge",
+                "cardImg": "media-first-floor-view-03/01-03-03-02-01.jpg",
+                "carouselId": "carousel-01-03-03-02",
+                "images": [
+                    "media-first-floor-view-03/01-03-03-02-01.jpg"
+                ],
+                "features": [
+                    "Max. Opening: 95°.",
+                    "Max. Shutter size: 24 inch x 18 inch (600mm x 450mm) for 2 hinges.",
+                    "Shutter Thickness: 12mm to 18mm.",
+                    "Shutter cavity: Ø26mm, 10mm deep, cavity 4mm from edge.",
+                    "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Mini Hinge - Overlay</td><td>HM1</td><td>Ø 26 mm</td><td>Nickel Plated</td></tr></tbody></table>"
+                    ]
+            }
+        ]
+    }
+}
