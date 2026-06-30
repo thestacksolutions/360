@@ -1,0 +1,408 @@
+{
+  "sceneConfig": {
+    "panorama": "media-first-floor-view-04/first-floor-view-04.jpg",
+    "rotation": "0 0 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-04-01",
+      "targetContent": "selection-01-04-01",
+      "position": "-5.36 -3.31 -3.89",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-04-02",
+      "targetContent": "selection-01-04-02",
+      "position": "-3.66 -3.31 -3.89",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-04-03",
+      "targetContent": "selection-01-04-03",
+      "position": "-0.16 -3.61 -3.89",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-04-04",
+      "targetContent": "selection-01-04-04",
+      "position": "6.80 -2.41 -3.29",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-04-05",
+      "targetContent": "selection-01-04-05",
+      "position": "-2.76 -0.90 -3.89",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-04-06",
+      "targetContent": "selection-01-04-06",
+      "position": "5.18 -0.39 -3.19",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-04-07",
+      "targetContent": "selection-01-04-07",
+      "position": "-0.33 1.03 -3.89",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-04-01": {
+    "title": "First Floor View 04",
+    "products": [
+      {
+        "id": "content-01-04-01-01",
+        "prevContent": "selection-01-04-01",
+        "title": "Shutter Bin Basket / Holder",
+        "cardImg": "media-first-floor-view-04/01-04-01-01-01.jpg",
+        "carouselId": "carousel-01-04-01-01",
+        "images": [
+          "media-first-floor-view-04/01-04-01-01-01.jpg",
+          "media-first-floor-view-04/01-04-01-01-02.jpg"
+        ],
+        "features": [
+          "Elegantly designed for good aesthets.",
+          "Manufactured out of stainless steel and electro polished.",
+          "Shutter Bin Baskets are ideal for mounting on the inside of the shutter.",
+          "Can store shutter bins conveniently.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Shutter Bin Basket</td><td>ZSB 13-10-14</td><td>330 x 250 x 350</td><td>-</td></tr><tr><td>Shutter Bin Holder</td><td>ZSBH 10-11-6</td><td>260 x 290 x140</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-01-02",
+        "prevContent": "selection-01-04-01",
+        "title": "Euro Slow Motion Hinge",
+        "cardImg": "media-first-floor-view-04/01-04-01-02-01.jpg",
+        "carouselId": "carousel-01-04-01-02",
+        "images": [
+          "media-first-floor-view-04/01-04-01-02-01.jpg"
+        ],
+        "features": [
+          "Max. opening:105°",
+          "Shutter cavity: Ø35mm, 11.4mm deep",
+          "Shutter Thickness: 14-22mm",
+          "Cycle test: 50,000 cycles",
+          "Finish: Nickel Plated",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Euro Slow Motion Hinge - Overlay</td><td>ZE-HSM1-M1</td><td>Ø35mm</td><td>Nickel Plated</td></tr><tr><td>Euro Slow Motion Hinge - Half-Overlay</td><td>ZE-HSM2-M1</td><td>Ø35mm</td><td>Nickel Plated</td></tr><tr><td>Euro Slow Motion Hinge - Inset</td><td>ZE-HSM3-M1</td><td>Ø35mm</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-04-02": {
+    "title": "First Floor View 02",
+    "products": [
+      {
+        "id": "content-01-04-02-01",
+        "prevContent": "selection-01-04-02",
+        "title": "Side Pullout",
+        "cardImg": "media-first-floor-view-04/01-04-02-01-01.jpg",
+        "carouselId": "carousel-01-04-02-01",
+        "images": [
+          "media-first-floor-view-04/01-04-02-01-01.jpg"
+        ],
+        "features": [
+          "For storing detergent bottles and other bottles under the counter in narrow spaces.",
+          "Manufactured out of stainless steel and electro polished.",
+          "Also available Frameless Side pullout baskets which can directly mount on slides.",
+          "Recommended to use Zipco / Ebco 400mm & 500mm depth slides.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Side Pullout Baskets</td><td>ZRA 4-20-3 SPB</td><td>100 505 75 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pullout Baskets</td><td>ZRA 6-20-3 SPB</td><td>150 505 75 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pullout Baskets</td><td>ZRA 8-20-3 SPB</td><td>200 505 75 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pullout Holders</td><td>ZSPH 16-23</td><td>400 580 (W H)</td><td>Stainless Steel</td></tr><tr><td>Side Pullout Holders</td><td>ZSPH 20-19</td><td>500 480 (W H)</td><td>Stainless Steel</td></tr><tr><td>Side Pullout Holders</td><td>ZSPH 20-23</td><td>500 580 (W H)</td><td>Stainless Steel</td></tr><tr><td>Side Pullout Holders</td><td>ZSPH 24-23</td><td>600 580 (W H)</td><td>Stainless Steel</td></tr><tr><td>Side Pull out Frameless - 3 Tier</td><td>ZSPOB 6-20-21 T</td><td>150 505 533 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pull out Frameless - 3 Tier</td><td>ZSPOB 8-20-21 T</td><td>200 505 533 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pull out Frameless - 2 Tier</td><td>ZSPOB 4-20-17 D</td><td>100 505 432 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pull out Frameless - 2 Tier</td><td>ZSPOB 6-20-17 D</td><td>150 505 432 (W D H)</td><td>Stainless Steel</td></tr><tr><td>Side Pull out Frameless - 2 Tier</td><td>ZSPOB 8-20-17 D</td><td>200 505 432 (W D H)</td><td>Stainless Steel</td></tr></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-02-02",
+        "prevContent": "selection-01-04-02",
+        "title": "Right Angle Basket - Cutlery",
+        "cardImg": "media-first-floor-view-04/01-04-02-02-01.jpg",
+        "carouselId": "carousel-01-04-02-02",
+        "images": [
+          "media-first-floor-view-04/01-04-02-02-01.jpg"
+        ],
+        "features": [
+          "For convenient storage and access of various cutlery.",
+          "Manufactured out of stainless steel and electro polished.",
+          "Designed to be used with 'Zipco' Ball Bearing Slides by direct assembly onto the mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Right Angle Basket - Cutlery</td><td>ZRA-15-20-4 CT</td><td>380 505 100 (W D H)</td><td rowspan='8'>-</td></tr><tr><td>ZRA-17-20-4 CT</td><td>430 505 100 (W D H)</td></tr><tr><td>ZRA-19-20-4 CT</td><td>480 505 100 (W D H)</td></tr><tr><td>ZRA-21-20-4 CT</td><td>530 505 100 (W D H)</td></tr><tr><td rowspan='4'>Right Angle Basket - Cutlery Eco</td><td>ZRA-15-20-4 CT E</td><td>380 505 100 (W D H)</td></tr><tr><td>ZRA-17-20-4 CT E</td><td>430 505 100 (W D H)</td></tr><tr><td>ZRA-19-20-4 CT E</td><td>480 505 100 (W D H)</td></tr><tr><td>ZRA-21-20-4 CT E</td><td>530 505 100 (W D H)</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-02-03",
+        "prevContent": "selection-01-04-02",
+        "title": "Right Angle Basket - Cup & Saucer",
+        "cardImg": "media-first-floor-view-04/01-04-02-03-01.jpg",
+        "carouselId": "carousel-01-04-02-03",
+        "images": [
+          "media-first-floor-view-04/01-04-02-03-01.jpg"
+        ],
+        "features": [
+          "For storing cups & saucers conveniently.",
+          "Manufactured out of stainless steel and electro polished.",
+          "Designed to be used with 'Zipco' Ball Bearing Slides by direct assembly onto the mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='5'>Right Angle Basket - Cup & Saucer</td><td>ZRA-15-16-4 CS</td><td>380 405 100 (W D H)</td><td rowspan='5'>-</td></tr><tr><td>ZRA-15-18-4 CS</td><td>380 455 100 (W D H)</td></tr><tr><td>ZRA-15-20-4 CS</td><td>380 505 100 (W D H)</td></tr><tr><td>ZRA-17-20-4 CS</td><td>430 505 100 (W D H)</td></tr><tr><td>ZRA-19-20-4 CS</td><td>480 505 100 (W D H)</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-02-04",
+        "prevContent": "selection-01-04-02",
+        "title": "Right Angle Basket - Thali",
+        "cardImg": "media-first-floor-view-04/01-04-02-04-01.jpg",
+        "carouselId": "carousel-01-04-02-04",
+        "images": [
+          "media-first-floor-view-04/01-04-02-04-01.jpg"
+        ],
+        "features": [
+          "For storing thalis conveniently.",
+          "Manufactured out of stainless steel and electro polished.",
+          "Designed to be used with 'Zipco' Ball Bearing Slides by direct assembly onto the mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Right Angle Basket - Thali</td><td>ZRA-15-16-8 TH</td><td>380 405 200 (W D H)</td><td rowspan='6'>-</td></tr><tr><td>ZRA-15-18-8 TH</td><td>380 455 200 (W D H)</td></tr><tr><td>ZRA-15-20-8 TH</td><td>380 505 200 (W D H)</td></tr><tr><td>ZRA-17-20-8 TH</td><td>430 505 200 (W D H)</td></tr><tr><td>ZRA-19-20-8 TH</td><td>480 505 200 (W D H)</td></tr><tr><td>ZRA-21-20-8 TH</td><td>530 505 200 (W D H)</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-02-05",
+        "prevContent": "selection-01-04-02",
+        "title": "Right Angle Basket - Plain",
+        "cardImg": "media-first-floor-view-04/01-04-02-05-01.jpg",
+        "carouselId": "carousel-01-04-02-05",
+        "images": [
+          "media-first-floor-view-04/01-04-02-05-01.jpg"
+        ],
+        "features": [
+          "For storing all kinds of kitchen articles conveniently.",
+          "Manufactured out of stainless steel electro polished.",
+          "Designed to be used with 'Zipco' Ball Bearing Slides by direct assembly onto the mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='18'>Right Angle Basket - Plain</td><td>ZRA-15-16-4</td><td>380 405 100 (W D H)</td><td rowspan='18'>-</td></tr><tr><td>ZRA-15-16-6</td><td>380 405 150 (W D H)</td></tr><tr><td>ZRA-15-16-8</td><td>380 405 200 (W D H)</td></tr><tr><td>ZRA-15-18-4</td><td>380 455 100 (W D H)</td></tr><tr><td>ZRA-15-18-6</td><td>380 455 150 (W D H)</td></tr><tr><td>ZRA-15-18-8</td><td>380 455 200 (W D H)</td></tr><tr><td>ZRA-15-20-4</td><td>380 505 100 (W D H)</td></tr><tr><td>ZRA-15-20-6</td><td>380 505 150 (W D H)</td></tr><tr><td>ZRA-15-20-8</td><td>380 505 200 (W D H)</td></tr><tr><td>ZRA-17-20-4</td><td>430 505 100 (W D H)</td></tr><tr><td>ZRA-17-20-6</td><td>430 505 150 (W D H)</td></tr><tr><td>ZRA-17-20-8</td><td>430 505 200 (W D H)</td></tr><tr><td>ZRA-19-20-4</td><td>480 505 100 (W D H)</td></tr><tr><td>ZRA-19-20-6</td><td>480 505 150 (W D H)</td></tr><tr><td>ZRA-19-20-8</td><td>480 505 200 (W D H)</td></tr><tr><td>ZRA-21-20-4</td><td>530 505 100 (W D H)</td></tr><tr><td>ZRA-21-20-6</td><td>530 505 150 (W D H)</td></tr><tr><td>ZRA-21-20-8</td><td>530 505 200 (W D H)</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-02-06",
+        "prevContent": "selection-01-04-02",
+        "title": "Right Angle Half Bottle Rack",
+        "cardImg": "media-first-floor-view-04/01-04-02-06-01.jpg",
+        "carouselId": "carousel-01-04-02-06",
+        "images": [
+          "media-first-floor-view-04/01-04-02-06-01.jpg"
+        ],
+        "features": [
+          "For storing all kind of kitchen articles & bottles conveniently.",
+          "Manufactured out of stainless steel & electro polished.",
+          "These elegantly designed baskets have width of 380, 430, 480.",
+          "Designed to be used with ‘Zipco’ Ball Bearing Slides by direct assembly onto the mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Right Angle Half Bottle Rack</td><td>ZRA-15-20-6 HBR</td><td>380 505 150 (W D H)</td><td>-</td></tr><tr><td>Right Angle Half Bottle Rack</td><td>ZRA-19-20-6 HBR</td><td>480 505 150 (W D H)</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-02-07",
+        "prevContent": "selection-01-04-02",
+        "title": "Ball Bearing Slides - 35 kg",
+        "cardImg": "media-first-floor-view-04/01-04-02-07-01.jpg",
+        "carouselId": "carousel-01-04-02-07",
+        "images": [
+          "media-first-floor-view-04/01-04-02-07-01.jpg"
+        ],
+        "features": [
+          "Precision ball bearing.",
+          "Full extension of drawer.",
+          "Load capacity of 35kgs.",
+          "Direct fitting from front.",
+          "Removable drawer with latch.",
+          "System 32 Installation.",
+          "Max Load : 35 Kgs",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Extension (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan=8>Ball Bearing Slides - 35 kg</td><td>2/1/STDS 25</td><td>260</td><td rowspan=8>Zinc White/ Zinc Black</td></tr><tr><td>2/1/STDS 35</td><td>360</td></tr><tr><td>2/1/STDS 40</td><td>410</td></tr><tr><td>2/1/STDS 45</td><td>460</td></tr><tr><td>2/1/STDS 50</td><td>510</td></tr><tr><td>2/1/STDS 55</td><td>560</td></tr><tr><td>2/1/STDS 60</td><td>610</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-04-03": {
+    "title": "First Floor View 04",
+    "products": [
+      {
+        "id": "content-01-04-03-01",
+        "prevContent": "selection-01-04-03",
+        "title": "Thin Wall Drawer System",
+        "cardImg": "media-first-floor-view-04/01-04-03-01-01.jpg",
+        "carouselId": "carousel-01-04-03-01",
+        "images": [
+          "media-first-floor-view-04/01-04-03-01-01.jpg",
+          "media-first-floor-view-04/01-04-03-01-02.jpg",
+          "media-first-floor-view-04/01-04-03-01-03.jpg",
+          "media-first-floor-view-04/01-04-03-01-04.jpg",
+          "media-first-floor-view-04/01-04-03-01-05.jpg"
+        ],
+        "features": [
+          "Thinnest side panel.",
+          "Side panel height: 80, 120 & 150mm",
+          "Full extension with soft close",
+          "Load capacity: 35kg",
+          "Available Length: 300, 350, 400, 450, 500, & 550mm",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Thin - Wall Drawer System 80</td><td>TDS1-30-AT</td><td>300</td><td rowspan='27'>Anthracite</td></tr><tr><td>TDS1-35-AT</td><td>350</td></tr><tr><td>TDS1-40-AT</td><td>400</td></tr><tr><td>TDS1-45-AT</td><td>450</td></tr><tr><td>TDS1-50-AT</td><td>500</td></tr><tr><td>TDS1-55-AT</td><td>550</td></tr><tr><td>Back Panel for Thin-Wall Drawer System 80</td><td>TDSBP-80</td><td>3mtr</td></tr><tr><td rowspan='6'>Thin - Wall Drawer System 120</td><td>TDS2-30-AT</td><td>300</td></tr><tr><td>TDS2-35-AT</td><td>350</td></tr><tr><td>TDS2-40-AT</td><td>400</td></tr><tr><td>TDS2-45-AT</td><td>450</td></tr><tr><td>TDS2-50-AT</td><td>500</td></tr><tr><td>TDS2-55-AT</td><td>550</td></tr><tr><td>Back Panel for Thin-Wall Drawer System 120</td><td>TDSBP-120</td><td>3mtr</td></tr><tr><td rowspan='6'>Thin - Wall Drawer System 150</td><td>TDS3-30-AT</td><td>300</td></tr><tr><td>TDS3-35-AT</td><td>350</td></tr><tr><td>TDS3-40-AT</td><td>400</td></tr><tr><td>TDS3-45-AT</td><td>450</td></tr><tr><td>TDS3-50-AT</td><td>500</td></tr><tr><td>TDS3-55-AT</td><td>550</td></tr><tr><td>Back Panel for Thin-Wall Drawer System 150</td><td>TDSBP-150</td><td>3mtr</td></tr><tr><td rowspan='6'>Thin - Wall Drawer System 180</td><td>TDS4-30-AT</td><td>300</td></tr><tr><td>TDS4-35-AT</td><td>350</td></tr><tr><td>TDS4-40-AT</td><td>400</td></tr><tr><td>TDS4-45-AT</td><td>450</td></tr><tr><td>TDS4-50-AT</td><td>500</td></tr><tr><td>TDS4-55-AT</td><td>550</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-04-04": {
+    "title": "First Floor View 04",
+    "products": [
+      {
+        "id": "content-01-04-04-01",
+        "prevContent": "selection-01-04-04",
+        "title": "Kitchen Drawer Rack Plate & Thali",
+        "cardImg": "media-first-floor-view-04/01-04-04-01-01.jpg",
+        "carouselId": "carousel-01-04-04-01",
+        "images": [
+          "media-first-floor-view-04/01-04-04-01-01.jpg"
+        ],
+        "features": [
+          "Portable Kitchen Plate & Thali Rack.",
+          "Can be positioned inside drawers, cabinets, or on the kitchen countertop.",
+          "Designed for convenience, has a handle grip so that it can be comfortably carried.",
+          "Has PU coating to protect thalis/plates from scratches.",
+          "Rubber bush prevents the rack from moving, slipping, or scratching the surface on which it is placed.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='2'>Kitchen Drawer Rack - Thali</td><td>ZKDR-18T</td><td>453 163 146 (W D H)</td><td rowspan='4'>Stainless Steel</td></tr><tr><td>ZKDR-20T</td><td>503 163 146 (W D H)</td></tr><tr><td rowspan='2'>Kitchen Drawer Rack - Plate</td><td>ZKDR-18P</td><td>453 136 91 (W D H)</td></tr><tr><td>ZKDR-20P</td><td>503 136 91 (W D H)</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-04-05": {
+    "title": "First Floor View 04",
+    "products": [
+      {
+        "id": "content-01-04-05-01",
+        "prevContent": "selection-01-04-05",
+        "title": "Appliance Castors",
+        "cardImg": "media-first-floor-view-04/01-04-05-01-01.jpg",
+        "carouselId": "carousel-01-04-05-01",
+        "images": [
+          "media-first-floor-view-04/01-04-05-01-01.jpg",
+          "media-first-floor-view-04/01-04-05-01-02.jpg",
+          "media-first-floor-view-04/01-04-05-01-03.jpg"
+        ],
+        "features": [
+          "Appliance Castors are ideal for heavy appliances like fridges, washing machines and cooking range.",
+          "Available in fixed and mounted swivel.",
+          "Also with Nylon or Phenolic (Fibre) wheels.",
+          "<table><thead><tr><td colspan='4'>Appliance Castors (without bearings)</td></tr><tr><td>Item</td><td>Item Code</td><td>Wheel Dia. (in mm)</td><td>Plate Size (in mm)</td></tr></thead><tbody><tr><td>Fixed 4-Wheel (Nylon)</td><td>1/4/FN4C</td><td>32</td><td rowspan='2'>39x49</td></tr><tr><td>Fixed 4-Wheel (PU)</td><td>1/4/FPU4C</td><td>34</td></tr><tr><td>Swivel 4-Wheel (Nylon)</td><td>1/4/SN4C</td><td>32</td><td rowspan='2'>55x58</td></tr><tr><td>Swivel 4-Wheel (PU)</td><td>1/4/SPU4C</td><td>34</td></tr><tr><td>Fixed 6-Wheel (Nylon)</td><td>1/4/FN6C</td><td>32</td><td rowspan='2'>40x63</td></tr><tr><td>Fixed 6-Wheel (PU)</td><td>1/4/PU6C</td><td>34</td></tr><tr><td>Swivel 6-Wheel (Nylon)</td><td>1/4/SN6C</td><td>32</td><td rowspan='2'>58x98</td></tr><tr><td>Swivel 6-Wheel (PU)</td><td>1/4/SPU6C</td><td>34</td></tr></tbody></table><table><thead><tr><td colspan='4'>Appliance Castors (with bearings)</td></tr><tr><td>Item</td><td>Item Code</td><td>Wheel Dia. (in mm)</td><td>Plate Size (in mm)</td></tr></thead><tbody><tr><td>Fixed 4-Wheel</td><td>1/4/FBW4C</td><td>32</td><td>39x49</td></tr><tr><td>Swivel 4-Wheel</td><td>1/4/SBW4C</td><td>32</td><td>55x58</td></tr><tr><td>Fixed 6-Wheel</td><td>1/4/FBW6C</td><td>32</td><td>40x63</td></tr><tr><td>Swivel 6-Wheel</td><td>1/4/SBW6C</td><td>32</td><td>58x98</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-05-02",
+        "prevContent": "selection-01-04-05",
+        "title": "Swivel Castors - Polycarbonate",
+        "cardImg": "media-first-floor-view-04/01-04-05-02-01.jpg",
+        "carouselId": "carousel-01-04-05-02",
+        "images": [
+          "media-first-floor-view-04/01-04-05-02-01.jpg",
+          "media-first-floor-view-04/01-04-05-02-02.jpg",
+          "media-first-floor-view-04/01-04-05-02-03.jpg",
+          "media-first-floor-view-04/01-04-05-02-04.jpg",
+          "media-first-floor-view-04/01-04-05-02-05.jpg",
+          "media-first-floor-view-04/01-04-05-02-06.jpg"
+        ],
+        "features": [
+          "Designed for higher loads to suit various applications.",
+          "Plate type mount with brake and without brake.",
+          "Ruggedly constructed with double ball bearing to take load.",
+          "Material: Polycarbonate.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Wheel Dia. (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Swivel Castor ø35mm with Brake</td><td>1/5/P35 PB</td><td>ø35</td><td rowspan='6'>Fumed</td></tr><tr><td>Swivel Castor ø35mm without Brake</td><td>1/5/P35 P</td><td>ø35</td></tr><tr><td>Swivel Castor ø35mm with 2 Brakes</td><td>1/5/P35 PB-2</td><td>ø35</td></tr><tr><td>Swivel Castor ø50mm with Brake</td><td>1/5/P50 PB</td><td>ø50</td></tr><tr><td>Swivel Castor ø50mm without Brake</td><td>1/5/P50 P</td><td>ø50</td></tr><tr><td>Swivel Castor ø50mm with 2 Brakes</td><td>1/5/P50 PB-2</td><td>ø50</td></tr><tr><td>Swivel Castor ø75mm with Brake</td><td>1/5/P75 PB</td><td>ø75</td><td>-</td></tr><tr><td>Swivel Castor ø75mm without Brake</td><td>1/5/P75 P</td><td>ø75</td><td>-</td></tr><tr><td>Swivel Castor ø75mm with Brakes</td><td>1/5/P75 PB-2</td><td>ø75</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-05-03",
+        "prevContent": "selection-01-04-05",
+        "title": "Twin Wheel Castor",
+        "cardImg": "media-first-floor-view-04/01-04-05-03-01.jpg",
+        "carouselId": "carousel-01-04-05-03",
+        "images": [
+          "media-first-floor-view-04/01-04-05-03-01.jpg",
+          "media-first-floor-view-04/01-04-05-03-02.jpg",
+          "media-first-floor-view-04/01-04-05-03-03.jpg"
+        ],
+        "features": [
+          "Twin Wheel Castors are designed for smooth running and long life.",
+          "Manufactured out of glass filled nylon.",
+          "Available in 2 type mounts - Plate & Thread.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Twin wheel (Plate / Thread)*</td><td>1/1/N40</td><td>40</td><td rowspan='4'>Black</td></tr><tr><td>Twin wheel with brake (Plate / Thread)*</td><td>1/1/N40B</td><td>40</td></tr><tr><td>Twin wheel (Plate / Thread)*</td><td>1/1/N50</td><td>50</td></tr><tr><td>Twin wheel with brake (Plate / Thread)*</td><td>1/1/N50B</td><td>50</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-04-06": {
+    "title": "First Floor View 04",
+    "products": [
+      {
+        "id": "content-01-04-06-01",
+        "prevContent": "selection-01-04-06",
+        "title": "Kitchen Utility Trolley Basket (3 Tier)",
+        "cardImg": "media-first-floor-view-04/01-04-06-01-01.jpg",
+        "carouselId": "carousel-01-04-06-01",
+        "images": [
+          "media-first-floor-view-04/01-04-06-01-01.jpg"
+        ],
+        "features": [
+          "For Storing vegetables conveniently.",
+          "Manufactured out of Stainless Steel & Electro polished.",
+          "Designed for easy accessibility.",
+          "Easy to assemble.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Utility Trolley Basket (3 Tier)</td><td>ZUT 15-12-24</td><td>-</td><td>Polished Stainless Steel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-06-02",
+        "prevContent": "selection-01-04-06",
+        "title": "Kitchen Counter Utility Trolley Basket (2 Tier)",
+        "cardImg": "media-first-floor-view-04/01-04-06-02-01.jpg",
+        "carouselId": "carousel-01-04-06-02",
+        "images": [
+          "media-first-floor-view-04/01-04-06-02-01.jpg"
+        ],
+        "features": [
+          "For Storing vegetables conveniently.",
+          "Manufactured out of Stainless Steel & Electro polished.",
+          "Designed for easy accessibility.",
+          "Easy to assemble.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Counter Utility Trolley Basket (2 Tier)</td><td>ZUT 15-12-15</td><td>-</td><td>Polished Stainless Steel</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-04-07": {
+    "title": "First Floor View 04",
+    "products": [
+      {
+        "id": "content-01-04-07-01",
+        "prevContent": "selection-01-04-07",
+        "title": "Kitchen Wall Hanging Accessories",
+        "cardImg": "media-first-floor-view-04/01-04-07-01-01.jpg",
+        "carouselId": "carousel-01-04-07-01",
+        "images": [
+          "media-first-floor-view-04/01-04-07-01-01.jpg"
+        ],
+        "features": [
+          "For storing all kinds of bottles and jars conveniently on the wall.",
+          "Manufactured out of stainless steel and electro polished.",
+          "Special rack for corners.",
+          "Special rack for storage of kitchen towels, cling film and aluminium foil.",
+          "Multipurpose plate rack for storing cup & saucers conveniently.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Paper-Towel Rack</td><td>ZKWA - T</td><td>350 350 165 (W D H)</td><td>-</td></tr><tr><td>Kitchen Corner Rack</td><td>ZKWA - C</td><td>350 280 300 (W D H)</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-04-07-02",
+        "prevContent": "selection-01-04-07",
+        "title": "Wine Glass Holder",
+        "cardImg": "media-first-floor-view-04/01-04-07-02-01.jpg",
+        "carouselId": "carousel-01-04-07-02",
+        "images": [
+          "media-first-floor-view-04/01-04-07-02-01.jpg",
+          "media-first-floor-view-04/01-04-07-02-02.jpg"
+        ],
+        "features": [
+          "Ideal for hanging wine glasses.",
+          "Perfect glass organizer for kitchen, restaurant, etc.",
+          "Protect your glasses from getting chipped or cracked.",
+          "The wine glass holder easily mounts under shelves or under cabinets.",
+          "Available in two variations - Single (3 Glasses)/ Double (6 Glasses)",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Wine Glass Holder(Single)</td><td>ZWGHS 4-14-3</td><td>110 X 350 X 65mm</td><td rowspan='2'>Stainless Steel</td></tr><tr><td>Wine Glass Holder(Double)</td><td>ZWGHD 8-14-3</td><td>210 X 350 X 65mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
