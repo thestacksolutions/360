@@ -1,0 +1,520 @@
+{
+  "sceneConfig": {
+    "panorama": "media-first-floor-view-06/first-floor-view-06.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-06-01",
+      "targetContent": "selection-01-06-01",
+      "position": "-5.29 -0.45 1.06",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-06-02",
+      "targetContent": "selection-01-06-02",
+      "position": "-7.07 0.38 4.29",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-06-03",
+      "targetContent": "selection-01-06-03",
+      "position": "-6.33 1.38 4.29",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-06-04",
+      "targetContent": "selection-01-06-04",
+      "position": "0.00 1.95 -4.72",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-06-05",
+      "targetContent": "selection-01-06-05",
+      "position": "1.34 -0.45 -6.64",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-06-01": {
+    "title": "First Floor View 06",
+    "products": [
+      {
+        "id": "content-01-06-01-01",
+        "prevContent": "selection-01-06-01",
+        "title": "Smart Lift Single-Leg Gas Lift Centre Pole Tilt (With Tabletop)",
+        "cardImg": "media-first-floor-view-06/01-06-01-01-01.jpg",
+        "carouselId": "carousel-01-06-01-01",
+        "images": [
+          "media-first-floor-view-06/01-06-01-01-01.jpg",
+          "media-first-floor-view-06/01-06-01-01-02.jpg",
+          "media-first-floor-view-06/01-06-01-01-03.jpg",
+          "media-first-floor-view-06/01-06-01-01-04.jpg",
+          "media-first-floor-view-06/01-06-01-01-05.jpg",
+          "media-first-floor-view-06/01-06-01-01-06.jpg"
+        ],
+        "features": [
+          "Comes with Height Adjustments control buttons for up/down movements",
+          "built-in castors enable easy movement",
+          "Height adjustment: 707 to 1093mm (with caster)",
+          "Stroke: 386mm",
+          "Speed: 28mm/s",
+          "Load capacity:  Dynamic 4~6 kg, Static: 50 kg",
+          "Tabletop tilt angle adjustment: 0° - 90°",
+          "Includes Table Top",
+          "Top Size: 700 x 500 x 25mm",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Smart Lift Single Leg Gas Lift Centre Pole Tilt (With Table Top)</td><td>SLSL2-GTT-CPT</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-06-02": {
+    "title": "First Floor View 06",
+    "products": [
+      {
+        "id": "content-01-06-02-01",
+        "prevContent": "selection-01-06-02",
+        "title": "Smart Lift Electric Basic 3",
+        "cardImg": "media-first-floor-view-06/01-06-02-01-01.jpg",
+        "carouselId": "carousel-01-06-02-01",
+        "images": [
+          "media-first-floor-view-06/01-06-02-01-01.jpg",
+          "media-first-floor-view-06/01-06-02-01-02.jpg"
+        ],
+        "features": [
+          "Smart lift with single motor mechanism for smooth height transitions.",
+          "Digital panel with 4 memory settings for quick sit-stand adjustment.",
+          "Height adjustment: 695 to 1175mm, Width adjustment: 830 to 1320mm",
+          "Stroke: 480mm, Speed: 20mm/sec, Voltage: 100-240V",
+          "Load capacity: Dynamic: 60kg, Static: 70kg",
+          "Recommended tabletop size: width up to 1600mm & depth up to 650mm (tabletop not included).",
+          "<table><thead><tr><th style='width: 25%;'>Item</th><th style='width: 19%;'>Code</th><th style='width: 38%;'>Size (in mm)</th><th style='width: 18%;'>Finish</th></tr></thead><tbody><tr><td>Smart Lift Electric Basic-3</td><td>SLTLB3-E-AT</td><td>Height Range: 695-1175mm, Height Range (Digital): 71-119cm, Speed: 20mm/s, Max Loading: 60KG, Sound Level: ≤50dB, Frame Size: 830-1320mm, Bracket: 450mm, Feet Length: 600mm, Matched Desktop Size: 1000-1600mm (L) 500-600mm (W), Operating Voltage: 100-240V</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-02-02",
+        "prevContent": "selection-01-06-02",
+        "title": "Table Tops for Smart lifts - 18mm",
+        "cardImg": "media-first-floor-view-06/01-06-02-02-01.png",
+        "carouselId": "carousel-01-06-02-02",
+        "images": [
+          "media-first-floor-view-06/01-06-02-02-01.png",
+          "media-first-floor-view-06/01-06-02-02-02.png",
+          "media-first-floor-view-06/01-06-02-02-03.jpg",
+          "media-first-floor-view-06/01-06-02-02-04.png"
+        ],
+        "features": [
+          "These ready-to-mount tops are designed for use with our range of Smart Lift Height Adjustable Desk Legs by WorkSmart (to be purchased separately)",
+          "They are made of pre-laminated Medium Density Fibreboard (MDF)",
+          "Available in 2 sizes:",
+          "Depth 750m x Width 1200mm x Thickness 18mm",
+          "Depth 750mm x Width 1500mm x Thickness 18mm",
+          "Available in two finishes: Frosty White (FW) and Classic Walnut (WN)",
+          "Please see the compatibility below that shows recommended use of Table Top sizes with specific models of Smart Lift Height Adjustable Desk Legs.",
+          "Compatible with: SLTLP2-E / SLTL2-E",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td colspan='1' rowspan='2'>Table Tops for Smart lifts -18mm Frosty White</td><td>SLTT1-75120FW</td><td>750 x 1200 x 18 mm</td><td colspan='1' rowspan='2'>Frosty White</td></tr><tr><td>SLTT1-75150FW</td><td>750 x 1500 x 18 mm</td></tr><tr><td colspan='1' rowspan='2'>Table Tops for Smart lifts -18mm Classic Walnut</td><td>SLTT1-75120WN</td><td>750 x 1200 x 18 mm</td><td colspan='1' rowspan='2'>Classic Walnut</td></tr><tr><td>SLTT1-75150WN</td><td>750 x 1500 x 18 mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-06-03": {
+    "title": "First Floor View 06",
+    "products": [
+      {
+        "id": "content-01-06-03-01",
+        "prevContent": "selection-01-06-03",
+        "title": "Multi-Screen Monitor Arm 2 - Edge Mount",
+        "cardImg": "media-first-floor-view-06/01-06-03-01-01.jpg",
+        "carouselId": "carousel-01-06-03-01",
+        "images": [
+          "media-first-floor-view-06/01-06-03-01-01.jpg"
+        ],
+        "features": [
+          "Mount your screen seamlessly with edge mount application",
+          "Tilt your screen effortlessly within a range of +60° to -85°",
+          "Swivel your screen with a range of -90° to +90° for versatile positioning",
+          "Rotate your screen a full 360° for optimal viewing angles",
+          "Extend your screen reach from 385mm to 560mm as needed",
+          "Supports VESA compatibility with 75x75 & 100x100 configurations",
+          "Concealed wire management ensures tidy cable organization",
+          "Each arm boasts a load capacity of up to 8 kgs per screen",
+          "Suitable for screen sizes ranging from 13 inches to 27 inches",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Multi-Screen Monitor Arm 2 - Edge Mount</td><td>MSMA2-EM</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-06-04": {
+    "title": "First Floor View 06",
+    "products": [
+      {
+        "id": "content-01-06-04-01",
+        "prevContent": "selection-01-06-04",
+        "title": "2 Way Syncro Sliding Partition System 100 - Soft Close (For Wood 2+2 doors)",
+        "cardImg": "media-first-floor-view-06/01-06-04-01-01.jpg",
+        "carouselId": "carousel-01-06-04-01",
+        "images": [
+          "media-first-floor-view-06/01-06-04-01-01.jpg"
+        ],
+        "features": [
+          "Specially designed fittings for wood sliding partition",
+          "Floor-to-ceiling installation with top sliding track",
+          "Soft-close & soft opening function allows the door to close in slow motion without banging",
+          "High precise roller, stable, smooth & silent sliding.",
+          "Door weight: ≤ 80kg.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>2 Way Syncro Sliding Partition System 100 - Soft Close (For Wood 2+2 doors)</td><td>SSPS-100W-SC</td><td>-</td><td>Titanium</td></tr><tr><td rowspan='3'>Top Sliding Track (for Sliding Door/Partition System)</td><td>TST-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TST-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TST-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td rowspan='2'>Bottom Guide Track (for Sliding Door/Partition System)</td><td>BGT-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>BGT-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td rowspan='3'>Top Track Cover Profile (for Sliding Door/Partition System)</td><td>TTCP-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TTCP-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TTCP-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-04-02",
+        "prevContent": "selection-01-06-04",
+        "title": "Decor Handle Zen 5",
+        "cardImg": "media-first-floor-view-06/01-06-04-02-01.jpg",
+        "carouselId": "carousel-01-06-04-02",
+        "images": [
+          "media-first-floor-view-06/01-06-04-02-01.jpg",
+          "media-first-floor-view-06/01-06-04-02-02.jpg"
+        ],
+        "features": [
+          "Zen Decor Handles are ideal for modern furniture",
+          "Suitable for all type of pull drawers, wardrobes, cabinets, etc.",
+          "Available in different design to choose from",
+          "Finish: AD (Anthracite Dust), BD (Black Dust), GD (Gold Dust)",
+          "Comes in Set of 2pcs",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Décor Handle Zen 5</td><td>DHZ5</td><td>19 x 50 x 180 (HxDxL)</td><td>Gold Dust / Black Dust / Anthracite Dust</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-06-05": {
+    "title": "First Floor View 06",
+    "products": [
+      {
+        "id": "content-01-06-05-01",
+        "prevContent": "selection-01-06-05",
+        "title": "Vertebrae (Oval)",
+        "cardImg": "media-first-floor-view-06/01-06-05-01-01.jpg",
+        "carouselId": "carousel-01-06-05-01",
+        "images": [
+          "media-first-floor-view-06/01-06-05-01-01.jpg",
+          "media-first-floor-view-06/01-06-05-01-02.jpg"
+        ],
+        "features": [
+          "Used at work stations or desks to neatly conceal electrical and data cables separately.",
+          "It enhances the aesthetics of your work space.",
+          "Manufactured out of plastic and is flexible.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Vertebrae (Oval)</td><td>VO2</td><td>-</td><td>White / Grey / Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-02",
+        "prevContent": "selection-01-06-05",
+        "title": "Vertebrae (Rectangular)",
+        "cardImg": "media-first-floor-view-06/01-06-05-02-01.png",
+        "carouselId": "carousel-01-06-05-02",
+        "images": [
+          "media-first-floor-view-06/01-06-05-02-01.png",
+          "media-first-floor-view-06/01-06-05-02-02.jpg"
+        ],
+        "features": [
+          "Used at work stations or desks to neatly conceal electrical and data cables separately.",
+          "It enhances the aesthetics of your work space.",
+          "Manufactured out of plastic and is flexible.",
+          "System 32 compatible.",
+          "Includes a built-in counter weight at base.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Vertebrae (Rectangular)</td><td>VR2</td><td>Length: 790mm</td><td>White / Grey / Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-03",
+        "prevContent": "selection-01-06-05",
+        "title": "Cable Organiser Ø20mm & Ø30mm",
+        "cardImg": "media-first-floor-view-06/01-06-05-03-01.jpg",
+        "carouselId": "carousel-01-06-05-03",
+        "images": [
+          "media-first-floor-view-06/01-06-05-03-01.jpg",
+          "media-first-floor-view-06/01-06-05-03-02.jpg",
+          "media-first-floor-view-06/01-06-05-03-03.jpeg",
+          "media-first-floor-view-06/01-06-05-03-04.jpg",
+          "media-first-floor-view-06/01-06-05-03-05.jpg",
+          "media-first-floor-view-06/01-06-05-03-06.jpg",
+          "media-first-floor-view-06/01-06-05-03-07.jpg"
+        ],
+        "features": [
+          "Ideal solution for organising & protecting.",
+          "Retrofit Cables & Wires without dismantling.",
+          "Add, remove, replace or reuse easily.",
+          "Enables branching of cable at any point.",
+          "Colour coding for safety audits.",
+          "Manage Cables/Wires of: Televisions, Computers, Home Theatres, Manufacturing, Product Assembly Lines, Computer workstations, Conference Rooms, Sound, Lighting, Events, CCTV Surveillance, Security Systems, Hospital Equipment's, Dental Clinics, Data Centres, Server Racks, ATM Centres.",
+          "Available in different sizes & colours - Silver, Black & White.",
+          "Note : Tool for Cable Organiser is available only in Ebco Blue Finish.",
+          "A cable organizer tool, tailored to various sizes, is included in the package. If anyone wishes to purchase additional units, they are also available separately. Please ref. Specification table for more details",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Cable Organiser - Ø20mm</td><td>CO20-1.5</td><td rowspan='3'>Ø20mm</td><td rowspan='3'>Silver / Black / White</td></tr><tr><td>CO20-10</td></tr><tr><td>CO20-50</td></tr><tr><td>Tool for Cable organiser</td><td>TCO2</td><td>20mm</td><td>Ebco Blue</td></tr><tr><td rowspan='3'>Cable Organiser - Ø30mm</td><td>CO30- 1.5</td><td rowspan='3'>Ø30mm</td><td rowspan='3'>Silver / Black / White</td></tr><tr><td>CO30-10</td></tr><tr><td>CO30-50</td></tr><tr><td>Tool for Cable organiser</td><td>TCO3</td><td>30mm</td><td>Ebco Blue</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-04",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box with Sockets - Soft Close",
+        "cardImg": "media-first-floor-view-06/01-06-05-04-01.jpg",
+        "carouselId": "carousel-01-06-05-04",
+        "images": [
+          "media-first-floor-view-06/01-06-05-04-01.jpg",
+          "media-first-floor-view-06/01-06-05-04-02.jpg",
+          "media-first-floor-view-06/01-06-05-04-03.jpg",
+          "media-first-floor-view-06/01-06-05-04-04.jpg",
+          "media-first-floor-view-06/01-06-05-04-05.jpg"
+        ],
+        "features": [
+          "These electric box with sockets are ideal for any conference table, work desk or countertops.",
+          "Available in 3 different combinations: 6 Module, 8 Module & 10 Module.",
+          "Unique design with soft-close flip up lid that hides the socket when not in use.",
+          "In-built LED light for on-off indication.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Electric Box 6 Module with Sockets - Soft Close (1 Power + 2 USBA + 1 USBC + 1 Switch &amp; Shield)</td><td>EBS6SC1</td><td>219 x 119 x 103</td><td rowspan='4'>Anthracite</td></tr><tr><td>Electric Box 6 Module with Sockets - Soft Close (2 Power + 2 CAT6 &amp; Shield)</td><td>EBS6SC2</td><td>219 x 119 x 103</td></tr><tr><td>Electric Box 8 Module with Sockets - Soft Close (2 Power + 1 USBA + 1 USBC + 1 Switch + 1 CAT6 &amp; Shield)</td><td>EBS8SC1</td><td>268 x 119 x 103</td></tr><tr><td>Electric Box 10 Module with Sockets - Soft Close (3 Power + 1 USBA + 1 USBC + 1 Switch + 1 CAT6 &amp; Shield)</td><td>EBS10SC1</td><td>316 x 119 x 103</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-05",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box - Flip Up",
+        "cardImg": "media-first-floor-view-06/01-06-05-05-01.jpg",
+        "carouselId": "carousel-01-06-05-05",
+        "images": [
+          "media-first-floor-view-06/01-06-05-05-01.jpg"
+        ],
+        "features": [
+          "Unique design with flip up lid that hides sockets when not in use.",
+          "Clutter Free desk with no additional wires or codes attached.",
+          "The unit includes : 2 Universal Power Socket, 2 USB Fast Charger (Type A + Type C) and 1 HDMI.",
+          "Ideal for furniture in offices, meeting rooms, institutions, etc.",
+          "Dimension: 228 x 158 x 50 mm.",
+          "Desktop Cut-out Size: 216 x 150 mm.",
+          "Input Voltage: 110 - 250 V",
+          "Power: Max. 2300W",
+          "Charger Available: No",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Electric Box - Flip Up (with 2 Universal Power Sockets + 2 USB Fast Charger + 1 HDMI)</td><td>EBS-FU2</td><td>228 x 158 x 50mm, Desktop Hole Size: 216x150mm</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-06",
+        "prevContent": "selection-01-06-05",
+        "title": "6 Module Electric Box - Edge Mount",
+        "cardImg": "media-first-floor-view-06/01-06-05-06-01.jpg",
+        "carouselId": "carousel-01-06-05-06",
+        "images": [
+          "media-first-floor-view-06/01-06-05-06-01.jpg",
+          "media-first-floor-view-06/01-06-05-06-02.webp",
+          "media-first-floor-view-06/01-06-05-06-03.webp",
+          "media-first-floor-view-06/01-06-05-06-04.webp",
+          "media-first-floor-view-06/01-06-05-06-05.webp",
+          "media-first-floor-view-06/01-06-05-06-06.webp"
+        ],
+        "features": [
+          "Electrical box designed to be mounted on the edge of a table or desk to provide convenient access to electrical outlets",
+          "Features two universal power sockets with an individual capacity of 6A each",
+          "Includes built-in USB chargers with one Type-A and one Type-C port",
+          "Delivers a stable USB output of 5V/2.4A for quick smart device charging with wide operating voltage range from 165V to 265V AC",
+          "Equipped with a master control switch to turn off power to all connected ports",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>6 Module Electric Box - Edge Mount (2 Power + 1USBC + 1 USBA + Switch with 2mtr chord & Plug)</td><td>EB6-EM</td><td>212 x 70 x 79 mm, Screw Hole: Ø 5.50 mm</td><td>Black</td></tr><tr><td>6 Module Electric Box - Edge Mount with Mounting Profile (2 Power +1 USBC + 1 USBA + Switch with 2 Meter Wire)</td><td>EB6-EM-MP</td><td>212 x 88 x 160 mm</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-07",
+        "prevContent": "selection-01-06-05",
+        "title": "6 Module Electric Box - Ceiling Mount",
+        "cardImg": "media-first-floor-view-06/01-06-05-07-01.jpg",
+        "carouselId": "carousel-01-06-05-07",
+        "images": [
+          "media-first-floor-view-06/01-06-05-07-01.jpg",
+          "media-first-floor-view-06/01-06-05-07-02.jpg",
+          "media-first-floor-view-06/01-06-05-07-03.jpg",
+          "media-first-floor-view-06/01-06-05-07-04.png",
+          "media-first-floor-view-06/01-06-05-07-05.png",
+          "media-first-floor-view-06/01-06-05-07-06.jpg"
+        ],
+        "features": [
+          "Electrical box designed to be mounted under the table or desk to provide convenient access to electrical outlets",
+          "Output for Universal power sockets: Individual capacity of 6A",
+          "Output for USB chargers: 5V/2.4A, operating voltage of 165V-265VAC",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>6 Module Electric Box - Celling Mount (2 Power + 1USBC + 1 USBA + Switch with 2mtr chord & Plug)</td><td>EB6-CM</td><td>210 x 51 x 70 mm</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-08",
+        "prevContent": "selection-01-06-05",
+        "title": "5 Module Electric Box Top Mount",
+        "cardImg": "media-first-floor-view-06/01-06-05-08-01.jpg",
+        "carouselId": "carousel-01-06-05-08",
+        "images": [
+          "media-first-floor-view-06/01-06-05-08-01.jpg",
+          "media-first-floor-view-06/01-06-05-08-02.png",
+          "media-first-floor-view-06/01-06-05-08-03.gif",
+          "media-first-floor-view-06/01-06-05-08-04.png",
+          "media-first-floor-view-06/01-06-05-08-05.jpg",
+          "media-first-floor-view-06/01-06-05-08-06.jpg"
+        ],
+        "features": [
+          "Compact Design With Safe Plastic Construction.",
+          "Perfect for workspaces, conference/meeting rooms, institutions and home appliances.",
+          "Available in 5 Module.",
+          "Easy For Wiring & Installation.",
+          "In-built LED light for on-off indication.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>5 Module Electric Box Top Mount (1 Switch + 1 Power + 1 USBC + 1 USBA )</td><td>EB5</td><td>165mm X 70mm</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-09",
+        "prevContent": "selection-01-06-05",
+        "title": "USB A & C Type Round Table Socket",
+        "cardImg": "media-first-floor-view-06/01-06-05-09-01.jpg",
+        "carouselId": "carousel-01-06-05-09",
+        "images": [
+          "media-first-floor-view-06/01-06-05-09-01.jpg",
+          "media-first-floor-view-06/01-06-05-09-02.jpg",
+          "media-first-floor-view-06/01-06-05-09-03.jpg",
+          "media-first-floor-view-06/01-06-05-09-04.jpg",
+          "media-first-floor-view-06/01-06-05-09-05.jpg"
+        ],
+        "features": [
+          "Dual USB A & USB C charger socket that converts any furniture into a smart charging unit.",
+          "Ideal for home and office furniture.",
+          "Hole Dia. 30mm (Through Hole).",
+          "Board thickness max. 25mm.",
+          "Size ⌀35, Wire length : 1.7mtr.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>USB A & C Type Round Table Socket</td><td>USB-AC35</td><td>Ø 35mm</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-10",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box with Cable Manager 3",
+        "cardImg": "media-first-floor-view-06/01-06-05-10-01.jpg",
+        "carouselId": "carousel-01-06-05-10",
+        "images": [
+          "media-first-floor-view-06/01-06-05-10-01.jpg",
+          "media-first-floor-view-06/01-06-05-10-02.png",
+          "media-first-floor-view-06/01-06-05-10-03.png"
+        ],
+        "features": [
+          "Ideal electric box for furniture in offices, conference/meeting rooms, institution, and home applications.",
+          "This has Dual USB Chargers (Type A & Type C), HDMI Socket, CAT 6 & 1 Universal power socket.",
+          "This compact fitting comes with a special lid that hides the socket when not in use.",
+          "Keeps your cable organized thereby providing clear access to the data/power sockets.",
+          "Input voltage: 110V - 250V",
+          "Power: Max. 2300W",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Electric Box With Cable Manager 3 (with 2 USB Sockets (Type A + Type C), 1 Universal Power Socket, Cat 6 and HDMI Socket)</td><td>EBCM3</td><td>182 x 52 x 27 mm (Cut out: As per Drawing), INPUT Voltage: 110V - 250V, Power: MAX 2300W</td><td>Black / White</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-11",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box 2 Way",
+        "cardImg": "media-first-floor-view-06/01-06-05-11-01.jpg",
+        "carouselId": "carousel-01-06-05-11",
+        "images": [
+          "media-first-floor-view-06/01-06-05-11-01.jpg",
+          "media-first-floor-view-06/01-06-05-11-02.jpg",
+          "media-first-floor-view-06/01-06-05-11-03.jpg"
+        ],
+        "features": [
+          "Unique flip up lid that gives access to switches beneath the table from both the sides",
+          "Lid with built-in soft close mechanism to hide the socket when not in use.",
+          "Built-in soft close mechanism",
+          "Available in 450, 500, 600mm length",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Electric Box 2 Way 45</td><td>EB2W45</td><td>470 X 148 X 28</td><td>White Texture, Anthracite, Black Texture</td></tr><tr><td>Electric Box 2 Way 50</td><td>EB2W50</td><td>520 X 148 X 28</td><td>White Texture, Anthracite, Black Texture</td></tr><tr><td>Electric Box 2 Way 60</td><td>EB2W60</td><td>620 X 148 X 28</td><td>White Texture, Anthracite, Black Texture</td></tr></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-12",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box Round",
+        "cardImg": "media-first-floor-view-06/01-06-05-12-01.jpg",
+        "carouselId": "carousel-01-06-05-12",
+        "images": [
+          "media-first-floor-view-06/01-06-05-12-01.jpg",
+          "media-first-floor-view-06/01-06-05-12-02.webp",
+          "media-first-floor-view-06/01-06-05-12-03.webp",
+          "media-first-floor-view-06/01-06-05-12-04.webp",
+          "media-first-floor-view-06/01-06-05-12-05.webp"
+        ],
+        "features": [
+          "Grommet mounted for easy integration into desks or surfaces.",
+          "Single switch controls all outputs",
+          "Safety shutters protection for sockets",
+          "Includes a locking clamp ring for secure and stable mounting",
+          "250V Single Phase 50/60 Hz",
+          "Output for Universal power sockets: 6-13Amps",
+          "Output for USB chargers: 35W (single use)",
+          "Compatible for 18 to 25 mm board",
+          "Overall dimension of Ø 90mm x 76mm fits neatly in standard desk cutouts (Ø 80mm).",
+          "Can use a separate direct three core connector for easy connection",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Electric Box Round</td><td>EBR1-BL</td><td>Ø 90mm x 76mm Cutout Dia: 80mm</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-13",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box Slim 3",
+        "cardImg": "media-first-floor-view-06/01-06-05-13-01.jpg",
+        "carouselId": "carousel-01-06-05-13",
+        "images": [
+          "media-first-floor-view-06/01-06-05-13-01.jpg",
+          "media-first-floor-view-06/01-06-05-13-02.jpg"
+        ],
+        "features": [
+          "Smart Electric box that gives access to switches beneath a desk/ table.",
+          "Has a built-in soft close mechanism which allows the lid to close silently.",
+          "With aluminium lid & sides",
+          "2-way access with cable clip",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td rowspan='2'>Electric Box Slim 3</td><td>EBS330</td><td>300 x 120x 25 (Cut Out 290 x 111)</td><td rowspan='2'>White</td></tr><tr><td>EBS345</td><td>450 x 120 x25 (Cut Out 445 x 111)</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-14",
+        "prevContent": "selection-01-06-05",
+        "title": "Electric Box - Slide Out",
+        "cardImg": "media-first-floor-view-06/01-06-05-14-01.jpg",
+        "carouselId": "carousel-01-06-05-14",
+        "images": [
+          "media-first-floor-view-06/01-06-05-14-01.jpg",
+          "media-first-floor-view-06/01-06-05-14-02.jpg",
+          "media-first-floor-view-06/01-06-05-14-03.jpg",
+          "media-first-floor-view-06/01-06-05-14-04.jpg"
+        ],
+        "features": [
+          "This concealed electric box is ideal for any conference table, work desk or counter tops.",
+          "Compact and slim design electric box with a sliding lid that hides sockets when not in use.",
+          "The unit includes Wireless Charger 15W, 2 Universal Power Socket, 2 USB Fast Charger (Type A + Type C) , 1 CAT 6 Socket and 1 HDMI Socket.",
+          "Input Voltage: 110 - 250 V, Power : Max. 2300W",
+          "In-built wireless charger for high end smart phones.",
+          "Dimensions: 350 x 100 x 40 mm",
+          "Desktop Cut-out Size: 340 x 72 mm",
+          "Wireless Charger compatible with handsets only having wireless charging feature.",
+          "Charger Available : No",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Electric Box -Slide Out (with Wireless Charger 15 watt + 2 Universal Power + 2 USB Charger + 1 Cat 6 Socket + 1 HDMI)</td><td>EBS-SO2</td><td>Dimensions: 350 x 100 x 40mm Desktop Hole Size: 340 x 72mm</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-06-05-15",
+        "prevContent": "selection-01-06-05",
+        "title": "Pole Shelving System",
+        "cardImg": "media-first-floor-view-06/01-06-05-15-01.jpg",
+        "carouselId": "carousel-01-06-05-15",
+        "images": [
+          "media-first-floor-view-06/01-06-05-15-01.jpg",
+          "media-first-floor-view-06/01-06-05-15-02.jpg",
+          "media-first-floor-view-06/01-06-05-15-03.gif",
+          "media-first-floor-view-06/01-06-05-15-04.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Aluminum Section</td><td>PPDS-ALS</td><td>1000kgs</td><td>Anodized Brown / Anodized Silver / Champagne</td></tr><tr><td>Height Adjustable Plinth</td><td>PPDS-HAP</td><td>800kgs/ Plinth</td><td>Brown / Silver Champagne</td></tr><tr><td>End Connector Set</td><td>PPDS-ECS</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Right Angle Connector</td><td>PPDS-RAC</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Small Shelf Support</td><td>PPDS-SSS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Big Shelf Support</td><td>PPDS-BSS</td><td>20kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Tilting Shelf Bracket</td><td>PPDS-TSB</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Adjustable Glass Shelf Support</td><td>PPDS-AGS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Concealed Slide Adaptor</td><td>PPDS-CSA</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Rectangular Rail Support</td><td>PPDS-RRS</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
