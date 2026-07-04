@@ -1,0 +1,369 @@
+{
+  "sceneConfig": {
+    "panorama": "media-first-floor-view-07/first-floor-view-07.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-07-01",
+      "targetContent": "selection-01-07-01",
+      "position": "5.53 -1.00 2.15",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-07-02",
+      "targetContent": "selection-01-07-02",
+      "position": "-4.24 -0.06 2.93",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-07-03",
+      "targetContent": "selection-01-07-03",
+      "position": "-5.03 -1.18 0.96",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-07-04",
+      "targetContent": "selection-01-07-04",
+      "position": "-4.34 -0.42 -2.85",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-07-05",
+      "targetContent": "selection-01-07-05",
+      "position": "-2.01 -0.40 -6.64",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-07-06",
+      "targetContent": "selection-01-07-06",
+      "position": "-0.95 1.25 -6.64",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-07-01": {
+    "title": "First Floor View 07",
+    "products": [
+      {
+        "id": "content-01-07-01-01",
+        "prevContent": "selection-01-07-01",
+        "title": "Smart Lift Table Legs 1200 - 1600 Gas Lift (Without Table Top)",
+        "cardImg": "media-first-floor-view-07/01-07-01-01-01.png",
+        "carouselId": "carousel-01-07-01-01",
+        "images": [
+          "media-first-floor-view-07/01-07-01-01-01.png",
+          "media-first-floor-view-07/01-07-01-01-02.jpg"
+        ],
+        "features": [
+          "Sit or stand and work comfortably with these height adjustable desks.",
+          "Using gas lift technology, these are easy to use with a press of hand lever to adjust the height as in chairs.",
+          "Width Adjustment : 1030 - 1250mm",
+          "Height Adjustment : 725 - 1140mm",
+          "Ideal for office, institutional, and home applications.",
+          "Adjustable width as per requirement from 1200 - 1600mm.",
+          "Table Top not Included.",
+          "Stroke: 380mm",
+          "Speed: 200mm/s",
+          "Capacity: Dynamic - 5kg to 8kg, Static -100kg.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Smart Lift Table Legs 1200-1600 - Gas Lift (Without Table Top)</td><td>SLTL2-120-160G</td><td>Top Size: 1200 - 1600 mm, Height: 725mm to 1140mm, Width: 1030 - 1250mm, Depth: 575mm, Stroke: 380mm, Speed: 200m/s, Capacity: Dynamic 5 kgs to 8 kgs, Static: 100 kgs, Feet: 650mm</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-07-02": {
+    "title": "First Floor View 07",
+    "products": [
+      {
+        "id": "content-01-07-02-01",
+        "prevContent": "selection-01-07-02",
+        "title": "Rotation Mechanism for Desk",
+        "cardImg": "media-first-floor-view-07/01-07-02-01-01.jpg",
+        "carouselId": "carousel-01-07-02-01",
+        "images": [
+          "media-first-floor-view-07/01-07-02-01-01.jpg",
+          "media-first-floor-view-07/01-07-02-01-02.jpg",
+          "media-first-floor-view-07/01-07-02-01-03.jpg",
+          "media-first-floor-view-07/01-07-02-01-04.jpg",
+          "media-first-floor-view-07/01-07-02-01-05.jpg",
+          "media-first-floor-view-07/01-07-02-01-06.jpg"
+        ],
+        "features": [
+          "Designed to make your desk top rotate",
+          "Sturdy and easy to operate",
+          "Easy to extension of table",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Rotation Mechanism for Desk</td><td>RMD</td><td>465 (H) x 155 (W) x 25 (T)</td><td>Black</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-07-03": {
+    "title": "First Floor View 07",
+    "products": [
+      {
+        "id": "content-01-07-03-01",
+        "prevContent": "selection-01-07-03",
+        "title": "4 digit Combination lock - Pedestal",
+        "cardImg": "media-first-floor-view-07/01-07-03-01-01.jpg",
+        "carouselId": "carousel-01-07-03-01",
+        "images": [
+          "media-first-floor-view-07/01-07-03-01-01.jpg",
+          "media-first-floor-view-07/01-07-03-01-02.jpg",
+          "media-first-floor-view-07/01-07-03-01-03.jpg"
+        ],
+        "features": [
+          "Four Digit combination lock for keyless Operation.",
+          "Ideal Application:",
+          "Corporate Office, BPOs, Banks.",
+          "Home Furniture-Wardrobe, Kitchen, etc.",
+          "Lockers-Club, Gym, Hostel, Factory etc.",
+          "Retail Showrooms Display Units- Watches, Jewellery, Gadgets, etc.",
+          "Replace any standard furniture lock to get instant keyless access.",
+          "Once unlocked, the housing doubles as a knob; just rotate 90 degree to unlatch.",
+          "The Combination can be reset to any four digit number, providing up to 10000 possible combinations.",
+          "Two levels of code settings: Combi - public and Combi - personal.",
+          "Resolve forgotten secret code easily and rapidly with the secret code retriever key.",
+          "Quick-FixSystem; easy to install. One universal lock for wooden(16mm-20mm) and metal furniture.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>4 digit Combination Lock - Pedestal  (16-20mm) Left</td><td>P-CLP4-16L</td><td>16-20mm</td><td>Black / Grey</td></tr><tr><td>4 digit Combination Lock - Pedestal  (16-20mm) Right</td><td>P-CLP4-16R</td><td>16-20mm</td><td>Black / Grey</td></tr><tr><td>Front Mounting Al Strip- 480mm & Accessories</td><td>FMDS1-48</td><td>480mm</td><td>Aluminium</td></tr><tr><td>Front Mounting Al Strip- 580mm & Accessories</td><td>FMDS1-58</td><td>580mm</td><td>Aluminium</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-07-04": {
+    "title": "First Floor View 07",
+    "products": [
+      {
+        "id": "content-01-07-04-01",
+        "prevContent": "selection-01-07-04",
+        "title": "Smart Lift Drawing Table - Gas Lift (With Table Top)",
+        "cardImg": "media-first-floor-view-07/01-07-04-01-01.jpg",
+        "carouselId": "carousel-01-07-04-01",
+        "images": [
+          "media-first-floor-view-07/01-07-04-01-01.jpg",
+          "media-first-floor-view-07/01-07-04-01-02.jpg",
+          "media-first-floor-view-07/01-07-04-01-03.jpg",
+          "media-first-floor-view-07/01-07-04-01-04.jpg",
+          "media-first-floor-view-07/01-07-04-01-05.jpg",
+          "media-first-floor-view-07/01-07-04-01-06.jpg"
+        ],
+        "features": [
+          "Ideal for offices, institutional, and home applications",
+          "Comes with table top",
+          "Pencil / Accessories tray attached",
+          "Height Adjustment : 753 - 1164mm",
+          "Stroke: 411mm",
+          "Load Capacity: Dynamic - 15kg, Static - 100kg",
+          "Top angle adjustment up to 45 degrees (8 steps)",
+          "Includes Table Top",
+          "Table-Top size:1200 (W) x 680 (D) x 18 (T)",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Smart Lift Drawing Table - Gas Lift (With Table Top)</td><td>SLDT - 120G</td><td>Table Top: 1200 x 680 x 18, Height: 753 - 1164, Stroke: 411, Speed: 200 mm/s, Load Capacity: Dynamic - 15kg Static: 100kg, Table top Tilt Range - 0˚ - 45˚ (8 Steps)</td><td>White</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-07-05": {
+    "title": "First Floor View 07",
+    "products": [
+      {
+        "id": "content-01-07-05-01",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer Compact 45",
+        "cardImg": "media-first-floor-view-07/01-07-05-01-01.webp",
+        "carouselId": "carousel-01-07-05-01",
+        "images": [
+          "media-first-floor-view-07/01-07-05-01-01.webp",
+          "media-first-floor-view-07/01-07-05-01-02.webp",
+          "media-first-floor-view-07/01-07-05-01-03.webp",
+          "media-first-floor-view-07/01-07-05-01-04.webp"
+        ],
+        "features": [
+          "Latching and closing speed adjust the valve.",
+          "Right hand and left hand opening door.",
+          "Door weight 45kg.",
+          "Door width 750 - 850mm.",
+          "Door opening angle of 150º max.",
+          "Latching Speed Adjustments 150º to 15º",
+          "Closing Speed Adjustments 15º to 0º",
+          "2,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer Compact 45</td><td>DCC45-SL</td><td>45 Kg</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-02",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer Compact 60",
+        "cardImg": "media-first-floor-view-07/01-07-05-02-01.webp",
+        "carouselId": "carousel-01-07-05-02",
+        "images": [
+          "media-first-floor-view-07/01-07-05-02-01.webp",
+          "media-first-floor-view-07/01-07-05-02-02.webp",
+          "media-first-floor-view-07/01-07-05-02-03.webp",
+          "media-first-floor-view-07/01-07-05-02-04.webp"
+        ],
+        "features": [
+          "Latching and closing speed adjust the valve.",
+          "Right hand and left hand opening door.",
+          "Door weight 60 kgs.",
+          "Door width 850-950mm.",
+          "Door opening angle of 170º max.",
+          "Latching Speed Adjustments 170º to 15º",
+          "Closing Speed Adjustments 15º to 0º",
+          "3,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer Compact 60</td><td>DCC60-SL</td><td>60 Kg</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-03",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer - DC 201C",
+        "cardImg": "media-first-floor-view-07/01-07-05-03-01.jpg",
+        "carouselId": "carousel-01-07-05-03",
+        "images": [
+          "media-first-floor-view-07/01-07-05-03-01.jpg",
+          "media-first-floor-view-07/01-07-05-03-02.jpg"
+        ],
+        "features": [
+          "Latching and closing speed adjust the valve.",
+          "Right hand and left hand opening door.",
+          "Door width 800 - 1050mm.",
+          "Door weight 85 kgs.",
+          "Door opening angle of 180º max.",
+          "5,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer - 201C without Hold Open</td><td>DC-201-C</td><td>186 45 67.5 (L W H)</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-04",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer - Concealed DC 1002",
+        "cardImg": "media-first-floor-view-07/01-07-05-04-01.jpg",
+        "carouselId": "carousel-01-07-05-04",
+        "images": [
+          "media-first-floor-view-07/01-07-05-04-01.jpg",
+          "media-first-floor-view-07/01-07-05-04-02.jpg",
+          "media-first-floor-view-07/01-07-05-04-03.jpg"
+        ],
+        "features": [
+          "Hold open facility.",
+          "Hold open angle 150º.",
+          "Latching and closing speed adjust valve.",
+          "Right hand and left hand opening door.",
+          "Door width upto 1000 mm.",
+          "Door weight upto 85 kgs.",
+          "Door opening angle of 150º max.",
+          "5,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer -  Concealed DC 1002</td><td>DC-1002</td><td>(Door Width X Weight) 1000 mm X 85 kg</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-05",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer - DC 301",
+        "cardImg": "media-first-floor-view-07/01-07-05-05-01.jpg",
+        "carouselId": "carousel-01-07-05-05",
+        "images": [
+          "media-first-floor-view-07/01-07-05-05-01.jpg"
+        ],
+        "features": [
+          "Hold open facility.",
+          "Hold open angle 90º to 160º.",
+          "Latching and Closing speed adjust the valve.",
+          "Right hand and left hand opening door.",
+          "Door width 900-1200mm.",
+          "Door weight 105 kgs.",
+          "Door opening angle of 180º max.",
+          "5,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer - DC 301 with Hold Open</td><td>DC-301</td><td>206 45 67 (L W H)</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-06",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer - DC 201C",
+        "cardImg": "media-first-floor-view-07/01-07-05-06-01.jpg",
+        "carouselId": "carousel-01-07-05-06",
+        "images": [
+          "media-first-floor-view-07/01-07-05-06-01.jpg",
+          "media-first-floor-view-07/01-07-05-06-02.jpg"
+        ],
+        "features": [
+          "Latching and closing speed adjust the valve.",
+          "Right hand and left hand opening door.",
+          "Door width 800 - 1050mm.",
+          "Door weight 85 kgs.",
+          "Door opening angle of 180º max.",
+          "5,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer - 201C without Hold Open</td><td>DC-201-C</td><td>186 45 67.5 (L W H)</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-07",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer 301 Basic",
+        "cardImg": "media-first-floor-view-07/01-07-05-07-01.jpg",
+        "carouselId": "carousel-01-07-05-07",
+        "images": [
+          "media-first-floor-view-07/01-07-05-07-01.jpg",
+          "media-first-floor-view-07/01-07-05-07-02.jpg",
+          "media-first-floor-view-07/01-07-05-07-03.jpg",
+          "media-first-floor-view-07/01-07-05-07-04.jpg"
+        ],
+        "features": [
+          "Latching and Closing speed adjust valve.",
+          "Right hand and left hand opening door.",
+          "Door width 900 - 1200mm.",
+          "Door weight 105 kgs.",
+          "Door opening angle of 180º max.",
+          "5,00,000 cycles tested.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer 301 - B w/o hold open</td><td>DC-301-B</td><td>206 45 67 (L W H)</td><td>Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-07-05-08",
+        "prevContent": "selection-01-07-05",
+        "title": "Door Closer - Pelmet Arm",
+        "cardImg": "media-first-floor-view-07/01-07-05-08-01.jpg",
+        "carouselId": "carousel-01-07-05-08",
+        "images": [
+          "media-first-floor-view-07/01-07-05-08-01.jpg",
+          "media-first-floor-view-07/01-07-05-08-02.jpg"
+        ],
+        "features": [
+          "Load adjustment from 30kgs to 80kgs.",
+          "Door width from 500mm to 1000mm.",
+          "Max.opening angle - 130º.",
+          "Hold open facility.",
+          "Latching and closing speed adjust valve.",
+          "3,00,000 cycles tested.",
+          "Compatible with left and right door.",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Load Adjustment</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><td>Door Closer - Pelmet Arm</td><td>DCP-80</td><td>30kg - 80 kg</td><td>Silver</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-07-06": {
+    "title": "First Floor View 07",
+    "products": [
+      {
+        "id": "content-01-07-06-01",
+        "prevContent": "selection-01-07-06",
+        "title": "Pole Shelving System",
+        "cardImg": "media-first-floor-view-07/01-07-06-01-01.jpg",
+        "carouselId": "carousel-01-07-06-01",
+        "images": [
+          "media-first-floor-view-07/01-07-06-01-01.jpg",
+          "media-first-floor-view-07/01-07-06-01-02.jpg",
+          "media-first-floor-view-07/01-07-06-01-03.gif",
+          "media-first-floor-view-07/01-07-06-01-04.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Aluminum Section</td><td>PPDS-ALS</td><td>1000kgs</td><td>Anodized Brown / Anodized Silver / Champagne</td></tr><tr><td>Height Adjustable Plinth</td><td>PPDS-HAP</td><td>800kgs/ Plinth</td><td>Brown / Silver Champagne</td></tr><tr><td>End Connector Set</td><td>PPDS-ECS</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Right Angle Connector</td><td>PPDS-RAC</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Small Shelf Support</td><td>PPDS-SSS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Big Shelf Support</td><td>PPDS-BSS</td><td>20kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Tilting Shelf Bracket</td><td>PPDS-TSB</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Adjustable Glass Shelf Support</td><td>PPDS-AGS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Concealed Slide Adaptor</td><td>PPDS-CSA</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Rectangular Rail Support</td><td>PPDS-RRS</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
