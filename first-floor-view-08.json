@@ -1,0 +1,662 @@
+{
+  "sceneConfig": {
+    "panorama": "media-first-floor-view-08/first-floor-view-08.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-08-01",
+      "targetContent": "selection-01-08-01",
+      "position": "-6.17 1.94 -4.71",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-02",
+      "targetContent": "selection-01-08-02",
+      "position": "2.00 1.50 -6.69",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-03",
+      "targetContent": "selection-01-08-03",
+      "position": "4.70 -0.05 -6.69",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-04",
+      "targetContent": "selection-01-08-04",
+      "position": "5.04 -0.05 -2.69",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-05",
+      "targetContent": "selection-01-08-05",
+      "position": "0.70 -1.45 -4.69",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-06",
+      "targetContent": "selection-01-08-06",
+      "position": "5.04 -2.75 1.39",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-07",
+      "targetContent": "selection-01-08-07",
+      "position": "5.04 -2.25 4.39",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-08",
+      "targetContent": "selection-01-08-08",
+      "position": "5.04 1.05 2.44",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-09",
+      "targetContent": "selection-01-08-09",
+      "position": "0.94 -0.95 4.89",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-08-10",
+      "targetContent": "selection-01-08-10",
+      "position": "5.04 2.95 4.44",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-08-01": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-01-01",
+        "prevContent": "selection-01-08-01",
+        "title": "Wood Sliding Folding System",
+        "cardImg": "media-first-floor-view-08/01-08-01-01-01.webp",
+        "carouselId": "carousel-01-08-01-01",
+        "images": [
+          "media-first-floor-view-08/01-08-01-01-01.webp",
+          "media-first-floor-view-08/01-08-01-01-02.webp",
+          "media-first-floor-view-08/01-08-01-01-03.webp",
+          "media-first-floor-view-08/01-08-01-01-04.webp",
+          "media-first-floor-view-08/01-08-01-01-05.webp"
+        ],
+        "features": [
+          "Ideal for wood sliding folding doors, partitions and room dividers",
+          "Precision roller system has good load bearing and life",
+          "Bottom Track for smooth rolling",
+          "Special guide roller provided in bottom track for smooth rolling which is to avoid noise while sliding",
+          "Minimum door thickness 40mm",
+          "Recommended to use Ebco concealed hinge 3D / Ebco Butt Hinges SS304 (not included) and Latch cranked (not included)",
+          "Load capacity: 60 kgs. per panel",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wood Sliding Folding System - Top Sliding Assembly</td><td>WSFS-TS</td><td rowspan='2'>Min door thk - 40mm, Max door weight - 60 kg</td><td>Zinc White</td></tr><tr><td>Wood Sliding Folding System - Bottom Sliding Assembly</td><td>WSFS-BS</td><td>Zinc White</td></tr><tr><td colspan='1' rowspan='2'>Top Track</td><td>SDF-AS-125M-2</td><td>2.44 meters</td><td>Anodized Silver</td></tr><tr><td>SDF-AS-125M-3</td><td>3.66 meters</td><td>Anodized Silver</td></tr><tr><td colspan='1' rowspan='2'>Bottom Track</td><td>GSFF1-BT2</td><td>2.44 meters</td><td>Anodized Silver</td></tr><tr><td>GSFF1-BT3</td><td>3.66 meters</td><td>Anodized Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-01-02",
+        "prevContent": "selection-01-08-01",
+        "title": "Concealed Hinge - 3D",
+        "cardImg": "media-first-floor-view-08/01-08-01-02-01.jpg",
+        "carouselId": "carousel-01-08-01-02",
+        "images": [
+          "media-first-floor-view-08/01-08-01-02-01.jpg"
+        ],
+        "features": [
+          "For flush wooden door application.",
+          "3D dimensional adjustment after installation.",
+          "Max Door Weight with 2 hinges - 40 Kgs, 80 Kgs and 120 Kgs",
+          "Min door thickness - 35 mm, 40 mm and 45 mm",
+          "Max door width - 850 mm, 1000 mm and 1400 mm",
+          "Max opening - 180º",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Concealed Hinge -3D (For minimum Door thickness 35 mm)</td><td>CH3D-40</td><td>Max.Weight /2 Hinge -40 Kgs, Min. Door Thick - 35 mm, Max. door width - 850 mm, Max. opening -180º</td><td rowspan='2'>Silver / Anthracite</td></tr><tr><td>Concealed Hinge -3D (For minimum Door thickness 40 mm)</td><td>CH3D-80</td><td>Max.Weight /2 Hinge -80 Kgs, Min. Door Thick - 40 mm, Max. door width - 1000 mm, Max. opening -180º</td></tr><tr><td>Concealed Hinge -3D, (For minimum Door thickness 45 mm)</td><td>CH3D-120</td><td>Max.Weight /2 Hinge -120 Kgs, Min. Door Thick - 45 mm, Max. door width - 1400 mm, Max. opening -180º</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-01-03",
+        "prevContent": "selection-01-08-01",
+        "title": "Shutter Handle 1 - Aluminium 3512",
+        "cardImg": "media-first-floor-view-08/01-08-01-03-01.jpg",
+        "carouselId": "carousel-01-08-01-03",
+        "images": [
+          "media-first-floor-view-08/01-08-01-03-01.jpg",
+          "media-first-floor-view-08/01-08-01-03-02.jpg",
+          "media-first-floor-view-08/01-08-01-03-03.jpg",
+          "media-first-floor-view-08/01-08-01-03-04.jpg"
+        ],
+        "features": [
+          "Ergonomically designed for good grip.",
+          "System - 32 compatible.",
+          "Required routing.",
+          "Finish - Anodized Silver",
+          "Comes in Set of 8pcs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Handle - Aluminium 3512</td><td>SH-3512-3</td><td>96</td><td rowspan='3'>Anodized Silver</td></tr><tr><td>SH-3512-5</td><td>160</td></tr><tr><td>SH-3512-7</td><td>224</td></tr><tr><td>Shutter Handle 1 - Aluminium 3512</td><td>SH1-3512-3</td><td>96</td><td>Anodized Silver</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-02": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-02-01",
+        "prevContent": "selection-01-08-02",
+        "title": "Walk-in Sliding Push Lock - Aluminum",
+        "cardImg": "media-first-floor-view-08/01-08-02-01-01.jpg",
+        "carouselId": "carousel-01-08-02-01",
+        "images": [
+          "media-first-floor-view-08/01-08-02-01-01.jpg",
+          "media-first-floor-view-08/01-08-02-01-02.jpg",
+          "media-first-floor-view-08/01-08-02-01-03.png",
+          "media-first-floor-view-08/01-08-02-01-04.png",
+          "media-first-floor-view-08/01-08-02-01-05.png"
+        ],
+        "features": [
+          "Specially designed lock for the Walk-in Sliding Shutters profile vertical handle (HSWSS-SPVH)",
+          "Finishes: Champagne Gold / Brushed Gold / Special Finish",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Walk-in Sliding Push Lock - Aluminum</td><td>P-WSPL-AL-CG/BG/SF</td><td>-</td><td>Champagne Gold / Brushed Gold / Special Finish</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-02-02",
+        "prevContent": "selection-01-08-02",
+        "title": "Sliding Door System 100 - Soft Close (for Wooden Door)",
+        "cardImg": "media-first-floor-view-08/01-08-02-02-01.jpg",
+        "carouselId": "carousel-01-08-02-02",
+        "images": [
+          "media-first-floor-view-08/01-08-02-02-01.jpg"
+        ],
+        "features": [
+          "Specially designed fittings for wooden sliding doors.",
+          "Soft-close & soft opening function allows the door to close in slow motion without banging",
+          "High precise roller, stable, smooth & silent sliding.",
+          "Door Width: 580-1200mm",
+          "Door weight: ≤ 80kg",
+          "Door Thickness: 35-50mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sliding Door System 100 - Soft Close (for Wooden Door)</td><td>SDF-100W-SC</td><td>-</td><td>TN</td></tr><tr><td rowspan='3'>Top Sliding Track (for Sliding Door/Partition System)</td><td>TST-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TST-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TST-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td rowspan='2'>Bottom Guide Track (for Sliding Door/Partition System)</td><td>BGT-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>BGT-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td rowspan='3'>Top Track Cover Profile (for Sliding Door/Partition System)</td><td>TTCP-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TTCP-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TTCP-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-02-03",
+        "prevContent": "selection-01-08-02",
+        "title": "Sliding Door Fittings - Flush",
+        "cardImg": "media-first-floor-view-08/01-08-02-03-01.jpg",
+        "carouselId": "carousel-01-08-02-03",
+        "images": [
+          "media-first-floor-view-08/01-08-02-03-01.jpg"
+        ],
+        "features": [
+          "Precision roller system has good load bearing and life",
+          "Special guides and catches to secure the door",
+          "Special flush fittings to conceal gaps",
+          "Load capacity - 125 kgs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sliding Fittings</td><td>SDF-125FM</td><td>-</td><td>Zinc White</td></tr><tr><td rowspan='2'>Aluminium Section (125 Kgs)</td><td>SDF-AS-125M 2</td><td>Length - 2.44 mtrs</td><td>Anodised Silver</td></tr><tr><td>SDF-AS-125M 3</td><td>Length - 3.66 mtrs</td><td>Anodised Silver</td></tr><tr><td rowspan='2'>Track for Sliding Door Fitting with Fixed Glass</td><td>SDF 125-ATG 2</td><td>Length - 2.44 mtrs</td><td>Anodised Silver</td></tr><tr><td>SDF 125-ATG 3</td><td>Length - 3.66 mtrs</td><td>Anodised Silver</td></tr><tr><td>Wall Mounting Bracket</td><td>SDF WB</td><td> --</td><td>Zinc White</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-02-04",
+        "prevContent": "selection-01-08-02",
+        "title": "Sliding Door Fittings - Standard",
+        "cardImg": "media-first-floor-view-08/01-08-02-04-01.jpg",
+        "carouselId": "carousel-01-08-02-04",
+        "images": [
+          "media-first-floor-view-08/01-08-02-04-01.jpg"
+        ],
+        "features": [
+          "Precision roller system has good load bearing and life.",
+          "Has special guides and catches to secure the door.",
+          "Load capability - 125kgs.",
+          "Easy to install",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sliding Fittings Standard</td><td>SDF-125SM</td><td>-</td><td>Zinc White</td></tr><tr><td rowspan='2'>Aluminium Section (125 Kgs)</td><td>SDF-AS-125M-2</td><td>Length - 2.44 mtrs</td><td>Anodised Silver</td></tr><tr><td>SDF-AS-125M-3</td><td>Length - 3.66 mtrs</td><td>Anodised Silver</td></tr><tr><td rowspan='2'>Track for Sliding Door Fitting with Fixed Glass</td><td>SDF-125-ATG-2</td><td>Length - 2.44 mtrs</td><td>Anodised Silver</td></tr><tr><td>SDF-125-ATG-3</td><td>Length - 3.66 mtrs</td><td>Anodised Silver</td></tr><tr><td>Wall Mounting Bracket</td><td>SDF-WB</td><td> --</td><td>Zinc White</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-02-05",
+        "prevContent": "selection-01-08-02",
+        "title": "Sliding Door System 100 - Soft Close (for Al. framed Door)",
+        "cardImg": "media-first-floor-view-08/01-08-02-05-01.jpg",
+        "carouselId": "carousel-01-08-02-05",
+        "images": [
+          "media-first-floor-view-08/01-08-02-05-01.jpg"
+        ],
+        "features": [
+          "Specially designed fittings for Al. frame sliding doors.",
+          "Soft-close & soft opening function allows the door to close in slow motion without banging",
+          "High precise roller, stable, smooth & silent sliding.",
+          "Door Width: 580-1200mm",
+          "Door weight: ≤ 80 kgs.",
+          "Glass Thickness: 8mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sliding Door System 100 - Soft Close (for Al. framed Door)</td><td>SDF-100A-SC</td><td>-</td><td>Titanium</td></tr><tr><td rowspan='3'>Top Sliding Track (for Sliding Door/Partition System)</td><td>TST-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TST-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TST-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td rowspan='3'>Top Track Cover Profile (for Sliding Door/Partition System)</td><td>TTCP-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TTCP-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TTCP-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td>Aluminium Door Profile Horizontal (Top & Bottom with sleeve) (for Sliding Door/Partition System)</td><td>ADP2-H</td><td>Length: 3m</td><td>Anodized Black</td></tr><tr><td>Aluminium Door Profile Vertical with Sleeve (for Sliding Door/Partition System)</td><td>ADP2-V</td><td>Length: 3m</td><td>Anodized Black</td></tr><tr><td>RA Join Connector for Aluminium Door Profile (for Sliding Door/Partition System)</td><td>RA-JC-ADP2</td><td>-</td><td>Silver</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-03": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-03-01",
+        "prevContent": "selection-01-08-03",
+        "title": "Smart Lift Single Leg - Gas Lift (With Round Table Top) - Center Pole",
+        "cardImg": "media-first-floor-view-08/01-08-03-01-01.png",
+        "carouselId": "carousel-01-08-03-01",
+        "images": [
+          "media-first-floor-view-08/01-08-03-01-01.png",
+          "media-first-floor-view-08/01-08-03-01-02.jpg"
+        ],
+        "features": [
+          "Sit or stand and work comfortably with these height adjustable desks.",
+          "Easy to use with a press of hand lever to adjust the height as in chairs.",
+          "Ideal for offices, institution, and home applications.",
+          "Stroke: 380mm",
+          "Speed: 200mm/s.",
+          "Load Capacity: Dynamic - 15 kg, Static - 100 kg",
+          "Height Adjustment : 690-1065mm",
+          "Includes Table Top",
+          "Table Top - Ø 600 x 18 mm",
+          "Finish - White",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Smart Lift Single Leg - Gas Lift (With Round Table Top) - Center Pole</td><td>SLSL2-GTT-CP2</td><td>Height: 690 - 1065, Stroke: 380mm, Speed: 200mm/s, Capacity: Dynamic: 15 kgs, Static: 100 kgs, Dimension: Table Top: Ø 600 x 18 mm, Frame Size: Ø 500 x (H) 685-1065</td><td>White</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-04": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-04-01",
+        "prevContent": "selection-01-08-04",
+        "title": "Sofa Leg 1",
+        "cardImg": "media-first-floor-view-08/01-08-04-01-01.jpg",
+        "carouselId": "carousel-01-08-04-01",
+        "images": [
+          "media-first-floor-view-08/01-08-04-01-01.jpg",
+          "media-first-floor-view-08/01-08-04-01-02.jpg",
+          "media-first-floor-view-08/01-08-04-01-03.jpg"
+        ],
+        "features": [
+          "Easy to mount sofa base",
+          "Aesthetically designed to suit modern décor",
+          "Available in different design",
+          "Load Capacity - Sofa Leg 1 - 500 kg/ Piece",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Height 'A'</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Sofa Leg 1</td><td>SL1-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL1-13-BL</td><td>130mm</td></tr><tr><td>SL1-15-BL</td><td>150mm</td></tr><tr><td>SL1-10-GF</td><td>100mm</td><td rowspan='3'>Gold</td></tr><tr><td>SL1-13-GF</td><td>130mm</td></tr><tr><td>SL1-15-GF</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 2</td><td>SL2-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL2-12-BL</td><td>120mm</td></tr><tr><td>SL2-15-BL</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 3</td><td>SL3-10-BL</td><td>100mm</td><td rowspan='3'>Black with Gold</td></tr><tr><td>SL3-12-BL</td><td>120mm</td></tr><tr><td>SL3-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 4</td><td>SL4-12-BL</td><td>120mm</td><td rowspan='2'>Black</td></tr><tr><td>SL4-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 5</td><td>SL5-13-BL</td><td>130mm</td><td rowspan='2'>Black</td></tr><tr><td>SL5-15-BL</td><td>150mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-04-02",
+        "prevContent": "selection-01-08-04",
+        "title": "Sofa Leg 2",
+        "cardImg": "media-first-floor-view-08/01-08-04-02-01.jpg",
+        "carouselId": "carousel-01-08-04-02",
+        "images": [
+          "media-first-floor-view-08/01-08-04-02-01.jpg"
+        ],
+        "features": [
+          "Easy to mount sofa base",
+          "Aesthetically designed to suit modern décor",
+          "Available in different design",
+          "Load Capacity -",
+          "Sofa Leg 2 - 150 Kg/ Piece",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Height 'A'</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Sofa Leg 1</td><td>SL1-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL1-13-BL</td><td>130mm</td></tr><tr><td>SL1-15-BL</td><td>150mm</td></tr><tr><td>SL1-10-GF</td><td>100mm</td><td rowspan='3'>Gold</td></tr><tr><td>SL1-13-GF</td><td>130mm</td></tr><tr><td>SL1-15-GF</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 2</td><td>SL2-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL2-12-BL</td><td>120mm</td></tr><tr><td>SL2-15-BL</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 3</td><td>SL3-10-BL</td><td>100mm</td><td rowspan='3'>Black with Gold</td></tr><tr><td>SL3-12-BL</td><td>120mm</td></tr><tr><td>SL3-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 4</td><td>SL4-12-BL</td><td>120mm</td><td rowspan='2'>Black</td></tr><tr><td>SL4-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 5</td><td>SL5-13-BL</td><td>130mm</td><td rowspan='2'>Black</td></tr><tr><td>SL5-15-BL</td><td>150mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-04-03",
+        "prevContent": "selection-01-08-04",
+        "title": "Sofa Leg 3",
+        "cardImg": "media-first-floor-view-08/01-08-04-03-01.jpg",
+        "carouselId": "carousel-01-08-04-03",
+        "images": [
+          "media-first-floor-view-08/01-08-04-03-01.jpg"
+        ],
+        "features": [
+          "Easy to mount sofa base",
+          "Aesthetically designed to suit modern décor",
+          "Available in different design",
+          "Load Capacity -",
+          "Sofa Leg 3 - 150 Kg/ Piece",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Height 'A'</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Sofa Leg 1</td><td>SL1-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL1-13-BL</td><td>130mm</td></tr><tr><td>SL1-15-BL</td><td>150mm</td></tr><tr><td>SL1-10-GF</td><td>100mm</td><td rowspan='3'>Gold</td></tr><tr><td>SL1-13-GF</td><td>130mm</td></tr><tr><td>SL1-15-GF</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 2</td><td>SL2-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL2-12-BL</td><td>120mm</td></tr><tr><td>SL2-15-BL</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 3</td><td>SL3-10-BL</td><td>100mm</td><td rowspan='3'>Black with Gold</td></tr><tr><td>SL3-12-BL</td><td>120mm</td></tr><tr><td>SL3-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 4</td><td>SL4-12-BL</td><td>120mm</td><td rowspan='2'>Black</td></tr><tr><td>SL4-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 5</td><td>SL5-13-BL</td><td>130mm</td><td rowspan='2'>Black</td></tr><tr><td>SL5-15-BL</td><td>150mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-04-04",
+        "prevContent": "selection-01-08-04",
+        "title": "Sofa Leg 4A",
+        "cardImg": "media-first-floor-view-08/01-08-04-04-01.jpg",
+        "carouselId": "carousel-01-08-04-04",
+        "images": [
+          "media-first-floor-view-08/01-08-04-04-01.jpg"
+        ],
+        "features": [
+          "Easy to mount sofa base",
+          "Aesthetically designed to suit modern décor",
+          "Available in different design",
+          "Load Capacity -",
+          "Sofa Leg 4 - 500 kg/ Piece",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Height 'A'</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Sofa Leg 1</td><td>SL1-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL1-13-BL</td><td>130mm</td></tr><tr><td>SL1-15-BL</td><td>150mm</td></tr><tr><td>SL1-10-GF</td><td>100mm</td><td rowspan='3'>Gold</td></tr><tr><td>SL1-13-GF</td><td>130mm</td></tr><tr><td>SL1-15-GF</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 2</td><td>SL2-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL2-12-BL</td><td>120mm</td></tr><tr><td>SL2-15-BL</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 3</td><td>SL3-10-BL</td><td>100mm</td><td rowspan='3'>Black with Gold</td></tr><tr><td>SL3-12-BL</td><td>120mm</td></tr><tr><td>SL3-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 4</td><td>SL4-12-BL</td><td>120mm</td><td rowspan='2'>Black</td></tr><tr><td>SL4-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 5</td><td>SL5-13-BL</td><td>130mm</td><td rowspan='2'>Black</td></tr><tr><td>SL5-15-BL</td><td>150mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-04-05",
+        "prevContent": "selection-01-08-04",
+        "title": "Sofa Leg 5",
+        "cardImg": "media-first-floor-view-08/01-08-04-05-01.jpg",
+        "carouselId": "carousel-01-08-04-05",
+        "images": [
+          "media-first-floor-view-08/01-08-04-05-01.jpg",
+          "media-first-floor-view-08/01-08-04-05-02.jpg",
+          "media-first-floor-view-08/01-08-04-05-03.jpg"
+        ],
+        "features": [
+          "Easy to mount sofa base",
+          "Aesthetically designed to suit modern décor",
+          "Available in different design",
+          "Load Capacity - Sofa Leg 5 - 350 Kg/ Piece",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Height 'A'</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Sofa Leg 1</td><td>SL1-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL1-13-BL</td><td>130mm</td></tr><tr><td>SL1-15-BL</td><td>150mm</td></tr><tr><td>SL1-10-GF</td><td>100mm</td><td rowspan='3'>Gold</td></tr><tr><td>SL1-13-GF</td><td>130mm</td></tr><tr><td>SL1-15-GF</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 2</td><td>SL2-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL2-12-BL</td><td>120mm</td></tr><tr><td>SL2-15-BL</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 3</td><td>SL3-10-BL</td><td>100mm</td><td rowspan='3'>Black with Gold</td></tr><tr><td>SL3-12-BL</td><td>120mm</td></tr><tr><td>SL3-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 4</td><td>SL4-12-BL</td><td>120mm</td><td rowspan='2'>Black</td></tr><tr><td>SL4-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 5</td><td>SL5-13-BL</td><td>130mm</td><td rowspan='2'>Black</td></tr><tr><td>SL5-15-BL</td><td>150mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-05": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-05-01",
+        "prevContent": "selection-01-08-05",
+        "title": "Folding Table Mount",
+        "cardImg": "media-first-floor-view-08/01-08-05-01-01.jpg",
+        "carouselId": "carousel-01-08-05-01",
+        "images": [
+          "media-first-floor-view-08/01-08-05-01-01.jpg",
+          "media-first-floor-view-08/01-08-05-01-02.jpg",
+          "media-first-floor-view-08/01-08-05-01-03.jpg",
+          "media-first-floor-view-08/01-08-05-01-04.jpg"
+        ],
+        "features": [
+          "Perfect for folding & storing tables",
+          "Ideal for square or round tables",
+          "Compatible for Ø76mm pipe",
+          "Aluminium lever for strength",
+          "'System 32' Compatible",
+          "Easy to fit & use",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Folding Table Mount</td><td>FTM1</td><td>Ø76 mm, 154 x 154 mm</td><td>Black</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-06": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-06-01",
+        "prevContent": "selection-01-08-06",
+        "title": "Premium Sleek Telescopic Drawer Slide 35kg - Soft Close",
+        "cardImg": "media-first-floor-view-08/01-08-06-01-01.jpg",
+        "carouselId": "carousel-01-08-06-01",
+        "images": [
+          "media-first-floor-view-08/01-08-06-01-01.jpg",
+          "media-first-floor-view-08/01-08-06-01-02.jpg"
+        ],
+        "features": [
+          "Ultra-smooth operation, precision ball bearings ensure effortless drawer movement.",
+          "A gentle push closes the drawer silently.",
+          "1,00,000 cycles tested.",
+          "10-year functional warranty",
+          "72 hours salt spray tested",
+          "Ideal for use in wood pedestals, dressers, desks, residential, & kitchen cabinetry.",
+          "Recommended to use ebco U-clamp (KBCT1) to fit with ebco kitchen baskets.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Premium Sleek Telescopic Drawer Slide (35 kg) Soft Close</td><td>PSTDS30-35-SC</td><td>300 mm</td><td>Zinc White</td></tr><tr><td>Premium Sleek Telescopic Drawer Slide (35 kg) Soft Close</td><td>PSTDS35-35-SC</td><td>350 mm</td><td>Zinc White</td></tr><tr><td>Premium Sleek Telescopic Drawer Slide (35 kg) Soft Close</td><td>PSTDS40-35-SC</td><td>400 mm</td><td>Zinc White</td></tr><tr><td>Premium Sleek Telescopic Drawer Slide (35 kg) Soft Close</td><td>PSTDS45-35-SC</td><td>450 mm</td><td>Zinc White</td></tr><tr><td>Premium Sleek Telescopic Drawer Slide (35 kg) Soft Close</td><td>PSTDS50-35-SC</td><td>500 mm</td><td>Zinc White</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-06-02",
+        "prevContent": "selection-01-08-06",
+        "title": "Full Panel with 6mm Bottom Track Drawer Slide",
+        "cardImg": "media-first-floor-view-08/01-08-06-02-01.jpg",
+        "carouselId": "carousel-01-08-06-02",
+        "images": [
+          "media-first-floor-view-08/01-08-06-02-01.jpg"
+        ],
+        "features": [
+          "Simplifies construction of drawer as it eliminates the sides of drawers",
+          "Available with 6mm bottom track, easy to fit and helps in faster assembly, as it does not require screwing the bottom, using 6mm board in place of 9mm or 12mm.",
+          "Saves wood, labour and drawer space",
+          "Tilt & remove capability with guiding",
+          "' Auto-Closing' of drawer",
+          "Front facia adjustment",
+          "Ribbed for strength",
+          "Precision rollers for smooth running",
+          "Load capability - 25kgs",
+          "'System 32' compatible",
+          "Stopper prevents drawer from falling",
+          "Available with eccentric cam for facia height adjustment in 86mm and 125mm height Full Panel.",
+          "Comes in Pair of 3",
+          "Finish - Ivory",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Length, Extension (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='7'>Full Panel With 6mm Bottom Track</td><td>FPDS54-30-6, FPDS86-30-6, FPDS125-30-6</td><td>300, 225</td><td rowspan='7'>Ivory</td></tr><tr><td>FPDS54-35-6, FPDS86-35-6, FPDS125-35-6, FPDS150-35-6</td><td>350, 275</td></tr><tr><td>FPDS125-37-6</td><td>375, 300</td></tr><tr><td>FPDS54-40-6, FPDS86-40-6, FPDS125-40-6, FPDS150-40-6</td><td>400, 325</td></tr><tr><td>FPDS54-45-6, FPDS86-45-6, FPDS125-45-6, FPDS150-45-6</td><td>450, 375</td></tr><tr><td>FPDS54-50-6, FPDS86-50-6, FPDS125-50-6, FPDS150-50-6</td><td>500, 425</td></tr><tr><td>FPDS125-55-6</td><td>550, 475</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-06-03",
+        "prevContent": "selection-01-08-06",
+        "title": "Sleek Telescopic Drawer Slide 35kg SS304 Soft Close",
+        "cardImg": "media-first-floor-view-08/01-08-06-03-01.webp",
+        "carouselId": "carousel-01-08-06-03",
+        "images": [
+          "media-first-floor-view-08/01-08-06-03-01.webp",
+          "media-first-floor-view-08/01-08-06-03-02.webp"
+        ],
+        "features": [
+          "Manufactured out of stainless steel 304 grade.",
+          "Built-in soft close mechanism.",
+          "Precision ball bearings ensure smooth movement.",
+          "Full extension of drawer.",
+          "Easy for installation",
+          "Load Capacity: 35 kgs.",
+          "Direct fitting from front",
+          "Removable drawer with latch",
+          "System 32 installation",
+          "72 hrs. salt spray test passed",
+          "BIS certified",
+          "50000 cycles tested",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='5'>SS 304 - Sleek Telescopic Drawer Slides - 35Kg - Soft Close (35 Kg, 45 mm Ht)</td><td>STDS1-30-35SS-SC</td><td>300 mm</td><td rowspan='5'>Stainless Steel</td></tr><tr><td>STDS1-35-35SS-SC</td><td>350 mm</td></tr><tr><td>STDS1-40-35SS-SC</td><td>400 mm</td></tr><tr><td>STDS1-45-35SS-SC</td><td>450 mm</td></tr><tr><td>STDS1-50-35SS-SC</td><td>500 mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-06-04",
+        "prevContent": "selection-01-08-06",
+        "title": "Sleek Telescopic Drawer Slide 35 - Soft Close",
+        "cardImg": "media-first-floor-view-08/01-08-06-04-01.jpg",
+        "carouselId": "carousel-01-08-06-04",
+        "images": [
+          "media-first-floor-view-08/01-08-06-04-01.jpg"
+        ],
+        "features": [
+          "Precision telescopic slides",
+          "Soft closing function built in slide, easy for installation.",
+          "Full extension of drawer",
+          "Load capacity : 35 Kgs",
+          "Direct fitting from the front",
+          "Removable drawer with Latch",
+          "System 32 Installation",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size, Extension (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='7'>Sleek Telescopic Drawer Slide 35 - Soft Close</td><td>STDS30-35-SC</td><td>300, -</td><td rowspan='7'>Zinc White</td></tr><tr><td>STDS35-35-SC</td><td>350, 331</td></tr><tr><td>STDS40-35-SC</td><td>400, 400</td></tr><tr><td>STDS45-35-SC</td><td>450, 450</td></tr><tr><td>STDS50-35-SC</td><td>500, 500</td></tr><tr><td>STDS55-35-SC</td><td>550, 550</td></tr><tr><td>STDS60-35-SC</td><td>600, -</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-06-05",
+        "prevContent": "selection-01-08-06",
+        "title": "Sleek Telescopic Drawer Slides 1 - 35",
+        "cardImg": "media-first-floor-view-08/01-08-06-05-01.jpg",
+        "carouselId": "carousel-01-08-06-05",
+        "images": [
+          "media-first-floor-view-08/01-08-06-05-01.jpg",
+          "media-first-floor-view-08/01-08-06-05-02.jpg"
+        ],
+        "features": [
+          "Precision Telescopic Slides",
+          "Full Extension of Drawer",
+          "Direct fitting from front",
+          "Load Capacity: 35 Kgs",
+          "Removable drawer with latch",
+          "System 32 Installation",
+          "Comes in Pack of 2 Pairs (4 Slides - for 2 Drawers)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size, Extension (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Sleek Telescopic Drawer Slides 1 - 35</td><td>STDS1-25-35</td><td>250 Load: 35 Kgs, 250</td><td rowspan='8'>Zinc Plated White/ Zinc Plated Black</td></tr><tr><td>STDS1-30-35</td><td>300 Load: 35 Kgs, 300</td></tr><tr><td>STDS1-35-35</td><td>350 Load: 35 Kgs, 350</td></tr><tr><td>STDS1-40-35</td><td>400 Load: 35 Kgs, 400</td></tr><tr><td>STDS1-45-35</td><td>450 Load: 35 Kgs, 450</td></tr><tr><td>STDS1-50-35</td><td>500 Load: 35 Kgs, 500</td></tr><tr><td>STDS1-55-35</td><td>550 Load: 35 Kgs, 550</td></tr><tr><td>STDS1-60-35</td><td>600 Load: 35 Kgs, 600</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-07": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-07-01",
+        "prevContent": "selection-01-08-07",
+        "title": "Concealed Drawer Slide Slim - 2 Push Open (with Fascia Bracket)",
+        "cardImg": "media-first-floor-view-08/01-08-07-01-01.png",
+        "carouselId": "carousel-01-08-07-01",
+        "images": [
+          "media-first-floor-view-08/01-08-07-01-01.png"
+        ],
+        "features": [
+          "Concealed drawer slide slim 2 with facia brackets has in-built PUSH OPEN mechanism",
+          "This compact model uses minimal space (27mm) below the drawer",
+          "Flexible 3D adjustment allow facia brackets to be adjusted in 3 directions",
+          "Load capacity: 35kgs",
+          "Finish: Zinc white",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Concealed Drawer Slide Slim - 2 Push Open (with Facia Bracket)</td><td>CDSS230-PO</td><td>300</td><td rowspan='6'>Zinc Plated White</td></tr><tr><td>CDSS235-PO</td><td>350</td></tr><tr><td>CDSS240-PO</td><td>400</td></tr><tr><td>CDSS245-PO</td><td>450</td></tr><tr><td>CDSS250-PO</td><td>500</td></tr><tr><td>CDSS255-PO</td><td>550</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-07-02",
+        "prevContent": "selection-01-08-07",
+        "title": "Concealed Drawer Slides - Slim 2 (Soft Close)",
+        "cardImg": "media-first-floor-view-08/01-08-07-02-01.jpg",
+        "carouselId": "carousel-01-08-07-02",
+        "images": [
+          "media-first-floor-view-08/01-08-07-02-01.jpg",
+          "media-first-floor-view-08/01-08-07-02-02.jpg",
+          "media-first-floor-view-08/01-08-07-02-03.jpg"
+        ],
+        "features": [
+          "This concealed drawer slide - slim 2 model is compact and uses minimal space below the drawer (27mm clearance).",
+          "Available with facia bracket for wooden drawers and without facia bracket for kitchens baskets.",
+          "Full extension with soft close and tool free assembly and removal of drawers.",
+          "Height adjustment: 0 ~ +3mm.",
+          "Depth adjustment: 0 ~ +5mm.",
+          "Width adjustment: ±1.5 mm",
+          "Load Capacity- 35kgs.",
+          "Soft Closing.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td colspan='1' rowspan='7'>Concealed Drawer Slide - Slim 2 (with facia bracket)</td><td>CDSS230-SC</td><td>300</td><td colspan='1' rowspan='9'>Zinc White</td></tr><tr><td>CDSS235-SC</td><td>350</td></tr><tr><td>CDSS240-SC</td><td>400</td></tr><tr><td>CDSS245-SC</td><td>450</td></tr><tr><td>CDSS250-SC</td><td>500</td></tr><tr><td>CDSS255-SC</td><td>550</td></tr><tr><td>CDSS260-SC</td><td>600</td></tr><tr><td colspan='1'>Concealed Drawer Slide - Slim 2 (for kitchen basket - w/o facia bracket)</td><td>CDSS2KB-50-SC</td><td>500</td></tr><tr><td colspan='1'>Concealed Drawer Slide - Slim 2 (for Undermount kitchen Baskets - w/o Facia Bracket/Extendo)</td><td>CDSS2KB-45-SC</td><td>450</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-08": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-08-01",
+        "prevContent": "selection-01-08-08",
+        "title": "Pole Shelving System",
+        "cardImg": "media-first-floor-view-08/01-08-08-01-01.jpg",
+        "carouselId": "carousel-01-08-08-01",
+        "images": [
+          "media-first-floor-view-08/01-08-08-01-01.jpg",
+          "media-first-floor-view-08/01-08-08-01-02.jpg",
+          "media-first-floor-view-08/01-08-08-01-03.gif",
+          "media-first-floor-view-08/01-08-08-01-04.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Aluminum Section</td><td>PPDS-ALS</td><td>1000kgs</td><td>Anodized Brown / Anodized Silver / Champagne</td></tr><tr><td>Height Adjustable Plinth</td><td>PPDS-HAP</td><td>800kgs/ Plinth</td><td>Brown / Silver Champagne</td></tr><tr><td>End Connector Set</td><td>PPDS-ECS</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Right Angle Connector</td><td>PPDS-RAC</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Small Shelf Support</td><td>PPDS-SSS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Big Shelf Support</td><td>PPDS-BSS</td><td>20kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Tilting Shelf Bracket</td><td>PPDS-TSB</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Adjustable Glass Shelf Support</td><td>PPDS-AGS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Concealed Slide Adaptor</td><td>PPDS-CSA</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Rectangular Rail Support</td><td>PPDS-RRS</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-09": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-09-01",
+        "prevContent": "selection-01-08-09",
+        "title": "Aluminium Profile Glass Shutter",
+        "cardImg": "media-first-floor-view-08/01-08-09-01-01.jpg",
+        "carouselId": "carousel-01-08-09-01",
+        "images": [
+          "media-first-floor-view-08/01-08-09-01-01.jpg",
+          "media-first-floor-view-08/01-08-09-01-02.jpg",
+          "media-first-floor-view-08/01-08-09-01-03.jpg",
+          "media-first-floor-view-08/01-08-09-01-04.jpg"
+        ],
+        "features": [
+          "Al. Profile for 4mm/8mm THK Glass Panels.",
+          "Al. Profile width: 45/50/55/68/71mm",
+          "Corner brackets to be procured separately",
+          "Sleeves for Aluminium Profile Glass Shutter absorb vibration and thus protects the glass from breaking.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Al. Profile Glass Shutter Euro 45mm</td><td>EGSP-4-45-3M-AS/AB/SF/BG/CP/BA</td><td rowspan='2'>-</td><td rowspan='2'>Anodized Silver / Anodized Black / Special Finish / Brushed Gold / Chrome Plated / BrushedAluminium</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle</td><td>EGSP-4-45H-3M-AS/AB/SF/BG/CP/BA</td></tr><tr><td>Al. Profile Glass Shutter 45mm- SlimLine</td><td>GSP1-4-45S-3M-SF</td><td rowspan='2'>-</td><td rowspan='2'>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter 45mm with Handle - SlimLine</td><td>GSP1-4-45SH-3M-SF</td></tr><tr><td>Al. Profile Glass Shutter 1345</td><td>GSP-1345-3M-AS</td><td rowspan='2'>13x45mm</td><td rowspan='2'>Anodized Silver</td></tr><tr><td>Al.Profile Glass Shutter 1345H with Handle</td><td>GSP-1345H-3M-AS</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm</td><td>EGSP-4-50-3M-AS/AB/SF/CP/BA</td><td rowspan='2'>For 4mm glass</td><td rowspan='2'>Anodised Silver / Anodized Black / Special Finish / Chrome Plated / Brushed Aluminium</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm with Handle</td><td>EGSP-4-50H-3M-AS/AB/SF/CP/BA</td></tr><tr><td>Al. Profile Glass Shutter 50mm*</td><td>GSP1-4-50-3M-AS/AB/CP/BA/SF</td><td rowspan='2'>-</td><td rowspan='2'>Anodised Silver / Anodized Black / Chrome Plated / Brushed Aluminium / Special Finish</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle*</td><td>GSP1-4-50H-3M-AS/AB/CP/BA/SF</td></tr><tr><td>Al. Profile Glass Shutter 8-50mm*</td><td>GSP1-8-50-3M-AS/AB/SF</td><td>-</td><td>Anodized Silver / Anodized Black / Special Finish</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-08-09-02",
+        "prevContent": "selection-01-08-09",
+        "title": "Euro Slow Motion Hinge (2-4 Hole Mounting Plate)",
+        "cardImg": "media-first-floor-view-08/01-08-09-02-01.jpg",
+        "carouselId": "carousel-01-08-09-02",
+        "images": [
+          "media-first-floor-view-08/01-08-09-02-01.jpg",
+          "media-first-floor-view-08/01-08-09-02-02.jpg"
+        ],
+        "features": [
+          "Unique built in damping system allows the shutter to close in slow motion without banging.",
+          "Available in Full overlay, Half overlay & Full Inset.",
+          "Max opening 105°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+          "Shutter Thickness: 14mm to 22mm.",
+          "Shutter cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td colspan='4'>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td></tr><tr><td>Full Overlay</td><td>E-HSM1</td><td>36</td><td>Nickel Plated / Gun Metal Finish</td></tr><tr><td>Half Overlay</td><td>E-HSM2</td><td>36</td><td rowspan='2'>Nickel Plated</td></tr><tr><td>Inset</td><td>E-HSM3</td><td>58</td></tr><tr><td colspan='4'>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td></tr><tr><td>Full Overlay</td><td>E-HSM1-M1</td><td>36</td><td rowspan='3'>Nickel Plated / Gun Metal Finish</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-08-10": {
+    "title": "First Floor View 08",
+    "products": [
+      {
+        "id": "content-01-08-10-01",
+        "prevContent": "selection-01-08-10",
+        "title": "Cube Shelving System",
+        "cardImg": "media-first-floor-view-08/01-08-10-01-01.webp",
+        "carouselId": "carousel-01-08-10-01",
+        "images": [
+          "media-first-floor-view-08/01-08-10-01-01.webp",
+          "media-first-floor-view-08/01-08-10-01-02.webp",
+          "media-first-floor-view-08/01-08-10-01-03.webp",
+          "media-first-floor-view-08/01-08-10-01-04.webp",
+          "media-first-floor-view-08/01-08-10-01-05.webp",
+          "media-first-floor-view-08/01-08-10-01-06.webp",
+          "media-first-floor-view-08/01-08-10-01-07.webp",
+          "media-first-floor-view-08/01-08-10-01-08.webp",
+          "media-first-floor-view-08/01-08-10-01-09.webp",
+          "media-first-floor-view-08/01-08-10-01-10.webp"
+        ],
+        "features": [
+          "Design for portable cube shelving with aluminium profiles.",
+          "Aluminium profile with extended support available for 5mm and 6mm glass & 16mm board.",
+          "Built for Strength and durability.",
+          "Easy to fit & Use.",
+          "Load Capacity for Plastic Connector: 10 kg max",
+          "Load Capacity for Aluminium Connector: 20 kg max",
+          "Compatible with Ebco Chipboard Screw (CBS-3012).",
+          "Aluminium Profile for Side Wall - Vertical sidewall profile designed for portability.",
+          "It holds glass/wood firmly in place, it is for 5mm glass or 16mm board.",
+          "Ensures structure stability by providing added support, rigidity and strength.",
+          "Connectors for cube shelving are now in die cast for extra strength and stability.",
+          "Perfect for modular cube shelving systems in homes, offices and retail spaces.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cube Shelving Connector - Base</td><td>CSPC-B</td><td rowspan='10'>-</td><td rowspan='10'>Black</td></tr><tr><td>Cube Shelving Connector - Two Way</td><td>CSPC-2W</td></tr><tr><td>Cube Shelving Connector - Three Way</td><td>CSPC-3W</td></tr><tr><td>Cube Shelving Connector - Three Way Corner</td><td>CSPC-3WC</td></tr><tr><td>Cube Shelving Connector - Four Way</td><td>CSPC-4W</td></tr><tr><td>Cube Shelving Connector - Four Way Edge</td><td>CSPC-4WE</td></tr><tr><td>Cube Shelving Connector - Five Way</td><td>CSPC-5W</td></tr><tr><td>Aluminium Profile without Support for Cube Shelving Connectors</td><td>CSPC-3M-AP</td></tr><tr><td>Aluminium Profile for 6mm Glass for Cube Shelving Connectors</td><td>CSPC-3M-APG</td></tr><tr><td>Aluminium Profile for 16mm Board for Cube Shelving Connectors</td><td>CSPC-3M-APB</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
