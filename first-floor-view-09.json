@@ -1,0 +1,1060 @@
+{
+  "sceneConfig": {
+    "panorama": "media-first-floor-view-09/first-floor-view-09.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "01-09-01",
+      "targetContent": "selection-01-09-01",
+      "position": "-6.17 1.94 5.31",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-02",
+      "targetContent": "selection-01-09-02",
+      "position": "-6.17 3.94 1.81",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-03",
+      "targetContent": "selection-01-09-03",
+      "position": "-6.17 3.44 -2.41",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-04",
+      "targetContent": "selection-01-09-04",
+      "position": "-6.17 0.44 -6.01",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-05",
+      "targetContent": "selection-01-09-05",
+      "position": "2.50 1.67 -6.39",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-06",
+      "targetContent": "selection-01-09-06",
+      "position": "2.50 -1.37 -6.39",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-07",
+      "targetContent": "selection-01-09-07",
+      "position": "4.50 1.67 -5.39",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-08",
+      "targetContent": "selection-01-09-08",
+      "position": "2.84 1.45 4.18",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-09",
+      "targetContent": "selection-01-09-09",
+      "position": "0.84 -0.19 3.07",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-10",
+      "targetContent": "selection-01-09-10",
+      "position": "-4.70 2.94 -6.01",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "01-09-11",
+      "targetContent": "selection-01-09-11",
+      "position": "-4.70 -0.94 -6.01",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-01-09-01": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-01-01",
+        "prevContent": "selection-01-09-01",
+        "title": "Friction Stay 2221 (for UPVC windows with New Bevelled Groove)",
+        "cardImg": "media-first-floor-view-09/01-09-01-01-01.jpg",
+        "carouselId": "carousel-01-09-01-01",
+        "images": [
+          "media-first-floor-view-09/01-09-01-01-01.jpg"
+        ],
+        "features": [
+          "22mm wide sill plate and stack height 21mm with bevelled groove",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='2'>Friction Stay 2221(for UPVC windows)</td><td>FRS2221-12</td><td>300</td><td rowspan='4'>-</td></tr><tr><td>FRS2221-14</td><td>350</td></tr><tr><td rowspan='2'>Friction Stay 2221(for UPVC windows with New Bevelled Groove)</td><td>FRS2221-12B</td><td>300</td></tr><tr><td>FRS2221-14B</td><td>350</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-02",
+        "prevContent": "selection-01-09-01",
+        "title": "Friction Stay 1319 (for Aluminium Windows with Euro Groove)",
+        "cardImg": "media-first-floor-view-09/01-09-01-02-01.jpg",
+        "carouselId": "carousel-01-09-01-02",
+        "images": [
+          "media-first-floor-view-09/01-09-01-02-01.jpg"
+        ],
+        "features": [
+          "Made of SS304 stainless steel",
+          "Applicable for aluminium windows",
+          "Pressure adjustable brake for stopping",
+          "Stack height: 19mm",
+          "Max opening: 88 degree",
+          "Self-cleaning design",
+          "Plastic molded insert for smooth & easy guiding",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Friction Stay 1319 (for aluminium windows with euro groove)</td><td>FRS1319-10</td><td>250</td><td>SS 304</td></tr><tr><td>Friction Stay 1319 (for aluminium windows with euro groove)</td><td>FRS1319-12</td><td>300</td><td>SS 304</td></tr><tr><td>Friction Stay 1319 (for aluminium windows with euro groove)</td><td>FRS1319-14</td><td>350</td><td>SS 304</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-03",
+        "prevContent": "selection-01-09-01",
+        "title": "Friction Stay - Hi Load SS 304",
+        "cardImg": "media-first-floor-view-09/01-09-01-03-01.jpg",
+        "carouselId": "carousel-01-09-01-03",
+        "images": [
+          "media-first-floor-view-09/01-09-01-03-01.jpg",
+          "media-first-floor-view-09/01-09-01-03-02.jpg"
+        ],
+        "features": [
+          "Made of AISI SS304 stainless steel",
+          "Can be used in wood, aluminium or PVC windows",
+          "Can be used for side hung horizontal axis opening ventilators, as well as top hung vertical axis opening windows",
+          "Pressure adjustable brake for stopping.",
+          "Self-cleaning design",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Friction Stay - hi Load (SS 304)</td><td>FRS8HL</td><td>205 (8 inch)</td><td rowspan='8'>Raw Stainless Steel</td></tr><tr><td>FRS10HL</td><td>255 (10 inch)</td></tr><tr><td>FRS12HL</td><td>305 (12 inch)</td></tr><tr><td>FRS14HL</td><td>355 (14 inch)</td></tr><tr><td>FRS16HL</td><td>405 (16 inch)</td></tr><tr><td>FRS20HL</td><td>510 (20 inch)</td></tr><tr><td>FRS24HL</td><td>610 (24 inch)</td></tr><tr><td>FRS28HL</td><td>710 (28 inch)</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-04",
+        "prevContent": "selection-01-09-01",
+        "title": "Friction Stay Heavy Duty",
+        "cardImg": "media-first-floor-view-09/01-09-01-04-01.jpg",
+        "carouselId": "carousel-01-09-01-04",
+        "images": [
+          "media-first-floor-view-09/01-09-01-04-01.jpg"
+        ],
+        "features": [
+          "Made of AISI 304 stainless steel",
+          "Double slider with additional linkage bar for 20 inch, 24 inch & 28 inch will support a top hung window vent up to maximum 80kgs",
+          "To be used in top hung only",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Friction Stay Heavy Duty</td><td>FRS20-HD</td><td>500</td><td>-</td></tr><tr><td>FRS24-HD</td><td>600</td><td>-</td></tr><tr><td>FRS28-HD</td><td>700</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-05",
+        "prevContent": "selection-01-09-01",
+        "title": "Mortise Window Handle - Short Neck",
+        "cardImg": "media-first-floor-view-09/01-09-01-05-01.jpg",
+        "carouselId": "carousel-01-09-01-05",
+        "images": [
+          "media-first-floor-view-09/01-09-01-05-01.jpg"
+        ],
+        "features": [
+          "Designed with aesthetic look.",
+          "Designed for strong and comfortable grip for windows.",
+          "To be used with transmission rod for multi-point locking.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Mortise Window Handle - Short Neck</td><td>AWH-MSN1</td><td>-</td><td>White / Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-06",
+        "prevContent": "selection-01-09-01",
+        "title": "Window Handle",
+        "cardImg": "media-first-floor-view-09/01-09-01-06-01.jpg",
+        "carouselId": "carousel-01-09-01-06",
+        "images": [
+          "media-first-floor-view-09/01-09-01-06-01.jpg"
+        ],
+        "features": [
+          "Styled for strong and comfortable grip for windows of PVC, Aluminium and other materials.",
+          "Left and Right hand movements.",
+          "Special wedges with packings supplied with handles.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Window Handle High</td><td>AWH21-L-R</td><td rowspan='3'>-</td><td rowspan='3'>Brown / Black / Window White / Silver / White Matt / Champagne Gold</td></tr><tr><td>Window Handle Low</td><td>AWH9-L-R</td></tr><tr><td>Window Handle Low 4 Hole</td><td>AWH94-L-R</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-07",
+        "prevContent": "selection-01-09-01",
+        "title": "Mortise Window Handle with Lock",
+        "cardImg": "media-first-floor-view-09/01-09-01-07-01.png",
+        "carouselId": "carousel-01-09-01-07",
+        "images": [
+          "media-first-floor-view-09/01-09-01-07-01.png"
+        ],
+        "features": [
+          "Designed with Aesthetic look",
+          "Designed for strong and comfortable grip for windows",
+          "Lockable with key",
+          "To be used with transmission rod for multi-point locking",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Mortise Window Handle with Lock</td><td>AWH-DML2</td><td>-</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-08",
+        "prevContent": "selection-01-09-01",
+        "title": "Window Handle - Heavy Left - Right",
+        "cardImg": "media-first-floor-view-09/01-09-01-08-01.jpg",
+        "carouselId": "carousel-01-09-01-08",
+        "images": [
+          "media-first-floor-view-09/01-09-01-08-01.jpg",
+          "media-first-floor-view-09/01-09-01-08-02.jpg"
+        ],
+        "features": [
+          "Styled for strong and comfortable grip for windows of PVC, Aluminium and other materials.",
+          "Left and Right hand movements.",
+          "Special wedges with packing supplied with handles.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Window Handle - Heavy (L)</td><td>AWH-H1L</td><td rowspan='2'>36 x 18</td><td rowspan='2'>White/ Black</td></tr><tr><td>Window Handle - Heavy (R)</td><td>AWH-H1R</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-09",
+        "prevContent": "selection-01-09-01",
+        "title": "Aluminium Window Handle Deluxe 2 Left - Right",
+        "cardImg": "media-first-floor-view-09/01-09-01-09-01.jpg",
+        "carouselId": "carousel-01-09-01-09",
+        "images": [
+          "media-first-floor-view-09/01-09-01-09-01.jpg",
+          "media-first-floor-view-09/01-09-01-09-02.jpg"
+        ],
+        "features": [
+          "Aesthetically designed for strong and comfortable grip for windows.",
+          "Available for both left & right hand locking.",
+          "Special wedges supplied with handles.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Aluminium WIndow Handle Deluxe 2 (Left)</td><td>AWH-D2L</td><td>Ø40</td><td>White / Black</td></tr><tr><td>Aluminium WIndow Handle Deluxe 2 (Right)</td><td>AWH-D2R</td><td>40 x 40</td><td>White / Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-10",
+        "prevContent": "selection-01-09-01",
+        "title": "Mortise Window Handle - with Lock 3",
+        "cardImg": "media-first-floor-view-09/01-09-01-10-01.jpg",
+        "carouselId": "carousel-01-09-01-10",
+        "images": [
+          "media-first-floor-view-09/01-09-01-10-01.jpg"
+        ],
+        "features": [
+          "Designed with aesthetic look.",
+          "Designed for strong and comfortable grip for windows.",
+          "Lockable with key.",
+          "To be used with transmission rod for multi point locking.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Mortise Window Handle - with Lock 3</td><td>AWH-DML3</td><td>Ø70</td><td>White/ Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-01-11",
+        "prevContent": "selection-01-09-01",
+        "title": "Mortise Window Handle 3",
+        "cardImg": "media-first-floor-view-09/01-09-01-11-01.jpg",
+        "carouselId": "carousel-01-09-01-11",
+        "images": [
+          "media-first-floor-view-09/01-09-01-11-01.jpg"
+        ],
+        "features": [
+          "Designed with aesthetic look.",
+          "Designed for strong and comfortable grip for windows.",
+          "To be used with transmission rod for multi point locking.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Mortise Window Handle - 3</td><td>AWH-DM3</td><td>Ø41</td><td>White / Black</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-02": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-02-01",
+        "prevContent": "selection-01-09-02",
+        "title": "Cube Shelving System",
+        "cardImg": "media-first-floor-view-09/01-09-02-01-01.webp",
+        "carouselId": "carousel-01-09-02-01",
+        "images": [
+          "media-first-floor-view-09/01-09-02-01-01.webp",
+          "media-first-floor-view-09/01-09-02-01-02.webp",
+          "media-first-floor-view-09/01-09-02-01-03.webp",
+          "media-first-floor-view-09/01-09-02-01-04.webp",
+          "media-first-floor-view-09/01-09-02-01-05.webp",
+          "media-first-floor-view-09/01-09-02-01-06.webp",
+          "media-first-floor-view-09/01-09-02-01-07.webp",
+          "media-first-floor-view-09/01-09-02-01-08.webp",
+          "media-first-floor-view-09/01-09-02-01-09.webp",
+          "media-first-floor-view-09/01-09-02-01-10.webp"
+        ],
+        "features": [
+          "Design for portable cube shelving with aluminium profiles.",
+          "Aluminium profile with extended support available for 5mm and 6mm glass & 16mm board.",
+          "Built for Strength and durability.",
+          "Easy to fit & Use.",
+          "Load Capacity for Plastic Connector: 10 kg max",
+          "Load Capacity for Aluminium Connector: 20 kg max",
+          "Compatible with Ebco Chipboard Screw (CBS-3012).",
+          "Aluminium Profile for Side Wall - Vertical sidewall profile designed for portability.",
+          "It holds glass/wood firmly in place, it is for 5mm glass or 16mm board.",
+          "Ensures structure stability by providing added support, rigidity and strength.",
+          "Connectors for cube shelving are now in die cast for extra strength and stability.",
+          "Perfect for modular cube shelving systems in homes, offices and retail spaces.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cube Shelving Connector - Base</td><td>CSPC-B</td><td rowspan='10'>-</td><td rowspan='10'>Black</td></tr><tr><td>Cube Shelving Connector - Two Way</td><td>CSPC-2W</td></tr><tr><td>Cube Shelving Connector - Three Way</td><td>CSPC-3W</td></tr><tr><td>Cube Shelving Connector - Three Way Corner</td><td>CSPC-3WC</td></tr><tr><td>Cube Shelving Connector - Four Way</td><td>CSPC-4W</td></tr><tr><td>Cube Shelving Connector - Four Way Edge</td><td>CSPC-4WE</td></tr><tr><td>Cube Shelving Connector - Five Way</td><td>CSPC-5W</td></tr><tr><td>Aluminium Profile without Support for Cube Shelving Connectors</td><td>CSPC-3M-AP</td></tr><tr><td>Aluminium Profile for 6mm Glass for Cube Shelving Connectors</td><td>CSPC-3M-APG</td></tr><tr><td>Aluminium Profile for 16mm Board for Cube Shelving Connectors</td><td>CSPC-3M-APB</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-03": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-03-01",
+        "prevContent": "selection-01-09-03",
+        "title": "Multi Purpose Lock - Round (Target)",
+        "cardImg": "media-first-floor-view-09/01-09-03-01-01.jpg",
+        "carouselId": "carousel-01-09-03-01",
+        "images": [
+          "media-first-floor-view-09/01-09-03-01-01.jpg",
+          "media-first-floor-view-09/01-09-03-01-02.jpg",
+          "media-first-floor-view-09/01-09-03-01-03.jpg"
+        ],
+        "features": [
+          "Click action mechanism.",
+          "Key removable in locked and unlocked position.",
+          "Also available with metal key.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Multi Purpose Lock - Round Straight</td><td>E-MPL1-22</td><td rowspan='4'>-</td><td rowspan='4'>Nickel Plated</td></tr><tr><td>Multi Purpose Lock - Round Straight with metal Keys</td><td>E-MPL1-22-M</td></tr><tr><td>Multi Purpose Lock - Round Cranked</td><td>E-MPL1C-22</td></tr><tr><td>Multi Purpose Lock - Round Cranked with metal Keys</td><td>E-MPL1C-22-M</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-03-02",
+        "prevContent": "selection-01-09-03",
+        "title": "Multi Purpose Lock - Round (Premium)",
+        "cardImg": "media-first-floor-view-09/01-09-03-02-01.jpg",
+        "carouselId": "carousel-01-09-03-02",
+        "images": [
+          "media-first-floor-view-09/01-09-03-02-01.jpg",
+          "media-first-floor-view-09/01-09-03-02-02.jpg"
+        ],
+        "features": [
+          "Click action mechanism.",
+          "Key removable in locked and unlocked positions.",
+          "For single drawers with requirement of round body.",
+          "Available in sets of 2, 3, 4, 6, 12, and 48 with common key.",
+          "Zinc alloy die-cast chrome finish.",
+          "System 32 compatible.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Multi Purpose Lock - Round Straight</td><td>P-MPL1-22*</td><td rowspan='2'>-</td><td colspan='1' rowspan='2'>Nickel Plated</td></tr><tr><td><span class='product-insidetxt'>Multi Purpose Lock - Round Cranked</span></td><td>P-MPL1C-22*</td></tr><tr><td colspan='4'>* Add <strong>K3</strong> to the code for lock with <strong>3 keys</strong> | Add<strong> K5</strong> to the code for lock with <strong>5 keys</strong> | Add <strong>FL</strong> to the code for lock with flip key | Add <strong>FL5K</strong> to the  code for lock with flip key from 5000 combination series | Add <strong>FL5K K3</strong> to the code for lock with 3 flip keys from 5000 combinations</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-03-03",
+        "prevContent": "selection-01-09-03",
+        "title": "Pedestal Lock - Premium",
+        "cardImg": "media-first-floor-view-09/01-09-03-03-01.jpg",
+        "carouselId": "carousel-01-09-03-03",
+        "images": [
+          "media-first-floor-view-09/01-09-03-03-01.jpg"
+        ],
+        "features": [
+          "Ideal for front mount, multi drawer pedestal units.",
+          "Key removable in locked and unlocked positions.",
+          "180° rotary lifting pin movement.",
+          "Zinc alloy die-cast chrome finish.",
+          "System 32 compatible.",
+          "Also available front mounting lock for steel facia.",
+          "Special built-in spring clip enables easy press fit.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pedestal Lock</td><td>P-MPL2-22*</td><td colspan='1' rowspan='2'>-</td><td colspan='1' rowspan='2'>Nickel Plated</td></tr><tr><td>Pedestal Lock - Steel Drawer</td><td>P-MPL2-SF*</td></tr><tr><td colspan='4'>* Add K3 to the code for lock with 3 keys | Add FL to the code for lock with flip key | Add FL5K to the code for lock with flip key from 5000 combination series | Add FL5K K3 to the code for lock with 3 flip keys from 5000 combinations.</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-03-04",
+        "prevContent": "selection-01-09-03",
+        "title": "Push Lock - Premium",
+        "cardImg": "media-first-floor-view-09/01-09-03-04-01.jpg",
+        "carouselId": "carousel-01-09-03-04",
+        "images": [
+          "media-first-floor-view-09/01-09-03-04-01.jpg"
+        ],
+        "features": [
+          "Push to lock.",
+          "Key required to open.",
+          "Ideal for locking sliding cabinet shutters.",
+          "Zinc alloy die-cast chrome finish.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Push Lock</td><td>P-MPT2-22*</td><td>-</td><td>Nickel Plated</td></tr><tr><td colspan='4'>* Add FL to the code for lock with flip key. Add FL5K to the code for lock with flip key from 5000 combination series</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-03-05",
+        "prevContent": "selection-01-09-03",
+        "title": "Cam Lock - Premium",
+        "cardImg": "media-first-floor-view-09/01-09-03-05-01.jpg",
+        "carouselId": "carousel-01-09-03-05",
+        "images": [
+          "media-first-floor-view-09/01-09-03-05-01.jpg",
+          "media-first-floor-view-09/01-09-03-05-02.jpg"
+        ],
+        "features": [
+          "Lock having rotating bolt. Standard screw-on mounting.",
+          "Available in Standard and Threaded mounting models. 90° rotary cam movement, convertible.",
+          "Key removable in locked and unlocked positions.",
+          "Zinc alloy die-cast chrome finish.",
+          "System 32 compatible.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cam Lock (Standard)</td><td>P-MCL1-22*</td><td rowspan='3'>-</td><td colspan='1' rowspan='3'>Nickel Plated</td></tr><tr><td>Cam Lock (Threaded - 25 mm)</td><td>P-MCL2-25*</td></tr><tr><td>Cam Lock (Threaded - 30 mm)</td><td>P-MCL2-30*</td></tr><tr><td colspan='4'>*Add K3 to the code for lock with 3 keys | Add K5 to the code for lock with 5 keys | Add FL to the code for lock with flip key | Add FL5K to the  code for lock with flip key from 5000 combination series | Add FL5K K3 to the code for lock with 3 flip keys from 5000 combinations series</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-03-06",
+        "prevContent": "selection-01-09-03",
+        "title": "Square Lock (Premium)",
+        "cardImg": "media-first-floor-view-09/01-09-03-06-01.jpg",
+        "carouselId": "carousel-01-09-03-06",
+        "images": [
+          "media-first-floor-view-09/01-09-03-06-01.jpg",
+          "media-first-floor-view-09/01-09-03-06-02.jpg",
+          "media-first-floor-view-09/01-09-03-06-03.jpg"
+        ],
+        "features": [
+          "Click action mechanism.",
+          "Key removable in locked and unlocked positions.",
+          "For single drawers with requirement of square body.",
+          "Zinc alloy die-cast chrome finish.",
+          "Extended bolt: Extension - 21.5mm & Width - 19.5mm.",
+          "System 32 compatible.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Square Lock - 22 mm - Straight with Receiver Plate</td><td>P-SQL1-22S</td><td>16 9.5 22 (X Y Z)</td><td>Nickel Plated</td></tr><tr><td>Square Lock - 22 mm - Straight with Receiver Plate</td><td>P-SQL1-22S-555-AQ</td><td>16 9.5 22 (X Y Z)</td><td>Antique</td></tr><tr><td>Square Lock - 22 mm - Straight with Receiver Plate</td><td>P-SQL1-22S-782-AQ</td><td>16 9.5 22 (X Y Z)</td><td>Antique</td></tr><tr><td>Square Lock (Ext. bolt)</td><td>P-SQL1-22EB</td><td>20 22 22 (X Y Z)</td><td>Nickel Plated</td></tr><tr><td>Square Lock - 32mm (Left/Right) with Receiver Plate</td><td>P-SQL1-32L-R</td><td>15.9 9.5 32 (X Y Z)</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-04": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-04-01",
+        "prevContent": "selection-01-09-04",
+        "title": "Pole Shelving System",
+        "cardImg": "media-first-floor-view-09/01-09-04-01-01.jpg",
+        "carouselId": "carousel-01-09-04-01",
+        "images": [
+          "media-first-floor-view-09/01-09-04-01-01.jpg",
+          "media-first-floor-view-09/01-09-04-01-02.jpg",
+          "media-first-floor-view-09/01-09-04-01-03.gif",
+          "media-first-floor-view-09/01-09-04-01-04.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Aluminum Section</td><td>PPDS-ALS</td><td>1000kgs</td><td>Anodized Brown / Anodized Silver / Champagne</td></tr><tr><td>Height Adjustable Plinth</td><td>PPDS-HAP</td><td>800kgs/ Plinth</td><td>Brown / Silver Champagne</td></tr><tr><td>End Connector Set</td><td>PPDS-ECS</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Right Angle Connector</td><td>PPDS-RAC</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Small Shelf Support</td><td>PPDS-SSS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Big Shelf Support</td><td>PPDS-BSS</td><td>20kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Tilting Shelf Bracket</td><td>PPDS-TSB</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Adjustable Glass Shelf Support</td><td>PPDS-AGS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Concealed Slide Adaptor</td><td>PPDS-CSA</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Rectangular Rail Support</td><td>PPDS-RRS</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-05": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-05-01",
+        "prevContent": "selection-01-09-05",
+        "title": "Linked Sliding Partition System 100 - Soft Close (For Al. Frame 2+1 Doors)",
+        "cardImg": "media-first-floor-view-09/01-09-05-01-01.jpg",
+        "carouselId": "carousel-01-09-05-01",
+        "images": [
+          "media-first-floor-view-09/01-09-05-01-01.jpg"
+        ],
+        "features": [
+          "Specially designed fittings for Al. frame sliding partition",
+          "Floor to ceiling installation with top sliding track",
+          "Soft close & soft opening function allows the door to close in slow motion without banging",
+          "High precise roller, stable, smooth & silent sliding.",
+          "Door weight: ≤ 80kg",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Linked Sliding Partition System 100 - Soft Close (For Al. Frame 2+1 Doors)</td><td>LSPS-100A-SC</td><td>-</td><td>Titanium</td></tr><tr><td rowspan='3'>Top Sliding Track (for Sliding Door/Partition System)</td><td>TST-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TST-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TST-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td rowspan='3'>Top Track Cover Profile (for Sliding Door/Partition System)</td><td>TTCP-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TTCP-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TTCP-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td>Aluminium Door Profile Horizontal (Top & Bottom with sleeve) (for Sliding Door/Partition System)</td><td>ADP2-H</td><td>Length: 3m</td><td>Anodized Black</td></tr><tr><td>Aluminium Door Profile Vertical with Sleeve (for Sliding Door/Partition System)</td><td>ADP2-V</td><td>Length: 3m</td><td>Anodized Black</td></tr><tr><td>RA Join Connector for Aluminium Door Profile (for Sliding Door/Partition System)</td><td>RA-JC-ADP2</td><td>-</td><td>Silver</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-06": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-06-01",
+        "prevContent": "selection-01-09-06",
+        "title": "Smart Lift Single Leg - Gas Lift (With Round Table Top) - Center Pole",
+        "cardImg": "media-first-floor-view-09/01-09-06-01-01.png",
+        "carouselId": "carousel-01-09-06-01",
+        "images": [
+          "media-first-floor-view-09/01-09-06-01-01.png",
+          "media-first-floor-view-09/01-09-06-01-02.png"
+        ],
+        "features": [
+          "Sit or stand and work comfortably with these height adjustable desks.",
+          "Easy to use with a press of hand lever to adjust the height as in chairs.",
+          "Ideal for offices, institution, and home applications.",
+          "Stroke: 380mm",
+          "Speed: 200mm/s.",
+          "Load Capacity: Dynamic - 15 kg, Static - 100 kg",
+          "Height Adjustment : 690-1065mm",
+          "Includes Table Top",
+          "Table Top - Ø 600 x 18 mm",
+          "Finish - White",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Smart Lift Single Leg - Gas Lift (With Round Table Top) - Center Pole</td><td>SLSL2-GTT-CP2</td><td>Height: 690 - 1065, Stroke: 380mm, Speed: 200mm/s, Capacity: Dynamic: 15 kgs, Static: 100 kgs, Dimension: Table Top: Ø 600 x 18 mm, Frame Size: Ø 500 x (H) 685-1065</td><td>White</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-07": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-07-01",
+        "prevContent": "selection-01-09-07",
+        "title": "Wood Sliding Folding System",
+        "cardImg": "media-first-floor-view-09/01-09-07-01-01.webp",
+        "carouselId": "carousel-01-09-07-01",
+        "images": [
+          "media-first-floor-view-09/01-09-07-01-01.webp",
+          "media-first-floor-view-09/01-09-07-01-02.webp",
+          "media-first-floor-view-09/01-09-07-01-03.webp",
+          "media-first-floor-view-09/01-09-07-01-04.webp",
+          "media-first-floor-view-09/01-09-07-01-05.webp"
+        ],
+        "features": [
+          "Ideal for wood sliding folding doors, partitions and room dividers",
+          "Precision roller system has good load bearing and life",
+          "Bottom Track for smooth rolling",
+          "Special guide roller provided in bottom track for smooth rolling which is to avoid noise while sliding",
+          "Minimum door thickness 40mm",
+          "Recommended to use Ebco concealed hinge 3D / Ebco Butt Hinges SS304 (not included) and Latch cranked (not included)",
+          "Load capacity: 60 kgs. per panel",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wood Sliding Folding System - Top Sliding Assembly</td><td>WSFS-TS</td><td rowspan='2'>Min door thk - 40mm, Max door weight - 60 kg</td><td>Zinc White</td></tr><tr><td>Wood Sliding Folding System - Bottom Sliding Assembly</td><td>WSFS-BS</td><td>Zinc White</td></tr><tr><td colspan='1' rowspan='2'>Top Track</td><td>SDF-AS-125M-2</td><td>2.44 meters</td><td>Anodized Silver</td></tr><tr><td>SDF-AS-125M-3</td><td>3.66 meters</td><td>Anodized Silver</td></tr><tr><td colspan='1' rowspan='2'>Bottom Track</td><td>GSFF1-BT2</td><td>2.44 meters</td><td>Anodized Silver</td></tr><tr><td>GSFF1-BT3</td><td>3.66 meters</td><td>Anodized Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-07-02",
+        "prevContent": "selection-01-09-07",
+        "title": "Concealed Hinge - 3D",
+        "cardImg": "media-first-floor-view-09/01-09-07-02-01.jpg",
+        "carouselId": "carousel-01-09-07-02",
+        "images": [
+          "media-first-floor-view-09/01-09-07-02-01.jpg"
+        ],
+        "features": [
+          "For flush wooden door application.",
+          "3D dimensional adjustment after installation.",
+          "Max Door Weight with 2 hinges - 40 Kgs, 80 Kgs and 120 Kgs",
+          "Min door thickness - 35 mm, 40 mm and 45 mm",
+          "Max door width - 850 mm, 1000 mm and 1400 mm",
+          "Max opening - 180º",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Concealed Hinge -3D (For minimum Door thickness 35 mm)</td><td>CH3D-40</td><td>Max.Weight /2 Hinge -40 Kgs, Min. Door Thick - 35 mm, Max. door width - 850 mm, Max. opening -180º</td><td rowspan='2'>Silver / Anthracite</td></tr><tr><td>Concealed Hinge -3D (For minimum Door thickness 40 mm)</td><td>CH3D-80</td><td>Max.Weight /2 Hinge -80 Kgs, Min. Door Thick - 40 mm, Max. door width - 1000 mm, Max. opening -180º</td></tr><tr><td>Concealed Hinge -3D (For minimum Door thickness 45 mm)</td><td>CH3D-120</td><td>Max.Weight /2 Hinge -120 Kgs, Min. Door Thick - 45 mm, Max. door width - 1400 mm, Max. opening -180º</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-07-03",
+        "prevContent": "selection-01-09-07",
+        "title": "Butt Hinge - SS304",
+        "cardImg": "media-first-floor-view-09/01-09-07-03-01.jpg",
+        "carouselId": "carousel-01-09-07-03",
+        "images": [
+          "media-first-floor-view-09/01-09-07-03-01.jpg",
+          "media-first-floor-view-09/01-09-07-03-02.jpg"
+        ],
+        "features": [
+          "Manufactured out of stainless steel 304 grade and electro polished",
+          "Build for long life and smooth working",
+          "Suitable for doors of different size and weight",
+          "Comes in Set of 3pcs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Butt Hinge - SS304 Welded (Without Bearing)</td><td>BH-W312</td><td>51 x 75 x 2.3 mm</td><td rowspan='3'>Brushed Steel</td></tr><tr><td>BH-W412</td><td>63 x 100 x 2.5 mm</td></tr><tr><td>BH-W512</td><td>67 x 125 x 2.5 mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-07-04",
+        "prevContent": "selection-01-09-07",
+        "title": "Kameleon Handle 2- Profile",
+        "cardImg": "media-first-floor-view-09/01-09-07-04-01.jpg",
+        "carouselId": "carousel-01-09-07-04",
+        "images": [
+          "media-first-floor-view-09/01-09-07-04-01.jpg",
+          "media-first-floor-view-09/01-09-07-04-02.gif",
+          "media-first-floor-view-09/01-09-07-04-03.jpg",
+          "media-first-floor-view-09/01-09-07-04-04.jpg"
+        ],
+        "features": [
+          "Made of high-quality plastic",
+          "Unique blend of functionality and aesthetic appeal-match the decorative strip with their plywood.",
+          "Laminate thickness: 0.8mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kameleon Handle 2- Profile</td><td>KH2-P-BL</td><td rowspan='2'>3mtrs</td><td rowspan='2'>Black</td></tr><tr><td>Kameleon Handle 2- End Cap - Left & Right</td><td>KH2-EC-LR</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-08": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-07-05",
+        "prevContent": "selection-01-09-08",
+        "title": "Table Bracket Mini",
+        "cardImg": "media-first-floor-view-09/01-09-07-05-01.jpeg",
+        "carouselId": "carousel-01-09-07-05",
+        "images": [
+          "media-first-floor-view-09/01-09-07-05-01.jpeg",
+          "media-first-floor-view-09/01-09-07-05-02.jpg",
+          "media-first-floor-view-09/01-09-07-05-03.jpg",
+          "media-first-floor-view-09/01-09-07-05-04.jpg"
+        ],
+        "features": [
+          "Easy to install and use as foldaway table or shelve where space is limited.",
+          "Ideal solution to keep your room organized and tidy.",
+          "Load Capacity - 80kgs",
+          "Suitable for multipurpose applications for  home, offices, retail stores, etc.",
+          "Special release latch helps to fold the table.",
+          "Available in two length: 225 & 325mm.",
+          "Finish: White, Anthracite & White Mat",
+          "Comes in set of 2pcs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Table Bracket Mini 225</td><td>TBM-225</td><td>-</td><td>Anthracite / Brown / White Matt</td></tr><tr><td>Table Bracket Mini 325</td><td>TBM-325</td><td>-</td><td>Anthracite / Brown / White Matt</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-07-06",
+        "prevContent": "selection-01-09-08",
+        "title": "Table Bracket Recessed",
+        "cardImg": "media-first-floor-view-09/01-09-07-06-01.jpg",
+        "carouselId": "carousel-01-09-07-06",
+        "images": [
+          "media-first-floor-view-09/01-09-07-06-01.jpg"
+        ],
+        "features": [
+          "Can be recess fitted into the table top",
+          "Ideal fitting for a fold away table",
+          "Special release latches help fold the table",
+          "Built for strength and durability",
+          "Available in Anthracite ,White Matt.",
+          "Minimum table top thickness 25mm",
+          "This product does not include Table Top. This may be procured at a separate cost with the help of our local distributor.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Table Bracket Recessed</td><td>TBR30</td><td>300mm x 300mm</td><td rowspan='3'>Anthracite / Brown / White Matt</td></tr><tr><td>TBR40</td><td>400mm x 400mm</td></tr><tr><td>TBR50</td><td>500mm x 500mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-07-07",
+        "prevContent": "selection-01-09-08",
+        "title": "Table Bracket Damper",
+        "cardImg": "media-first-floor-view-09/01-09-07-07-01.jpg",
+        "carouselId": "carousel-01-09-07-07",
+        "images": [
+          "media-first-floor-view-09/01-09-07-07-01.jpg",
+          "media-first-floor-view-09/01-09-07-07-02.png"
+        ],
+        "features": [
+          "Soft-close is the new Normal",
+          "Now you can make your folding table ‘Soft-close’ with this new Damper.",
+          "Refer to the appropriate recommendation of sizes of table tops and dampers as mentioned in the below table.",
+          "Designed to be used with Ebco",
+          "Table Brackets Regular: Code - TB30/40/50/60",
+          "Table Bracket Recessed: Code - TBR30/40/50",
+          "Minimum Table top thickness:",
+          "25mm (Table Bracket - Recessed)",
+          "18mm (Table Bracket Regular)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Table Bracket Damper</td><td>TBD-7L</td><td>20 N</td><td>Anthracite</td></tr><tr><td>Table Bracket Damper</td><td>TBD-25H</td><td>40 N</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-07-08",
+        "prevContent": "selection-01-09-08",
+        "title": "Table Bracket",
+        "cardImg": "media-first-floor-view-09/01-09-07-08-01.jpg",
+        "carouselId": "carousel-01-09-07-08",
+        "images": [
+          "media-first-floor-view-09/01-09-07-08-01.jpg",
+          "media-first-floor-view-09/01-09-07-08-02.jpg"
+        ],
+        "features": [
+          "Ideal fitting for a fold away table.",
+          "Special release latch helps fold the table.",
+          "Built for strength and durability.",
+          "Available in Anthracite, Brown and White matt powder coated.",
+          "Table brackets of 600mm are not compatible with the current range of Ebco table tops, however you can order the table bracket with table tops for remaining sizes.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Table Bracket</td><td>TB30</td><td>300mm</td><td rowspan='4'>Anthracite / Brown / White Matt</td></tr><tr><td>TB40</td><td>400mm</td></tr><tr><td>TB50</td><td>500mm</td></tr><tr><td>TB60</td><td>600mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-09": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-09-01",
+        "prevContent": "selection-01-09-09",
+        "title": "Recliner Chair Fitting (Without Backrest)",
+        "cardImg": "media-first-floor-view-09/01-09-09-01-01.jpg",
+        "carouselId": "carousel-01-09-09-01",
+        "images": [
+          "media-first-floor-view-09/01-09-09-01-01.jpg",
+          "media-first-floor-view-09/01-09-09-01-02.jpg",
+          "media-first-floor-view-09/01-09-09-01-03.jpg"
+        ],
+        "features": [
+          "Manual mode, no electricity cable required.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Recliner Chair Fitting - Without Backrest</td><td>RCFB1</td><td>535 x 790 x 925</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-09-02",
+        "prevContent": "selection-01-09-09",
+        "title": "Recliner Chair Fitting",
+        "cardImg": "media-first-floor-view-09/01-09-09-02-01.jpg",
+        "carouselId": "carousel-01-09-09-02",
+        "images": [
+          "media-first-floor-view-09/01-09-09-02-01.jpg",
+          "media-first-floor-view-09/01-09-09-02-02.jpg",
+          "media-first-floor-view-09/01-09-09-02-03.jpg"
+        ],
+        "features": [
+          "Based on weight transfer principle.",
+          "Manual mode, no electricity cable required.",
+          "Head support angle variation with ratchet mechanism.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Recliner Chair Fitting</td><td>RCF1</td><td>535 x 790 x 925</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-09-03",
+        "prevContent": "selection-01-09-09",
+        "title": "Sofa Leg 1",
+        "cardImg": "media-first-floor-view-09/01-09-09-03-01.jpg",
+        "carouselId": "carousel-01-09-09-03",
+        "images": [
+          "media-first-floor-view-09/01-09-09-03-01.jpg",
+          "media-first-floor-view-09/01-09-09-03-02.jpg",
+          "media-first-floor-view-09/01-09-09-03-03.jpg"
+        ],
+        "features": [
+          "Easy to mount sofa base",
+          "Aesthetically designed to suit modern décor",
+          "Available in different design",
+          "Load Capacity - Sofa Leg 1 - 500 kg/ Piece",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Sofa Leg 1</td><td>SL1-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL1-13-BL</td><td>130mm</td></tr><tr><td>SL1-15-BL</td><td>150mm</td></tr><tr><td>SL1-10-GF</td><td>100mm</td><td rowspan='3'>Gold</td></tr><tr><td>SL1-13-GF</td><td>130mm</td></tr><tr><td>SL1-15-GF</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 2</td><td>SL2-10-BL</td><td>100mm</td><td rowspan='3'>Black</td></tr><tr><td>SL2-12-BL</td><td>120mm</td></tr><tr><td>SL2-15-BL</td><td>150mm</td></tr><tr><td rowspan='3'>Sofa Leg 3</td><td>SL3-10-BL</td><td>100mm</td><td rowspan='3'>Black with Gold</td></tr><tr><td>SL3-12-BL</td><td>120mm</td></tr><tr><td>SL3-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 4</td><td>SL4-12-BL</td><td>120mm</td><td rowspan='2'>Black</td></tr><tr><td>SL4-15-BL</td><td>150mm</td></tr><tr><td rowspan='2'>Sofa Leg 5</td><td>SL5-13-BL</td><td>130mm</td><td rowspan='2'>Black</td></tr><tr><td>SL5-15-BL</td><td>150mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-10": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-10-01",
+        "prevContent": "selection-01-09-10",
+        "title": "Mortise Lock for Cabinet Sliding Door - Target",
+        "cardImg": "media-first-floor-view-09/01-09-10-01-01.jpg",
+        "carouselId": "carousel-01-09-10-01",
+        "images": [
+          "media-first-floor-view-09/01-09-10-01-01.jpg"
+        ],
+        "features": [
+          "Ideal for sliding cabinets and shutters which can be locked automatically to the side of the cabinet.",
+          "Click action mechanism.",
+          "Key removable in locked and unlocked position.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Mortise lock for Sliding Door</td><td>E-SML1-22</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-02",
+        "prevContent": "selection-01-09-10",
+        "title": "Pedestal Lock - Target",
+        "cardImg": "media-first-floor-view-09/01-09-10-02-01.jpg",
+        "carouselId": "carousel-01-09-10-02",
+        "images": [
+          "media-first-floor-view-09/01-09-10-02-01.jpg"
+        ],
+        "features": [
+          "Cabinet front installation.",
+          "180° Rotary lifting pin movement.",
+          "Click action mechanism.",
+          "Key removable in locked and unlocked positions.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pedestal Lock</td><td>E-MPL2-20</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Pedestal Lock with metal key</td><td>E-MPL2-20-M</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-03",
+        "prevContent": "selection-01-09-10",
+        "title": "Push Lock - Target",
+        "cardImg": "media-first-floor-view-09/01-09-10-03-01.jpg",
+        "carouselId": "carousel-01-09-10-03",
+        "images": [
+          "media-first-floor-view-09/01-09-10-03-01.jpg"
+        ],
+        "features": [
+          "Push-In locking, no key required when locking.",
+          "Click action mechanism.",
+          "Key removable in locked and unlocked.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Push Lock</td><td>E-MPT1-22</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-04",
+        "prevContent": "selection-01-09-10",
+        "title": "Cam Lock - Target",
+        "cardImg": "media-first-floor-view-09/01-09-10-04-01.jpg",
+        "carouselId": "carousel-01-09-10-04",
+        "images": [
+          "media-first-floor-view-09/01-09-10-04-01.jpg",
+          "media-first-floor-view-09/01-09-10-04-02.jpg"
+        ],
+        "features": [
+          "90° Rotary Cam movement.",
+          "Click action mechanism.",
+          "Available in standard and threaded mounting models.",
+          "Click action mechanism.",
+          "Key removable in locked and unlocked position.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cam Lock - Standard</td><td>E-MCL1-22</td><td rowspan='4'>-</td><td>Nickel Plated</td></tr><tr><td>Cam Lock - Threaded 16mm</td><td>E-MCL2-16</td></tr><tr><td>Cam Lock - Threaded 25mm</td><td>E-MCL2-25</td></tr><tr><td>Cam Lock - Threaded 30mm</td><td>E-MCL2-30</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-05",
+        "prevContent": "selection-01-09-10",
+        "title": "Square Lock (Target)",
+        "cardImg": "media-first-floor-view-09/01-09-10-05-01.jpg",
+        "carouselId": "carousel-01-09-10-05",
+        "images": [
+          "media-first-floor-view-09/01-09-10-05-01.jpg"
+        ],
+        "features": [
+          "Available in two cylinder housing lengths : 22mm, 32mm",
+          "Click action mechanism.",
+          "Key removable in locked and unlocked position.",
+          "Also available with metal keys.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Square Lock 22mm</td><td>E-SQL1-22</td><td rowspan='5'>-</td><td rowspan='5'>Nickel Plated</td></tr><tr><td>Square Lock 22mm with Metal Keys</td><td>E-SQL1-22-M</td></tr><tr><td>Square Lock 22mm with Receiver Plate</td><td>E-SQL2-22</td></tr><tr><td>Square Lock 32mm</td><td>E-SQL1-32</td></tr><tr><td>Square Lock 32mm with Metal Keys</td><td>E-SQL1-32-M</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-06",
+        "prevContent": "selection-01-09-10",
+        "title": "Mortise Lock for Cabinet Sliding Door - Secutek",
+        "cardImg": "media-first-floor-view-09/01-09-10-06-01.jpg",
+        "carouselId": "carousel-01-09-10-06",
+        "images": [
+          "media-first-floor-view-09/01-09-10-06-01.jpg"
+        ],
+        "features": [
+          "Ideal for sliding cabinets, shutters or sliding wardrobe shutters which can be locked automatically to the side of the cabinet.",
+          "Special spring loaded latch mechanism for long lasting usage.",
+          "Key required to open the lock.",
+          "Zinc alloy die-cast chrome finish.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Mortise Lock</td><td>SML1-22</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-07",
+        "prevContent": "selection-01-09-10",
+        "title": "Pedestal Lock - Secutek",
+        "cardImg": "media-first-floor-view-09/01-09-10-07-01.jpg",
+        "carouselId": "carousel-01-09-10-07",
+        "images": [
+          "media-first-floor-view-09/01-09-10-07-01.jpg"
+        ],
+        "features": [
+          "Ideal for front mount, multi-drawer pedestal units.",
+          "Key removable in locked and unlocked position.",
+          "180° rotary lifting pin movement.",
+          "Zinc alloy die-cast.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pedestal Lock</td><td>MPL2-22</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Pedestal Lock with Metal Key</td><td>MPL2-22M</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-08",
+        "prevContent": "selection-01-09-10",
+        "title": "Push Lock - Secutek",
+        "cardImg": "media-first-floor-view-09/01-09-10-08-01.jpg",
+        "carouselId": "carousel-01-09-10-08",
+        "images": [
+          "media-first-floor-view-09/01-09-10-08-01.jpg"
+        ],
+        "features": [
+          "Push to lock. Key required to open.",
+          "Ideal for locking overlay shutters and sliding cabinet shutters.",
+          "Zinc alloy die - cast.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Push Lock</td><td>MPT1-22</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-09",
+        "prevContent": "selection-01-09-10",
+        "title": "Cam Lock - Secutek",
+        "cardImg": "media-first-floor-view-09/01-09-10-09-01.jpg",
+        "carouselId": "carousel-01-09-10-09",
+        "images": [
+          "media-first-floor-view-09/01-09-10-09-01.jpg",
+          "media-first-floor-view-09/01-09-10-09-02.jpg"
+        ],
+        "features": [
+          "Lock having rotating bolt.",
+          "Available in Standard and Threaded mounting models. 90° rotary cam movement, convertible.",
+          "Key removable in locked and unlocked positions.",
+          "Zinc alloy die-cast.",
+          "Up to 1000 possible combinations - MCL2-25",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cam Lock - Standard</td><td>MCL1-22</td><td rowspan='4'>-</td><td rowspan='4'>Nickel Plated</td></tr><tr><td>Cam Lock - Threaded 16 mm</td><td>MCL2-16</td></tr><tr><td>Cam Lock - Threaded 25 mm</td><td>MCL2-25</td></tr><tr><td>Cam Lock - Threaded 30 mm</td><td>MCL2-30</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-10",
+        "prevContent": "selection-01-09-10",
+        "title": "Square Lock (Secutek)",
+        "cardImg": "media-first-floor-view-09/01-09-10-10-01.jpg",
+        "carouselId": "carousel-01-09-10-10",
+        "images": [
+          "media-first-floor-view-09/01-09-10-10-01.jpg",
+          "media-first-floor-view-09/01-09-10-10-02.jpg",
+          "media-first-floor-view-09/01-09-10-10-03.jpg"
+        ],
+        "features": [
+          "For single drawers with requirement of square body",
+          "Zinc alloy die-cast chrome finish",
+          "Up to 1000 possible combinations - SQL1-22",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Square Lock 22mm with Receiver Plate</td><td>SQL1-22</td><td rowspan='5'>-</td><td rowspan='5'>Nickel Plated</td></tr><tr><td>Square Lock 22mm (set of 12) with Receiver Plate</td><td>SQL1-22-S12</td></tr><tr><td>Square Lock 22mm (with Metal Key) with Receiver Plate</td><td>SQL1-22M</td></tr><tr><td>Square Lock 22mm (with Folding Key) with Receiver Plate</td><td>SQL1-22P</td></tr><tr><td>Square Lock 32mm with Receiver Plate</td><td>SQL1-32</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-10-11",
+        "prevContent": "selection-01-09-10",
+        "title": "Multi Purpose Lock - Round (Secutek)",
+        "cardImg": "media-first-floor-view-09/01-09-10-11-01.jpg",
+        "carouselId": "carousel-01-09-10-11",
+        "images": [
+          "media-first-floor-view-09/01-09-10-11-01.jpg",
+          "media-first-floor-view-09/01-09-10-11-02.jpg"
+        ],
+        "features": [
+          "For single drawers with options of common keys for sets of drawers.",
+          "Also available in sets of 2, 3, 4, 6, 12 and 48 with common key.",
+          "Also available with brass ring.",
+          "Round multi purpose lock having a CRANKED BOLT specially designed for overlay shutters or drawers with overlay facias.",
+          "Up to 1000 possible combinations - MPL1-22",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Multi Purpose Lock - Round Straight</td><td>MPL1-22</td><td rowspan='4'>-</td><td rowspan='4'>Nickel Plated</td></tr><tr><td>Multi Purpose Lock - Round Straight (set of 12 nos.)</td><td>MPL1-22-S12</td></tr><tr><td>Multi Purpose Lock - Round Cranked</td><td>MPL1C-22</td></tr><tr><td>Multi Purpose Lock - Round Straight with Metal Key</td><td>MPL1-22M</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-01-09-11": {
+    "title": "First Floor View 09",
+    "products": [
+      {
+        "id": "content-01-09-11-01",
+        "prevContent": "selection-01-09-11",
+        "title": "Securite Drawer Lock",
+        "cardImg": "media-first-floor-view-09/01-09-11-01-01.jpg",
+        "carouselId": "carousel-01-09-11-01",
+        "images": [
+          "media-first-floor-view-09/01-09-11-01-01.jpg",
+          "media-first-floor-view-09/01-09-11-01-02.jpg"
+        ],
+        "features": [
+          "Option of Dimple key, Wave key and Brass key to choose from",
+          "Master key system (Optional)",
+          "Stainless steel cover: Non-Magnetic and Rivet-less",
+          "Long latch for additional security",
+          "Click action mechanism",
+          "Reversible key insertion",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='5'>Securite Drawer Lock (with Dimple Key)</td><td>P-SRD-16D</td><td>16</td><td rowspan='5'>Brushed Steel</td></tr><tr><td>P-SRD-20D</td><td>20</td></tr><tr><td>P-SRD-23D</td><td>23</td></tr><tr><td>P-SRD-25D</td><td>25</td></tr><tr><td>P-SRD-29D</td><td>29</td></tr><tr><td rowspan='2'>Securite Drawer Lock Black (with Plastic Capped Dimple Key)</td><td>P-SRD-20D-BL</td><td>20</td><td rowspan='2'>Black</td></tr><tr><td>P-SRD-20B</td><td>23</td></tr><tr><td rowspan='5'>Securite Drawer Lock (with Brass Key)</td><td>P-SRD-23D-BL</td><td>16</td><td rowspan='5'>Brushed Steel</td></tr><tr><td>P-SRD-20B</td><td>20</td></tr><tr><td>P-SRD-23B</td><td>23</td></tr><tr><td>P-SRD-25B</td><td>25</td></tr><tr><td>P-SRD-29B</td><td>29</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-11-02",
+        "prevContent": "selection-01-09-11",
+        "title": "Securite Cupboard Lock",
+        "cardImg": "media-first-floor-view-09/01-09-11-02-01.jpg",
+        "carouselId": "carousel-01-09-11-02",
+        "images": [
+          "media-first-floor-view-09/01-09-11-02-01.jpg"
+        ],
+        "features": [
+          "Option of Dimple key, Wave key and Brass key to choose from",
+          "Master key system (optional)",
+          "Stainless steel cover: non-magnetic and rivet-less",
+          "20mm long latch for additional safety",
+          "Click action mechanism",
+          "Available for shutter thickness of 23mm, 29mm, 35mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Securite Cupboard Lock (with Dimple Keys)</td><td>P-SRC-20D</td><td>20</td><td rowspan='6'>Brushed Steel</td></tr><tr><td>P-SRC-23D</td><td>23</td></tr><tr><td>P-SRC-25D</td><td>25</td></tr><tr><td>P-SRC-29D</td><td>29</td></tr><tr><td>P-SRC-32D</td><td>32</td></tr><tr><td>P-SRC-35D</td><td>35</td></tr><tr><td rowspan='3'>Securite Cupboard Lock Black (with Plastic Capped Dimple Keys)</td><td>P-SRC-20D-BL</td><td>20</td><td rowspan='3'>Black</td></tr><tr><td>P-SRC-23D-BL</td><td>23</td></tr><tr><td>P-SRC-32D-BL</td><td>32</td></tr><tr><td rowspan='6'>Securite Cupboard Lock (with Brass Keys)</td><td>P-SRC-20B</td><td>20</td><td rowspan='6'>Brushed Steel</td></tr><tr><td>P-SRC-23B</td><td>23</td></tr><tr><td>P-SRC-25B</td><td>25</td></tr><tr><td>P-SRC-29B</td><td>29</td></tr><tr><td>P-SRC-32B</td><td>32</td></tr><tr><td>P-SRC-35B</td><td>35</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-11-03",
+        "prevContent": "selection-01-09-11",
+        "title": "ESmart Digital Lock 2 - Horizontal",
+        "cardImg": "media-first-floor-view-09/01-09-11-03-01.webp",
+        "carouselId": "carousel-01-09-11-03",
+        "images": [
+          "media-first-floor-view-09/01-09-11-03-01.webp",
+          "media-first-floor-view-09/01-09-11-03-02.webp"
+        ],
+        "features": [
+          "Enhance security with the ESmart digital locks, series 2",
+          "Automatically locks within 5 seconds. ",
+          "Wood thickness 16-22mm. ",
+          "Light signal to indicate lock status: locked, unlocked, or error. ",
+          "NUMERIC CODE ACCESS : Can have a 4-8 digits pin code in length, Up to 2 admins & 98 users can be assigned",
+          "Supports fake pin code method of entering the pin code to prevent someone nearby from memorizing your pin code. ",
+          "NFC ACCESS : Assign up to 2 admins and 98 users",
+          "FINGERPRINT ACCESS : Assign up to 2 admins and 48 users",
+          "Power : 6V DC for 4 AA (1.5V) batteries",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>ESmart Digital Locks 2 - Horizontal Right - Fingerprint + Numeric +NFC</td><td>ESDL2-HR-FNN-BL</td><td rowspan='4'>-</td><td>Black</td></tr><tr><td>ESmart Digital Locks 2 - Horizontal Left - Fingerprint + Numeric +NFC</td><td>ESDL2-HL-FNN-BL</td><td>Black</td></tr><tr><td rowspan='2'>ESmart Digital Lock 2- NFC Card User Card 1</td><td>ESDL2-NFC-AC1</td><td rowspan='2'>-</td></tr><tr><td>ESDL2-NFC-UC1</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-11-04",
+        "prevContent": "selection-01-09-11",
+        "title": "ESmart Digital Lock 2 - Vertical",
+        "cardImg": "media-first-floor-view-09/01-09-11-04-01.jpg",
+        "carouselId": "carousel-01-09-11-04",
+        "images": [
+          "media-first-floor-view-09/01-09-11-04-01.jpg",
+          "media-first-floor-view-09/01-09-11-04-02.png"
+        ],
+        "features": [
+          "Enhance security with the ESmart digital locks, series 2",
+          "Automatically locks within 5 seconds",
+          "Wood thickness 16-22mm",
+          "Light signal to indicate lock status: locked, unlocked, or error.",
+          "NUMERIC CODE ACCESS : Can have a 4-8 digits pin code in length, Up to 2 admins & 98 users can be assigned",
+          "Supports fake pin code method of entering the pin code to prevent someone nearby from memorizing your pin code. ",
+          "NFC ACCESS : Assign up to 2 admins and 98 users",
+          "FINGERPRINT ACCESS : Assign up to 2 admins and 48 users",
+          "Power : 6V DC for 4 AA (1.5V) batteries",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>ESmart Digital Lock 2 - Vertical - Fingerprint + Numeric +NFC</td><td>ESDL2-V-FNN-BL</td><td>-</td><td>Black</td></tr><tr><td rowspan='2'>ESmart Digital Lock 2- NFC Card User Card 1</td><td>ESDL2-NFC-AC1</td><td rowspan='2'>-</td><td rowspan='2'></td></tr><tr><td>ESDL2-NFC-UC1</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-11-05",
+        "prevContent": "selection-01-09-11",
+        "title": "Sliding Door Lock - Wood",
+        "cardImg": "media-first-floor-view-09/01-09-11-05-01.jpg",
+        "carouselId": "carousel-01-09-11-05",
+        "images": [
+          "media-first-floor-view-09/01-09-11-05-01.jpg",
+          "media-first-floor-view-09/01-09-11-05-02.jpg"
+        ],
+        "features": [
+          "Robust Steel construction",
+          "Sheet metal latch instead of die cast for higher safety",
+          "To be used with wooden or aluminium framed doors",
+          "For door thickness from 30 to 50mm",
+          "Extra long key for easier access in thicker doors",
+          "The lock could be accessed from both sides",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sliding Door Lock - Wood</td><td>SLDL-W1</td><td rowspan='4'>-</td><td>Nickel Plated / Bronze Plated</td></tr><tr><td>Sliding Door Lock - Aluminium</td><td>SLDL-A1</td><td rowspan='3'>Nickel Plated</td></tr><tr><td>Sliding Door Lock - 1 Way Key</td><td>SLDL-A21</td></tr><tr><td>Sliding Door Lock - 2 Way Key</td><td>SLDL-A22</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-01-09-11-06",
+        "prevContent": "selection-01-09-11",
+        "title": "Swing Door Lock",
+        "cardImg": "media-first-floor-view-09/01-09-11-06-01.jpg",
+        "carouselId": "carousel-01-09-11-06",
+        "images": [
+          "media-first-floor-view-09/01-09-11-06-01.jpg"
+        ],
+        "features": [
+          "Robust Steel construction",
+          "Sheet metal latch instead of die cast for higher safety",
+          "To be used with wooden or aluminum framed doors",
+          "For door thickness from 30 to 50mm",
+          "Extra-long key for easier access in thicker doors",
+          "The lock could be accessed from both sides",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Swing Door Lock - Wood</td><td>SWDL-W1</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Swing Door Lock - Aluminium</td><td>SWDL-A1</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
