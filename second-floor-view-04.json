@@ -1,0 +1,1018 @@
+{
+  "sceneConfig": {
+    "panorama": "media-second-floor-view-04/second-floor-view-04.jpg",
+    "rotation": "0 -90 0"
+  },
+  "hotspots": [
+    {
+      "id": "02-04-01",
+      "targetContent": "selection-02-04-01",
+      "position": "-4.70 1.50 4.50",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-02",
+      "targetContent": "selection-02-04-02",
+      "position": "-4.70 1.50 1.90",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-02",
+      "targetContent": "selection-02-04-02",
+      "position": "-4.70 1.50 -0.80",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-04",
+      "targetContent": "selection-02-04-04",
+      "position": "-3.90 -1.30 -5.40",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-05",
+      "targetContent": "selection-02-04-05",
+      "position": "-3.10 -2.30 -5.40",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-06",
+      "targetContent": "selection-02-04-06",
+      "position": "3.90 2.30 -5.20",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-07",
+      "targetContent": "selection-02-04-07",
+      "position": "3.90 2.40 -0.05",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-08",
+      "targetContent": "selection-02-04-08",
+      "position": "3.90 -1.50 -5.00",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-09",
+      "targetContent": "selection-02-04-09",
+      "position": "3.90 1.00 3.35",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-04-10",
+      "targetContent": "selection-02-04-10",
+      "position": "0.50 1.16 4.35",
+      "rotation": "0 0 0"
+    }
+  ],
+  "selection-02-04-01": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-01-01",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-01-01.jpg",
+      "carouselId": "carousel-02-04-01-01",
+      "images": [
+        "media-second-floor-view-04/02-04-01-01-01.jpg",
+        "media-second-floor-view-04/02-04-01-01-02.jpg",
+        "media-second-floor-view-04/02-04-01-01-03.jpg",
+        "media-second-floor-view-04/02-04-01-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-02",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-02-01.jpg",
+      "carouselId": "carousel-02-04-01-02",
+      "images": [
+        "media-second-floor-view-04/02-04-01-02-01.jpg",
+        "media-second-floor-view-04/02-04-01-02-02.jpg",
+        "media-second-floor-view-04/02-04-01-02-03.jpg",
+        "media-second-floor-view-04/02-04-01-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-03",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-03-01.jpg",
+      "carouselId": "carousel-02-04-01-03",
+      "images": [
+        "media-second-floor-view-04/02-04-01-03-01.jpg",
+        "media-second-floor-view-04/02-04-01-03-02.jpg",
+        "media-second-floor-view-04/02-04-01-03-03.jpg",
+        "media-second-floor-view-04/02-04-01-03-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-04",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-04-01.jpg",
+      "carouselId": "carousel-02-04-01-04",
+      "images": [
+        "media-second-floor-view-04/02-04-01-04-01.jpg",
+        "media-second-floor-view-04/02-04-01-04-02.jpg",
+        "media-second-floor-view-04/02-04-01-04-03.jpg",
+        "media-second-floor-view-04/02-04-01-04-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-05",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-05-01.jpg",
+      "carouselId": "carousel-02-04-01-05",
+      "images": [
+        "media-second-floor-view-04/02-04-01-05-01.jpg",
+        "media-second-floor-view-04/02-04-01-05-02.jpg",
+        "media-second-floor-view-04/02-04-01-05-03.jpg",
+        "media-second-floor-view-04/02-04-01-05-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-06",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-06-01.jpg",
+      "carouselId": "carousel-02-04-01-06",
+      "images": [
+        "media-second-floor-view-04/02-04-01-06-01.jpg",
+        "media-second-floor-view-04/02-04-01-06-02.jpg",
+        "media-second-floor-view-04/02-04-01-06-03.jpg",
+        "media-second-floor-view-04/02-04-01-06-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-07",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-07-01.jpg",
+      "carouselId": "carousel-02-04-01-07",
+      "images": [
+        "media-second-floor-view-04/02-04-01-07-01.jpg",
+        "media-second-floor-view-04/02-04-01-07-02.jpg",
+        "media-second-floor-view-04/02-04-01-07-03.jpg",
+        "media-second-floor-view-04/02-04-01-07-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-08",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-08-01.jpg",
+      "carouselId": "carousel-02-04-01-08",
+      "images": [
+        "media-second-floor-view-04/02-04-01-08-01.jpg",
+        "media-second-floor-view-04/02-04-01-08-02.jpg",
+        "media-second-floor-view-04/02-04-01-08-03.jpg",
+        "media-second-floor-view-04/02-04-01-08-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-09",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-09-01.jpg",
+      "carouselId": "carousel-02-04-01-09",
+      "images": [
+        "media-second-floor-view-04/02-04-01-09-01.jpg",
+        "media-second-floor-view-04/02-04-01-09-02.jpg",
+        "media-second-floor-view-04/02-04-01-09-03.jpg",
+        "media-second-floor-view-04/02-04-01-09-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-10",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-10-01.jpg",
+      "carouselId": "carousel-02-04-01-10",
+      "images": [
+        "media-second-floor-view-04/02-04-01-10-01.jpg",
+        "media-second-floor-view-04/02-04-01-10-02.jpg",
+        "media-second-floor-view-04/02-04-01-10-03.jpg",
+        "media-second-floor-view-04/02-04-01-10-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-01-11",
+      "prevContent": "selection-02-04-01",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-01-11-01.jpg",
+      "carouselId": "carousel-02-04-01-11",
+      "images": [
+        "media-second-floor-view-04/02-04-01-11-01.jpg",
+        "media-second-floor-view-04/02-04-01-11-02.jpg",
+        "media-second-floor-view-04/02-04-01-11-03.jpg",
+        "media-second-floor-view-04/02-04-01-11-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-02": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-02-01",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-01-01.jpg",
+      "carouselId": "carousel-02-04-02-01",
+      "images": [
+        "media-second-floor-view-04/02-04-02-01-01.jpg",
+        "media-second-floor-view-04/02-04-02-01-02.jpg",
+        "media-second-floor-view-04/02-04-02-01-03.jpg",
+        "media-second-floor-view-04/02-04-02-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-02",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-02-01.jpg",
+      "carouselId": "carousel-02-04-02-02",
+      "images": [
+        "media-second-floor-view-04/02-04-02-02-01.jpg",
+        "media-second-floor-view-04/02-04-02-02-02.jpg",
+        "media-second-floor-view-04/02-04-02-02-03.jpg",
+        "media-second-floor-view-04/02-04-02-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-03",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-03-01.jpg",
+      "carouselId": "carousel-02-04-02-03",
+      "images": [
+        "media-second-floor-view-04/02-04-02-03-01.jpg",
+        "media-second-floor-view-04/02-04-02-03-02.jpg",
+        "media-second-floor-view-04/02-04-02-03-03.jpg",
+        "media-second-floor-view-04/02-04-02-03-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-04",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-04-01.jpg",
+      "carouselId": "carousel-02-04-02-04",
+      "images": [
+        "media-second-floor-view-04/02-04-02-04-01.jpg",
+        "media-second-floor-view-04/02-04-02-04-02.jpg",
+        "media-second-floor-view-04/02-04-02-04-03.jpg",
+        "media-second-floor-view-04/02-04-02-04-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-05",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-05-01.jpg",
+      "carouselId": "carousel-02-04-02-05",
+      "images": [
+        "media-second-floor-view-04/02-04-02-05-01.jpg",
+        "media-second-floor-view-04/02-04-02-05-02.jpg",
+        "media-second-floor-view-04/02-04-02-05-03.jpg",
+        "media-second-floor-view-04/02-04-02-05-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-06",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-06-01.jpg",
+      "carouselId": "carousel-02-04-02-06",
+      "images": [
+        "media-second-floor-view-04/02-04-02-06-01.jpg",
+        "media-second-floor-view-04/02-04-02-06-02.jpg",
+        "media-second-floor-view-04/02-04-02-06-03.jpg",
+        "media-second-floor-view-04/02-04-02-06-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-07",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-07-01.jpg",
+      "carouselId": "carousel-02-04-02-07",
+      "images": [
+        "media-second-floor-view-04/02-04-02-07-01.jpg",
+        "media-second-floor-view-04/02-04-02-07-02.jpg",
+        "media-second-floor-view-04/02-04-02-07-03.jpg",
+        "media-second-floor-view-04/02-04-02-07-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-08",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-08-01.jpg",
+      "carouselId": "carousel-02-04-02-08",
+      "images": [
+        "media-second-floor-view-04/02-04-02-08-01.jpg",
+        "media-second-floor-view-04/02-04-02-08-02.jpg",
+        "media-second-floor-view-04/02-04-02-08-03.jpg",
+        "media-second-floor-view-04/02-04-02-08-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-09",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-09-01.jpg",
+      "carouselId": "carousel-02-04-02-09",
+      "images": [
+        "media-second-floor-view-04/02-04-02-09-01.jpg",
+        "media-second-floor-view-04/02-04-02-09-02.jpg",
+        "media-second-floor-view-04/02-04-02-09-03.jpg",
+        "media-second-floor-view-04/02-04-02-09-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-10",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-10-01.jpg",
+      "carouselId": "carousel-02-04-02-10",
+      "images": [
+        "media-second-floor-view-04/02-04-02-10-01.jpg",
+        "media-second-floor-view-04/02-04-02-10-02.jpg",
+        "media-second-floor-view-04/02-04-02-10-03.jpg",
+        "media-second-floor-view-04/02-04-02-10-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-02-11",
+      "prevContent": "selection-02-04-02",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-02-11-01.jpg",
+      "carouselId": "carousel-02-04-02-11",
+      "images": [
+        "media-second-floor-view-04/02-04-02-11-01.jpg",
+        "media-second-floor-view-04/02-04-02-11-02.jpg",
+        "media-second-floor-view-04/02-04-02-11-03.jpg",
+        "media-second-floor-view-04/02-04-02-11-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-03": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-03-01",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-01-01.jpg",
+      "carouselId": "carousel-02-04-03-01",
+      "images": [
+        "media-second-floor-view-04/02-04-03-01-01.jpg",
+        "media-second-floor-view-04/02-04-03-01-02.jpg",
+        "media-second-floor-view-04/02-04-03-01-03.jpg",
+        "media-second-floor-view-04/02-04-03-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-03-02",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-02-01.jpg",
+      "carouselId": "carousel-02-04-03-02",
+      "images": [
+        "media-second-floor-view-04/02-04-03-02-01.jpg",
+        "media-second-floor-view-04/02-04-03-02-02.jpg",
+        "media-second-floor-view-04/02-04-03-02-03.jpg",
+        "media-second-floor-view-04/02-04-03-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-03-03",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-03-01.jpg",
+      "carouselId": "carousel-02-04-03-03",
+      "images": [
+        "media-second-floor-view-04/02-04-03-03-01.jpg",
+        "media-second-floor-view-04/02-04-03-03-02.jpg",
+        "media-second-floor-view-04/02-04-03-03-03.jpg",
+        "media-second-floor-view-04/02-04-03-03-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-03-04",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-04-01.jpg",
+      "carouselId": "carousel-02-04-03-04",
+      "images": [
+        "media-second-floor-view-04/02-04-03-04-01.jpg",
+        "media-second-floor-view-04/02-04-03-04-02.jpg",
+        "media-second-floor-view-04/02-04-03-04-03.jpg",
+        "media-second-floor-view-04/02-04-03-04-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-03-05",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-05-01.jpg",
+      "carouselId": "carousel-02-04-03-05",
+      "images": [
+        "media-second-floor-view-04/02-04-03-05-01.jpg",
+        "media-second-floor-view-04/02-04-03-05-02.jpg",
+        "media-second-floor-view-04/02-04-03-05-03.jpg",
+        "media-second-floor-view-04/02-04-03-05-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-03-06",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-06-01.jpg",
+      "carouselId": "carousel-02-04-03-06",
+      "images": [
+        "media-second-floor-view-04/02-04-03-06-01.jpg",
+        "media-second-floor-view-04/02-04-03-06-02.jpg",
+        "media-second-floor-view-04/02-04-03-06-03.jpg",
+        "media-second-floor-view-04/02-04-03-06-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-03-07",
+      "prevContent": "selection-02-04-03",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-03-07-01.jpg",
+      "carouselId": "carousel-02-04-03-07",
+      "images": [
+        "media-second-floor-view-04/02-04-03-07-01.jpg",
+        "media-second-floor-view-04/02-04-03-07-02.jpg",
+        "media-second-floor-view-04/02-04-03-07-03.jpg",
+        "media-second-floor-view-04/02-04-03-07-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-04": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-04-01",
+      "prevContent": "selection-02-04-04",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-04-01-01.jpg",
+      "carouselId": "carousel-02-04-04-01",
+      "images": [
+        "media-second-floor-view-04/02-04-04-01-01.jpg",
+        "media-second-floor-view-04/02-04-04-01-02.jpg",
+        "media-second-floor-view-04/02-04-04-01-03.jpg",
+        "media-second-floor-view-04/02-04-04-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-04-02",
+      "prevContent": "selection-02-04-04",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-04-02-01.jpg",
+      "carouselId": "carousel-02-04-04-02",
+      "images": [
+        "media-second-floor-view-04/02-04-04-02-01.jpg",
+        "media-second-floor-view-04/02-04-04-02-02.jpg",
+        "media-second-floor-view-04/02-04-04-02-03.jpg",
+        "media-second-floor-view-04/02-04-04-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-04-03",
+      "prevContent": "selection-02-04-04",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-04-03-01.jpg",
+      "carouselId": "carousel-02-04-04-03",
+      "images": [
+        "media-second-floor-view-04/02-04-04-03-01.jpg",
+        "media-second-floor-view-04/02-04-04-03-02.jpg",
+        "media-second-floor-view-04/02-04-04-03-03.jpg",
+        "media-second-floor-view-04/02-04-04-03-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-04-04",
+      "prevContent": "selection-02-04-04",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-04-04-01.jpg",
+      "carouselId": "carousel-02-04-04-04",
+      "images": [
+        "media-second-floor-view-04/02-04-04-04-01.jpg",
+        "media-second-floor-view-04/02-04-04-04-02.jpg",
+        "media-second-floor-view-04/02-04-04-04-03.jpg",
+        "media-second-floor-view-04/02-04-04-04-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-05": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-05-01",
+      "prevContent": "selection-02-04-05",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-05-01-01.jpg",
+      "carouselId": "carousel-02-04-05-01",
+      "images": [
+        "media-second-floor-view-04/02-04-05-01-01.jpg",
+        "media-second-floor-view-04/02-04-05-01-02.jpg",
+        "media-second-floor-view-04/02-04-05-01-03.jpg",
+        "media-second-floor-view-04/02-04-05-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-05-02",
+      "prevContent": "selection-02-04-05",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-05-02-01.jpg",
+      "carouselId": "carousel-02-04-05-02",
+      "images": [
+        "media-second-floor-view-04/02-04-05-02-01.jpg",
+        "media-second-floor-view-04/02-04-05-02-02.jpg",
+        "media-second-floor-view-04/02-04-05-02-03.jpg",
+        "media-second-floor-view-04/02-04-05-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-06": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-06-01",
+      "prevContent": "selection-02-04-06",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-06-01-01.jpg",
+      "carouselId": "carousel-02-04-06-01",
+      "images": [
+        "media-second-floor-view-04/02-04-06-01-01.jpg",
+        "media-second-floor-view-04/02-04-06-01-02.jpg",
+        "media-second-floor-view-04/02-04-06-01-03.jpg",
+        "media-second-floor-view-04/02-04-06-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-07": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-07-01",
+      "prevContent": "selection-02-04-07",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-07-01-01.jpg",
+      "carouselId": "carousel-02-04-07-01",
+      "images": [
+        "media-second-floor-view-04/02-04-07-01-01.jpg",
+        "media-second-floor-view-04/02-04-07-01-02.jpg",
+        "media-second-floor-view-04/02-04-07-01-03.jpg",
+        "media-second-floor-view-04/02-04-07-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-07-02",
+      "prevContent": "selection-02-04-07",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-07-02-01.jpg",
+      "carouselId": "carousel-02-04-07-02",
+      "images": [
+        "media-second-floor-view-04/02-04-07-02-01.jpg",
+        "media-second-floor-view-04/02-04-07-02-02.jpg",
+        "media-second-floor-view-04/02-04-07-02-03.jpg",
+        "media-second-floor-view-04/02-04-07-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-07-03",
+      "prevContent": "selection-02-04-07",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-07-03-01.jpg",
+      "carouselId": "carousel-02-04-07-03",
+      "images": [
+        "media-second-floor-view-04/02-04-07-03-01.jpg",
+        "media-second-floor-view-04/02-04-07-03-02.jpg",
+        "media-second-floor-view-04/02-04-07-03-03.jpg",
+        "media-second-floor-view-04/02-04-07-03-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-08": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-08-01",
+      "prevContent": "selection-02-04-08",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-08-01-01.jpg",
+      "carouselId": "carousel-02-04-08-01",
+      "images": [
+        "media-second-floor-view-04/02-04-08-01-01.jpg",
+        "media-second-floor-view-04/02-04-08-01-02.jpg",
+        "media-second-floor-view-04/02-04-08-01-03.jpg",
+        "media-second-floor-view-04/02-04-08-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-09": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-09-01",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-01-01.jpg",
+      "carouselId": "carousel-02-04-09-01",
+      "images": [
+        "media-second-floor-view-04/02-04-09-01-01.jpg",
+        "media-second-floor-view-04/02-04-09-01-02.jpg",
+        "media-second-floor-view-04/02-04-09-01-03.jpg",
+        "media-second-floor-view-04/02-04-09-01-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-02",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-02-01.jpg",
+      "carouselId": "carousel-02-04-09-02",
+      "images": [
+        "media-second-floor-view-04/02-04-09-02-01.jpg",
+        "media-second-floor-view-04/02-04-09-02-02.jpg",
+        "media-second-floor-view-04/02-04-09-02-03.jpg",
+        "media-second-floor-view-04/02-04-09-02-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-03",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-03-01.jpg",
+      "carouselId": "carousel-02-04-09-03",
+      "images": [
+        "media-second-floor-view-04/02-04-09-03-01.jpg",
+        "media-second-floor-view-04/02-04-09-03-02.jpg",
+        "media-second-floor-view-04/02-04-09-03-03.jpg",
+        "media-second-floor-view-04/02-04-09-03-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-04",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-04-01.jpg",
+      "carouselId": "carousel-02-04-09-04",
+      "images": [
+        "media-second-floor-view-04/02-04-09-04-01.jpg",
+        "media-second-floor-view-04/02-04-09-04-02.jpg",
+        "media-second-floor-view-04/02-04-09-04-03.jpg",
+        "media-second-floor-view-04/02-04-09-04-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-05",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-05-01.jpg",
+      "carouselId": "carousel-02-04-09-05",
+      "images": [
+        "media-second-floor-view-04/02-04-09-05-01.jpg",
+        "media-second-floor-view-04/02-04-09-05-02.jpg",
+        "media-second-floor-view-04/02-04-09-05-03.jpg",
+        "media-second-floor-view-04/02-04-09-05-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-06",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-06-01.jpg",
+      "carouselId": "carousel-02-04-09-06",
+      "images": [
+        "media-second-floor-view-04/02-04-09-06-01.jpg",
+        "media-second-floor-view-04/02-04-09-06-02.jpg",
+        "media-second-floor-view-04/02-04-09-06-03.jpg",
+        "media-second-floor-view-04/02-04-09-06-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-07",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-07-01.jpg",
+      "carouselId": "carousel-02-04-09-07",
+      "images": [
+        "media-second-floor-view-04/02-04-09-07-01.jpg",
+        "media-second-floor-view-04/02-04-09-07-02.jpg",
+        "media-second-floor-view-04/02-04-09-07-03.jpg",
+        "media-second-floor-view-04/02-04-09-07-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-08",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-08-01.jpg",
+      "carouselId": "carousel-02-04-09-08",
+      "images": [
+        "media-second-floor-view-04/02-04-09-08-01.jpg",
+        "media-second-floor-view-04/02-04-09-08-02.jpg",
+        "media-second-floor-view-04/02-04-09-08-03.jpg",
+        "media-second-floor-view-04/02-04-09-08-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    },
+    {
+      "id": "content-02-04-09-09",
+      "prevContent": "selection-02-04-09",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-09-01.jpg",
+      "carouselId": "carousel-02-04-09-09",
+      "images": [
+        "media-second-floor-view-04/02-04-09-09-01.jpg",
+        "media-second-floor-view-04/02-04-09-09-02.jpg",
+        "media-second-floor-view-04/02-04-09-09-03.jpg",
+        "media-second-floor-view-04/02-04-09-09-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+},
+"selection-02-04-10": {
+  "title": "Second Floor View 04",
+  "products": [
+    {
+      "id": "content-02-04-09-10",
+      "prevContent": "selection-02-04-10",
+      "title": "",
+      "cardImg": "media-second-floor-view-04/02-04-09-10-01.jpg",
+      "carouselId": "carousel-02-04-09-10",
+      "images": [
+        "media-second-floor-view-04/02-04-09-10-01.jpg",
+        "media-second-floor-view-04/02-04-09-10-02.jpg",
+        "media-second-floor-view-04/02-04-09-10-03.jpg",
+        "media-second-floor-view-04/02-04-09-10-04.jpg"
+      ],
+      "features": [
+        "",
+        "",
+        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+      ]
+    }
+  ]
+}
+}
