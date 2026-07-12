@@ -117,6 +117,12 @@
       "targetContent": "selection-02-01-19",
       "position": "5.25 -0.12 2.24",
       "rotation": "0 0 0"
+    },
+    {
+      "id": "02-01-20",
+      "targetContent": "selection-02-01-20",
+      "position": "-5.80 1.18 -1.46",
+      "rotation": "0 0 0"
     }
   ],
   "selection-02-01-01": {
@@ -194,61 +200,70 @@
         "features": [
           "New Roll Top Pro series comes with an advanced spring loaded cartridge for easy operation.",
           "Counter weight balancing as well as increase in life cycle.",
-          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td rowspan='22'>ROLL TOP PRO-Vertical (with Overlay Rails &amp; Cover Profile)</td><td>RTPV-45130-SL</td><td>450mm (W) x 1300mm (H)</td><td>Silver</td></tr><tr><td>RTPV-45130-SF</td><td>450mm (W) x 1300mm (H)</td><td>Special Finish</td></tr><tr><td>RTPV-45130-FG</td><td>450mm (W) x 1300mm (H)</td><td>Frozen Glass</td></tr><tr><td>RTPV-45130-BL</td><td>450mm (W) x 1300mm (H)</td><td>Black</td></tr><tr><td>RTPV-45135-GW</td><td>450mm (W) x 1350mm (H)</td><td>Glossy White</td></tr><tr><td>RTPV-45130-AT</td><td>450mm (W) x 1300mm (H)</td><td>Anthracite</td></tr><tr><td>RTPV-45130-MC</td><td>450mm (W) x 1300mm (H)</td><td>Mocha</td></tr><tr><td>RTPV-60130-SL</td><td>600mm (W) x 1300mm (H)</td><td>Silver</td></tr><tr><td>RTPV-60130-FW</td><td>600mm (W) x 1300mm (H)</td><td>Frosty White</td></tr><tr><td>RTPV-60130-AT</td><td>600mm (W) x 1300mm (H)</td><td>Anthracite</td></tr><tr><td>RTPV-60130-SF</td><td>600mm (W) x 1300mm (H)</td><td>Special Finish</td></tr><tr><td>RTPV-90130-AT</td><td>900mm (W) x 1300mm (H)</td><td>Anthracite</td></tr><tr><td>RTPV-90130-SL</td><td>900mm (W) x 1300mm (H)</td><td>Silver</td></tr><tr><td>RTPV-90130-SF</td><td>900mm (W) x 1300mm (H)</td><td>Special Finish</td></tr><tr><td>RTPV-60130-FG</td><td>600mm (W) x 1300mm (H)</td><td>Frozen Glass</td></tr><tr><td>RTPV-60130-BL</td><td>600mm(W) x 1300mm (H)</td><td>Black</td></tr><tr><td>RTPV-60135-GW</td><td>600mm(W) x 1350mm (H)</td><td>Glossy White</td></tr><tr><td>RTPV-60130-MC</td><td>600mm (W) x 1300mm (H)</td><td>Mocha</td></tr><tr><td>RTPV-90130-FG</td><td>900mm (W) x 1300mm (H)</td><td>Frozen Glass</td></tr><tr><td>RTPV-90130-BL</td><td>900mm (W) x 1300mm (H)</td><td>Black</td></tr><tr><td>RTPV-90135-GW</td><td>900mm (W) x 1350mm (H)</td><td>Glossy White</td></tr><tr><td>RTPV-90130-MC</td><td>900mm (W) x 1300mm (H)</td><td>Mocha</td></tr></tbody></table>"
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='9'>ROLL TOP PRO-Vertical (with Overlay Rails & Cover Profile)</td><td>RTPV-45130-SL/SF/AT</td><td>450mm (W) x 1300mm (H)</td><td>Silver / Special Finish / Anthracite</td></tr><tr><td>RTPV-45130-FG/BL/MC</td><td>450mm (W) x 1300mm (H)</td><td>Frozen Glass / Black / Mocha</td></tr><tr><td>RTPV-45135-GW/OK</td><td>450mm (W) x 1350mm (H)</td><td>Glossy White/ Oak</td></tr><tr><td>RTPV-60130-SL/FW/AT/SF</td><td>600mm (W) x 1300mm (H)</td><td>Silver / Frosty White / Anthracite / Special Finish</td></tr><tr><td>RTPV-60130-FG/BL/MC</td><td>600mm (W) x 1300mm (H)</td><td>Frozen Glass / Black / Mocha</td></tr><tr><td>RTPV-60135-GW/OK</td><td>600mm(W) x 1350mm (H)</td><td>Glossy White/ Oak</td></tr><tr><td>RTPV-90130-AT/SL/SF</td><td>900mm (W) x 1300mm (H)</td><td>Anthracite / Silver / Special Finish</td></tr><tr><td>RTPV-90130-FG/BL/MC</td><td>900mm (W) x 1300mm (H)</td><td>Frozen Glass / Black / Mocha</td></tr><tr><td>RTPV-90135-GW/OK</td><td>900mm (W) x 1350mm (H)</td><td>Glossy White/ Oak</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-02-02",
         "prevContent": "selection-02-01-02",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-02-02-01.jpg",
+        "title": "Cabinet / Glass Shelf Support",
+        "cardImg": "media-second-floor-view-01/02-01-02-02-01.jpg",
         "carouselId": "carousel-02-01-02-02",
         "images": [
-          "media-second-floor-view-02/02-01-02-02-01.jpg",
-          "media-second-floor-view-02/02-01-02-02-02.jpg",
-          "media-second-floor-view-02/02-01-02-02-03.jpg",
-          "media-second-floor-view-02/02-01-02-02-04.jpg"
+          "media-second-floor-view-01/02-01-02-02-01.jpg",
+          "media-second-floor-view-01/02-01-02-02-02.jpg",
+          "media-second-floor-view-01/02-01-02-02-03.jpg",
+          "media-second-floor-view-01/02-01-02-02-04.jpg",
+          "media-second-floor-view-01/02-01-02-02-05.jpg",
+          "media-second-floor-view-01/02-01-02-02-06.jpg",
+          "media-second-floor-view-01/02-01-02-02-07.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Easy to use with elegant looks for wood or glass shelves.",
+          "Requires ø5mm drill to fix.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cabinet Shelf Support</td><td>CSS1</td><td>Small</td><td>Chrome Plated</td></tr><tr><td>Cabinet Shelf Support</td><td>CSS1N</td><td>Regular</td><td>Nickel Plated</td></tr><tr><td>Cabinet Shelf Support</td><td>CSS1-TN</td><td>-</td><td>Titanium Plated</td></tr><tr><td>Cabinet Shelf Support</td><td>CSS2</td><td>Regular</td><td>Chrome Plated</td></tr><tr><td>Glass Shelf Support</td><td>GSS1</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Glass Shelf Support</td><td>GSS2</td><td>-</td><td>Nickel Plated</td></tr><tr><td>Glass Shelf Support</td><td>GSS2-TN</td><td>-</td><td>Titanium Plated</td></tr><tr><td>Glass Shelf Support</td><td>GSS3</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-02-03",
         "prevContent": "selection-02-01-02",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-02-03-01.jpg",
+        "title": "Linear Two Way Glass 8mm",
+        "cardImg": "media-second-floor-view-01/02-01-02-03-01.jpeg",
         "carouselId": "carousel-02-01-02-03",
         "images": [
-          "media-second-floor-view-02/02-01-02-03-01.jpg",
-          "media-second-floor-view-02/02-01-02-03-02.jpg",
-          "media-second-floor-view-02/02-01-02-03-03.jpg",
-          "media-second-floor-view-02/02-01-02-03-04.jpg"
+          "media-second-floor-view-01/02-01-02-03-01.jpeg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Specially designed two-way linear lights for glass shelf edge mount application.",
+          "Glass thickness: 8mm",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "Input: 24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 14.4w/mtr",
+          "Led: 120L/mtr",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Linear two way Glass 8mm</td><td>L-L2G8-412</td><td rowspan='3'>Size : 412mm,562mm,862mm Power : 14.4W/mtr No of led - 120/mtr *CCT : 4000K *CRI : Ra 80+ Door Sensor trigger distance < 80mm</td><td rowspan='3'>Anodized Silver</td></tr><tr><td>L-L2G8-562</td></tr><tr><td>L-L2G8-862</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-02-04",
         "prevContent": "selection-02-01-02",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-02-04-01.jpg",
+        "title": "Power Supply Unit - Series 2 & 3",
+        "cardImg": "media-second-floor-view-01/02-01-02-04-01.jpg",
         "carouselId": "carousel-02-01-02-04",
         "images": [
-          "media-second-floor-view-02/02-01-02-04-01.jpg",
-          "media-second-floor-view-02/02-01-02-04-02.jpg",
-          "media-second-floor-view-02/02-01-02-04-03.jpg",
-          "media-second-floor-view-02/02-01-02-04-04.jpg"
+          "media-second-floor-view-01/02-01-02-04-01.jpg",
+          "media-second-floor-view-01/02-01-02-04-02.jpg",
+          "media-second-floor-view-01/02-01-02-04-03.jpg",
+          "media-second-floor-view-01/02-01-02-04-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "In-built distributors",
+          "Red gold-plated 5A terminal for stability & durability",
+          "Centralized as well as independent sensor control to achieve diverse lighting management using a single power supply",
+          "Input voltage: AC200-240V",
+          "Comes with 1 mtr power cable",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Power Supply Unit - Series 2</td><td>PSU2-2424</td><td>24W/24V</td><td>White</td></tr><tr><td>PSU2-2436</td><td>36W/24V</td><td>White</td></tr><tr><td>PSU2-2460</td><td>60W/24V</td><td>White</td></tr><tr><td rowspan='3'>Power Supply Unit - Series 3</td><td>PSU3-2436</td><td>36W/24V</td><td>Black</td></tr><tr><td>PSU3-2465</td><td>65W/24V</td><td>Black</td></tr><tr><td>PSU3-24120</td><td>120W/24V</td><td>Black</td></tr><tr><td>Sensor Adapter Cord</td><td>SAC1</td><td>150mm, 2pin to 4pin</td><td>Black</td></tr></tbody></table>"
         ]
       }
     ]
@@ -259,73 +274,82 @@
       {
         "id": "content-02-01-03-01",
         "prevContent": "selection-02-01-03",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-03-01-01.jpg",
+        "title": "Kitchen Pulldown System - Glass",
+        "cardImg": "media-second-floor-view-01/02-01-03-01-01.jpg",
         "carouselId": "carousel-02-01-03-01",
         "images": [
-          "media-second-floor-view-02/02-01-03-01-01.jpg",
-          "media-second-floor-view-02/02-01-03-01-02.jpg",
-          "media-second-floor-view-02/02-01-03-01-03.jpg",
-          "media-second-floor-view-02/02-01-03-01-04.jpg"
+          "media-second-floor-view-01/02-01-03-01-01.jpg",
+          "media-second-floor-view-01/02-01-03-01-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Overhead Storage is now accessible.",
+          "Soft pulldown & Soft lift up feature.",
+          "Ability to adjust the load as per requirement.",
+          "Glass Baskets can easily be removed for cleaning and clipped back.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Pulldown System 600mm Mechanism with Glass Baskets</td><td>KPDSG60-AT</td><td>564 x 526 x 255mm</td><td>Anthracite</td></tr><tr><td>Kitchen Pulldown System 900mm Mechanism with Glass Baskets</td><td>KPDSG90-AT</td><td>Cabinet internal width: 864-868mm Load Capacity: 12 Kgs</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-03-02",
         "prevContent": "selection-02-01-03",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-03-02-01.jpg",
+        "title": "Linear Two Way 18mm With Hand Shake Sensor",
+        "cardImg": "media-second-floor-view-01/02-01-03-02-01.jpg",
         "carouselId": "carousel-02-01-03-02",
         "images": [
-          "media-second-floor-view-02/02-01-03-02-01.jpg",
-          "media-second-floor-view-02/02-01-03-02-02.jpg",
-          "media-second-floor-view-02/02-01-03-02-03.jpg",
-          "media-second-floor-view-02/02-01-03-02-04.jpg"
+          "media-second-floor-view-01/02-01-03-02-01.jpg",
+          "media-second-floor-view-01/02-01-03-02-02.jpeg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Specially designed two-way linear lights for wooden shelf edge mount application.",
+          "Wood thickness: 18mm",
+          "Ideal for handle less shutter",
+          "Multi-functional neutral white LED lighting for simultaneously used for niches and shelves",
+          "Suitable for Residences, commercial offices, retail outlets, etc.",
+          "In-built hand shake sensor to activate and dim the light",
+          "Input: 24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 7.2w/mtrX2nos.",
+          "Led: 120L/mtr",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Linear 2 Way 18mm -H with Hand Shake Sensor</td><td>L-L218H-412</td><td rowspan='3'>Size : 412mm,562mm,862mm Power : 7.2W x 2/mtr No of led - 120/mtr *CCT : 4000K *CRI : Ra 80+ Hand Shake Sensor,Sensoring distance < 5cm</td><td rowspan='3'>Anodized Silver</td></tr><tr><td>L-L218H-562</td></tr><tr><td>L-L218H-862</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-03-03",
         "prevContent": "selection-02-01-03",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-03-03-01.jpg",
+        "title": "Euro Slow Motion Hinge (2-4 Hole Mounting Plate)",
+        "cardImg": "media-second-floor-view-01/02-01-03-03-01.jpg",
         "carouselId": "carousel-02-01-03-03",
         "images": [
-          "media-second-floor-view-02/02-01-03-03-01.jpg",
-          "media-second-floor-view-02/02-01-03-03-02.jpg",
-          "media-second-floor-view-02/02-01-03-03-03.jpg",
-          "media-second-floor-view-02/02-01-03-03-04.jpg"
+          "media-second-floor-view-01/02-01-03-03-01.jpg",
+          "media-second-floor-view-01/02-01-03-03-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Unique built in damping system allows the shutter to close in slow motion without banging.",
+          "Available in Full overlay, Half overlay & Full Inset.",
+          "Max opening 105°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+          "Shutter Thickness: 14mm to 22mm.",
+          "Shutter cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+          "<table><thead><tr><th style='width: auto;' colspan='2'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Full Overlay</td><td>E-HSM1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Half Overlay</td><td>E-HSM2</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Inset</td><td>E-HSM3</td><td>37 + S</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Full Overlay</td><td>E-HSM1-M1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Half Overlay</td><td>E-HSM2-M1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Inset</td><td>E-HSM3-M1</td><td>37 + S</td><td>Nickel Plated /Gun Metal Finish</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-03-04",
         "prevContent": "selection-02-01-03",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-03-04-01.jpg",
+        "title": "Pro Lift - Soft Close",
+        "cardImg": "media-second-floor-view-01/02-01-03-04-01.jpg",
         "carouselId": "carousel-02-01-03-04",
         "images": [
-          "media-second-floor-view-02/02-01-03-04-01.jpg",
-          "media-second-floor-view-02/02-01-03-04-02.jpg",
-          "media-second-floor-view-02/02-01-03-04-03.jpg",
-          "media-second-floor-view-02/02-01-03-04-04.jpg"
+          "media-second-floor-view-01/02-01-03-04-01.jpg",
+          "media-second-floor-view-01/02-01-03-04-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "This new Pro Lift piston is now available with soft close feature that closes the cabinet shutters effortlessly.",
+          "Ideal for overhead cabinets, wooden or aluminium frame shutters.",
+          "Safe and easy to use.",
+          "Force: 60N, 80N, 100N, 120N & 150N.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pro-Lift 60N Soft Close</td><td>PLC-06-SC</td><td>60 N</td><td>Anthracite</td></tr><tr><td>Pro-Lift 80N Soft Close</td><td>PLC-08-SC</td><td>80 N</td><td>Anthracite</td></tr><tr><td>Pro-Lift 100N Soft Close</td><td>PLC-10-SC</td><td>100 N</td><td>Anthracite</td></tr><tr><td>Pro-Lift 120N Soft Close</td><td>PLC-12-SC</td><td>120 N</td><td>Anthracite</td></tr><tr><td>Pro-Lift 150N Soft Close</td><td>PLC-15-SC</td><td>150 N</td><td>Anthracite</td></tr></tbody></table>"
         ]
       }
     ]
@@ -336,37 +360,41 @@
       {
         "id": "content-02-01-04-01",
         "prevContent": "selection-02-01-04",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-04-01-01.jpg",
+        "title": "Eurolifts Bi-fold Door System",
+        "cardImg": "media-second-floor-view-01/02-01-04-01-01.jpg",
         "carouselId": "carousel-02-01-04-01",
         "images": [
-          "media-second-floor-view-02/02-01-04-01-01.jpg",
-          "media-second-floor-view-02/02-01-04-01-02.jpg",
-          "media-second-floor-view-02/02-01-04-01-03.jpg",
-          "media-second-floor-view-02/02-01-04-01-04.jpg"
+          "media-second-floor-view-01/02-01-04-01-01.jpg",
+          "media-second-floor-view-01/02-01-04-01-02.jpg",
+          "media-second-floor-view-01/02-01-04-01-03.jpg",
+          "media-second-floor-view-01/02-01-04-01-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for overhead hanging cabinets.",
+          "Folding type doors in open condition for space saving.",
+          "The kit consists of Mechanism with Cover, Hinge Clip on Bracket, Folding Hinge (2 nos), Allen Key and Self Tapping Screws.",
+          "Available in two lengths for different sizes of Cabinets.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Eurolift Bifold Door System - Ht. 600mm - Left - with Mounting Plates, Central Hinges & Cover</td><td>EBFD60-L</td><td>Ht. 600 mm</td><td>Anthracite</td></tr><tr><td>Eurolift Bifold Door System - Ht. 600mm - Right - with Mounting Plates, Central Hinges & Cover</td><td>EBFD60-R</td><td>Ht. 600 mm</td><td>Anthracite</td></tr><tr><td>Eurolift Bifold Door System - Ht. 720mm - Left - with Mounting Plates, Central Hinges & Cover</td><td>EBFD72-L</td><td>Ht. 720 mm</td><td>Anthracite</td></tr><tr><td>Eurolift Bifold Door System - Ht. 720mm - Right with Mounting Plates, Central Hinges & Cover</td><td>EBFD72-R</td><td>Ht. 720 mm</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-04-02",
         "prevContent": "selection-02-01-04",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-04-02-01.jpg",
+        "title": "Euro Slow Motion Hinge (2-4 Hole Mounting Plate)",
+        "cardImg": "media-second-floor-view-01/02-01-04-02-01.jpg",
         "carouselId": "carousel-02-01-04-02",
         "images": [
-          "media-second-floor-view-02/02-01-04-02-01.jpg",
-          "media-second-floor-view-02/02-01-04-02-02.jpg",
-          "media-second-floor-view-02/02-01-04-02-03.jpg",
-          "media-second-floor-view-02/02-01-04-02-04.jpg"
+          "media-second-floor-view-01/02-01-04-02-01.jpg",
+          "media-second-floor-view-01/02-01-04-02-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Unique built in damping system allows the shutter to close in slow motion without banging.",
+          "Available in Full overlay, Half overlay & Full Inset.",
+          "Max opening 105°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+          "Shutter Thickness: 14mm to 22mm.",
+          "Shutter cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+          "<table><thead><tr><th style='width: auto;' colspan='2'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Full Overlay</td><td>E-HSM1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Half Overlay</td><td>E-HSM2</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Inset</td><td>E-HSM3</td><td>37 + S</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Full Overlay</td><td>E-HSM1-M1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Half Overlay</td><td>E-HSM2-M1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Inset</td><td>E-HSM3-M1</td><td>37 + S</td><td>Nickel Plated /Gun Metal Finish</td></tr></tbody></table>"
         ]
       }
     ]
@@ -377,91 +405,92 @@
       {
         "id": "content-02-01-05-01",
         "prevContent": "selection-02-01-05",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-05-01-01.jpg",
+        "title": "Aluminium Profile Glass Shutter",
+        "cardImg": "media-second-floor-view-01/02-01-05-01-01.jpg",
         "carouselId": "carousel-02-01-05-01",
         "images": [
-          "media-second-floor-view-02/02-01-05-01-01.jpg",
-          "media-second-floor-view-02/02-01-05-01-02.jpg",
-          "media-second-floor-view-02/02-01-05-01-03.jpg",
-          "media-second-floor-view-02/02-01-05-01-04.jpg"
+          "media-second-floor-view-01/02-01-05-01-01.jpg",
+          "media-second-floor-view-01/02-01-05-01-02.jpg",
+          "media-second-floor-view-01/02-01-05-01-03.jpg",
+          "media-second-floor-view-01/02-01-05-01-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Al. Profile for 4mm/8mm THK Glass Panels.",
+          "Al. Profile width: 45/50/55/68/71mm",
+          "Corner brackets to be procured separately",
+          "Sleeves for Aluminium Profile Glass Shutter absorb vibration and thus protects the glass from breaking.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Al. Profile Glass Shutter Euro 45mm -Anodized Silver / Black</td><td>EGSP-4-45-3M-AS/AB</td><td>22 x 45 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle-Anodized Silver / Black</td><td>EGSP-4-45H-3M-AS/AB</td><td>22 x 68 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 45mm - Satin-Special Finish/ Anodized Gold</td><td>EGSP-4-45-3M-SF</td><td>22 x 45 mm</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle-Satin - Special Finish/ Anodized Gold</td><td>EGSP-4-45H-3M-SF</td><td>22 x 68 mm</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 45mm -Satin-Chrome / Brushed Al.</td><td>EGSP-4-45-3M-CP/BA/BG</td><td>22 x 45 mm</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td>Al. Profile Glass Shutter Euro 45 mm with Handle-Satin-Chrome / Brushed Al.</td><td>EGSP-4-45H-3M-CP/BA/BG</td><td>22 x 68 mm</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td rowspan='3'>Al. Profile Glass Shutter Euro 45mm Slim</td><td>EGSPS-4-45-3M-AS/AB</td><td>-</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>EGSPS-4-45-3M-CP/BA/BG</td><td>-</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td>EGSPS-4-45-3M-SF</td><td>-</td><td>Special Finish</td></tr><tr><td rowspan='3'>Al. Profile Glass Shutter Euro 45mm Slim with Handle</td><td>EGSPS-4-45H-3M-AS/AB</td><td>-</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>EGSPS-4-45H-3M-CP/BA/BG</td><td>-</td><td>Chrome Plated /Brushed Aluminium /Brushed Gold</td></tr><tr><td>EGSPS-4-45H-3M-SF</td><td>-</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm - Anodized Silver / Black</td><td>EGSP-4-50-3M-AS/AB</td><td>For 4mm glass</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm with Handle - Anodized Silver / Black</td><td>EGSP-4-50H-3M-AS/AB</td><td>For 4mm glass</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm - Satin - Special Finish</td><td>EGSP-4-50-3M-SF</td><td>For 4mm glass</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter Euro 50mm with Handle -Satin - Special Finish</td><td>EGSP-4-50H-3M-SF</td><td>For 4mm glass</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter 50mm*-Anodized Silver / Black</td><td>GSP1-4-50-3M-AS/AB</td><td>20 x 50 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle*-Anodized Silver /Black</td><td>GSP1-4-50H-3M-AS/AB</td><td>33 x 50 mm</td><td>Anodized Silver / Anodized Black</td></tr><tr><td>Al. Profile Glass Shutter 50mm - Satin - Brushed Gold</td><td>GSP1-4-50-3M-BG</td><td>20 x 50 mm</td><td>Brushed Gold</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle - Satin - Brushed Gold</td><td>GSP1-4-50H-3M-BG</td><td>33 x 50 mm</td><td>Brushed Gold</td></tr><tr><td>Al. Profile Glass Shutter 50mm-Satin*-Special Finish</td><td>GSP1-4-50-3M-SF</td><td>20 x 50 mm</td><td>Special Finish</td></tr><tr><td>Al. Profile Glass Shutter 50mm with Handle-Satin*-Special Finish</td><td>GSP1-4-50H-3M-SF</td><td>33 x 50 mm</td><td>Special Finish</td></tr></tbody></table><div style='visibility: hidden;'>.</div><table><thead><tr><td colspan='5'>Sleeves for Aluminium Profile Glass Shutter</td></tr><tr><td>Item</td><td>Code No.</td><td>Thickness of glass</td><td>Finish</td><td>Lenght(m)</td></tr></thead><tbody><tr><td>Sleeve for 4mm glass</td><td>GSP-SL4-3M</td><td>4mm</td><td>Clear</td><td>3</td></tr><tr><td>Sleeve for Slim Line</td><td>GSP-SL4S-3M</td><td>4mm</td><td>Clear</td><td>3</td></tr></tbody></table><div style='visibility: hidden;'>.</div><table><thead><tr><td colspan='4'>Corner Brackets for Aluminium Profile Glass Shutter</td></tr><tr><td>Item</td><td>Code Nos.</td><td>Size mm</td><td>Finish</td></tr></thead><tbody><tr><td>Corner Bracket for Glass Shutter Profile</td><td>GSP-CBMA</td><td>62 x 62</td><td>Zinc White</td></tr><tr><td>Corner Bracket for Glass Shutter Profile</td><td>GSP-CBM2</td><td>76 x 76</td><td>Zinc White</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-05-02",
         "prevContent": "selection-02-01-05",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-05-02-01.jpg",
+        "title": "Euro Slow Motion Hinge (2-4 Hole Mounting Plate)",
+        "cardImg": "media-second-floor-view-01/02-01-05-02-01.jpg",
         "carouselId": "carousel-02-01-05-02",
         "images": [
-          "media-second-floor-view-02/02-01-05-02-01.jpg",
-          "media-second-floor-view-02/02-01-05-02-02.jpg",
-          "media-second-floor-view-02/02-01-05-02-03.jpg",
-          "media-second-floor-view-02/02-01-05-02-04.jpg"
+          "media-second-floor-view-01/02-01-05-02-01.jpg",
+          "media-second-floor-view-01/02-01-05-02-02.jpg",
+          "media-second-floor-view-01/02-01-05-02-03.jpg",
+          "media-second-floor-view-01/02-01-05-02-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Unique built in damping system allows the shutter to close in slow motion without banging.",
+          "Available in Full overlay, Half overlay & Full Inset.",
+          "Max opening 105°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+          "Shutter Thickness: 14mm to 22mm.",
+          "Shutter cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+          "<table><thead><tr><th style='width: auto;' colspan='2'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Full Overlay</td><td>E-HSM1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Half Overlay</td><td>E-HSM2</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 2 Hole Mounting Plate</td><td>Inset</td><td>E-HSM3</td><td>37 + S</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Full Overlay</td><td>E-HSM1-M1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Half Overlay</td><td>E-HSM2-M1</td><td>37</td><td>Nickel Plated /Gun Metal Finish</td></tr><tr><td>Euro Slow Motion Hinge - with 4 Hole Mounting Plate</td><td>Inset</td><td>E-HSM3-M1</td><td>37 + S</td><td>Nickel Plated /Gun Metal Finish</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-05-03",
         "prevContent": "selection-02-01-05",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-05-03-01.jpg",
+        "title": "Eurolifts Flap Door System",
+        "cardImg": "media-second-floor-view-01/02-01-05-03-01.jpg",
         "carouselId": "carousel-02-01-05-03",
         "images": [
-          "media-second-floor-view-02/02-01-05-03-01.jpg",
-          "media-second-floor-view-02/02-01-05-03-02.jpg",
-          "media-second-floor-view-02/02-01-05-03-03.jpg",
-          "media-second-floor-view-02/02-01-05-03-04.jpg"
+          "media-second-floor-view-01/02-01-05-03-01.jpg",
+          "media-second-floor-view-01/02-01-05-03-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for overhead hanging cabinets.",
+          "Flap type fully openable door for easy assessibility.",
+          "The kit consists of Mechanism with Cover, Hinge Clip on Bracket, Allen Key and Self Tapping Screws.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Eurolift Flap Door System - Left with Mounting Plate & Cover</td><td>EFD1-L</td><td rowspan='2'>-</td><td rowspan='2'>Anthracite</td></tr><tr><td>Eurolift Flap Door System - Right with Mounting Plate & Cover</td><td>EFD1-R</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-05-04",
         "prevContent": "selection-02-01-05",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-05-04-01.jpg",
+        "title": "Kitchen Plate Rack - Glass Rack - Drip tray",
+        "cardImg": "media-second-floor-view-01/02-01-05-04-01.jpg",
         "carouselId": "carousel-02-01-05-04",
         "images": [
-          "media-second-floor-view-02/02-01-05-04-01.jpg",
-          "media-second-floor-view-02/02-01-05-04-02.jpg",
-          "media-second-floor-view-02/02-01-05-04-03.jpg",
-          "media-second-floor-view-02/02-01-05-04-04.jpg"
+          "media-second-floor-view-01/02-01-05-04-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Elegantly designed for good aesthetics and made out of SS 304 for long life.",
+          "Easy to fit.",
+          "Ideal kitchen accessories to store Plates & Glasses.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Kitchen Plate Rack</td><td>PR-16-10</td><td>400</td><td rowspan='24'>-</td></tr><tr><td>PR-18-10</td><td>451</td></tr><tr><td>PR-22-10</td><td>554</td></tr><tr><td>PR-24-10</td><td>590</td></tr><tr><td>PR-26-10</td><td>655</td></tr><tr><td>PR-28-10</td><td>700</td></tr><tr><td>PR-30-10</td><td>750</td></tr><tr><td>PR-34-10</td><td>850</td></tr><tr><td rowspan='8'>Kitchen Glass Rack</td><td>GR-16-10</td><td>400</td></tr><tr><td>GR-18-10</td><td>451</td></tr><tr><td>GR-22-10</td><td>554</td></tr><tr><td>GR-24-10</td><td>590</td></tr><tr><td>GR-26-10</td><td>655</td></tr><tr><td>GR-28-10</td><td>700</td></tr><tr><td>GR-30-10</td><td>750</td></tr><tr><td>GR-34-10</td><td>850</td></tr><tr><td rowspan='8'>Kitchen Drip Tray</td><td>DT-16-10E</td><td>450</td></tr><tr><td>DT-18-10E</td><td>500</td></tr><tr><td>DT-22-10E</td><td>550</td></tr><tr><td>DT-24-10E</td><td>600</td></tr><tr><td>DT-26-10E</td><td>700</td></tr><tr><td>DT-28-10E</td><td>710</td></tr><tr><td>DT-30-10E</td><td>760</td></tr><tr><td>DT-34-10E</td><td>860</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-05-05",
         "prevContent": "selection-02-01-05",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-05-05-01.jpg",
+        "title": "Aluminium Profile Cabinet Edge",
+        "cardImg": "media-second-floor-view-01/02-01-05-05-01.jpg",
         "carouselId": "carousel-02-01-05-05",
         "images": [
-          "media-second-floor-view-02/02-01-05-05-01.jpg",
-          "media-second-floor-view-02/02-01-05-05-02.jpg",
-          "media-second-floor-view-02/02-01-05-05-03.jpg",
-          "media-second-floor-view-02/02-01-05-05-04.jpg"
+          "media-second-floor-view-01/02-01-05-05-01.jpg",
+          "media-second-floor-view-01/02-01-05-05-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for overhead cabinet with handle-less shutters.",
+          "Compatible for 18mm board.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Aluminium Profile Cabinet Edge</td><td>EP-1819L-3M-AS/AT/AB/CP/BG/SF</td><td>18 x 19mm</td><td rowspan='2'>Anodized Silver / Anthracite / Anodized Black / Chrome Plated / Brushed Gold / Special Finish</td></tr><tr><td>Aluminium Profile Cabinet Edge with Bumper</td><td>EP-1822L-3M-AS/AT/AB/CP/BG/SF</td><td>18 x 22mm</td></tr></tbody></table>"
         ]
       }
     ]
@@ -472,127 +501,150 @@
       {
         "id": "content-02-01-06-01",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-01-01.jpg",
+        "title": "Pro-motion Drawer System 122 - S3",
+        "cardImg": "media-second-floor-view-01/02-01-06-01-01.jpg",
         "carouselId": "carousel-02-01-06-01",
         "images": [
-          "media-second-floor-view-02/02-01-06-01-01.jpg",
-          "media-second-floor-view-02/02-01-06-01-02.jpg",
-          "media-second-floor-view-02/02-01-06-01-03.jpg",
-          "media-second-floor-view-02/02-01-06-01-04.jpg"
+          "media-second-floor-view-01/02-01-06-01-01.jpg",
+          "media-second-floor-view-01/02-01-06-01-02.jpg",
+          "media-second-floor-view-01/02-01-06-01-03.jpg",
+          "media-second-floor-view-01/02-01-06-01-04.jpg",
+          "media-second-floor-view-01/02-01-06-01-05.jpg",
+          "media-second-floor-view-01/02-01-06-01-06.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 122mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Drawer System 122 - Slim 3</td><td>PMDS2-30-S3</td><td>114</td><td>122 x 300, 50Kg</td><td>White/ Anthracite</td></tr><tr><td>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-35-S3</td><td>114</td><td>122 x 350, 50Kg</td><td>White/ Anthracite</td></tr><tr><td>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-40-S3</td><td>114</td><td>122 x 400, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-45-S3</td><td>114</td><td>122 x 450, 50Kg</td><td>White / Anthracite / Brown / Oak / Black</td></tr><tr><td>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-50-S3</td><td>114</td><td>122 x 500, 50Kg</td><td>White / Anthracite / Brown / Oak / Black</td></tr><tr><td>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-55-S3</td><td>114</td><td>122 x 550, 50Kg</td><td>White / Anthracite / Brown / Oak / Black</td></tr><tr><td>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-60-S3</td><td>114</td><td>120 x 600, 50Kg</td><td>White / Anthracite / Brown / Black</td></tr><tr><td>Facia Connector for PMDS2 'S3' Series</td><td>PMDS2-S3-FC</td><td>-</td><td>-</td><td>White / Anthracite / Brown / Black</td></tr><tr><td>Aluminium Facia Panel for PMDS2 'S3' Series</td><td>PMDS2-S3-FP</td><td>-</td><td>90 mm (H) x 3 mtr. (W)</td><td>White / Anthracite / Brown / Black</td></tr><tr><td>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>-</td><td>450 mm</td><td>White / Anthracite / Brown</td></tr><tr><td>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-50-S3</td><td>-</td><td>500 mm</td><td>White / Anthracite / Brown</td></tr><tr><td>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-55-S3</td><td>-</td><td>550 mm</td><td>White / Anthracite / Brown</td></tr><tr><td>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-60-S3</td><td>-</td><td>600 mm</td><td>White / Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>-</td><td>500mm</td><td>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td><td>-</td><td>Antracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-06-02",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-02-01.jpg",
+        "title": "Pro-motion Drawer System 203 - S3",
+        "cardImg": "media-second-floor-view-01/02-01-06-02-01.jpg",
         "carouselId": "carousel-02-01-06-02",
         "images": [
-          "media-second-floor-view-02/02-01-06-02-01.jpg",
-          "media-second-floor-view-02/02-01-06-02-02.jpg",
-          "media-second-floor-view-02/02-01-06-02-03.jpg",
-          "media-second-floor-view-02/02-01-06-02-04.jpg"
+          "media-second-floor-view-01/02-01-06-02-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Length: 450, 500 & 550mm",
+          "Side panel height: 203mm",
+          "Drawer width can be designed freely with automatic error adujustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Finish: White (WH), Antharacite (AT)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Pro-motion Drawer System 203 - S3</td><td>PMDS4-45-S3</td><td>203 X 450mm, 50Kg</td><td rowspan='3'>White / Anthracite</td></tr><tr><td>PMDS4-50-S3</td><td>203 X 500mm, 50Kg</td></tr><tr><td>PMDS4-55-S3</td><td>203 x 550mm, 50Kg</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion Slim 3 Series)</td><td>PMDS-G1-45-S3</td><td>-</td><td rowspan='3'>White / Anthracite / Brown</td></tr><tr><td>PMDS-G1-50-S3</td><td>-</td></tr><tr><td>PMDS-G1-55-S3</td><td>-</td></tr><tr><td>PMDS-G1-60-S3</td><td>-</td><td>White / Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-06-03",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-03-01.jpg",
+        "title": "Anti Skid Mat",
+        "cardImg": "media-second-floor-view-01/02-01-06-03-01.jpg",
         "carouselId": "carousel-02-01-06-03",
         "images": [
-          "media-second-floor-view-02/02-01-06-03-01.jpg",
-          "media-second-floor-view-02/02-01-06-03-02.jpg",
-          "media-second-floor-view-02/02-01-06-03-03.jpg",
-          "media-second-floor-view-02/02-01-06-03-04.jpg"
+          "media-second-floor-view-01/02-01-06-03-01.jpg",
+          "media-second-floor-view-01/02-01-06-03-02.jpg",
+          "media-second-floor-view-01/02-01-06-03-03.jpg",
+          "media-second-floor-view-01/02-01-06-03-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Safeguard cutlery from sliding out with these Anti skid mats.",
+          "Ideal for kitchen drawers, cabinet/ wardrobe shelves, working table, etc.",
+          "Dotted and lined upper surface for better hold and superior anti skid coating at the bottom.",
+          "For use in kitchen drawers and shelves - protects furniture from water dripping and the anti skid feature keeps the cutlery and utensils in place.",
+          "For use in wardrobe and shelves - protects clothes from wood coating stain.",
+          "Easy to clean and reuse.",
+          "Available in various finish.",
+          "Comes in rolls, each of which are 510 mm wide x 5 meters long.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Anti Skid Mat 2 - Clear (Dotted)</td><td>ASM2-CLD</td><td>51cm x 5m</td><td>Clear</td></tr><tr><td>Anti Skid Mat 2 - Anthracite (Dotted)</td><td>ASM2B-ATD</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 5 - Anthracite (Cross)</td><td>ASM5-ATC</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Anthracite (Line)</td><td>ASM6-ATL</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Beige (Line)</td><td>ASM6-BEL</td><td>51cm x 5m</td><td>Beige</td></tr><tr><td>Anti Skid Mat 7</td><td>ASM7-AT</td><td>510mm x 20m x 1.2mm</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 8</td><td>ASM8-AT/BL</td><td>510mm x 20m x 1.2mm</td><td>Anthracite / Black</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-06-04",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-04-01.jpg",
+        "title": "Modular Cutlery Trays & Accessories",
+        "cardImg": "media-second-floor-view-01/02-01-06-04-01.jpg",
         "carouselId": "carousel-02-01-06-04",
         "images": [
-          "media-second-floor-view-02/02-01-06-04-01.jpg",
-          "media-second-floor-view-02/02-01-06-04-02.jpg",
-          "media-second-floor-view-02/02-01-06-04-03.jpg",
-          "media-second-floor-view-02/02-01-06-04-04.jpg"
+          "media-second-floor-view-01/02-01-06-04-01.jpg",
+          "media-second-floor-view-01/02-01-06-04-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Organize drawers as desired with flexible single/ double wing trays.",
+          "These flexible trays can be easily positioned on the side or in the middle of a drawer with any combination of your choice.",
+          "These wing trays can be equipped with knife block & cutting board, thereby providing additional space to accessorize drawers as required.",
+          "<table><thead><tr><th>Item</th><th>Code</th><th>Size (in mm)</th><th>Finish</th></tr></thead><tbody><tr><td>Modular Cutlery Tray 10-20 (Single Wing)</td><td>MCT-1020-SW</td><td>260 490 45 (W D H)</td><td>AT</td></tr><tr><td>Modular Cutlery Tray 9-20 (Single Wing)</td><td>MCT-920-SW</td><td>235 490 45 (W D H)</td><td>AT</td></tr><tr><td>Modular Cutlery Tray 15-20 (Single Wing)</td><td>MCT-1520-SW</td><td>370 490 45 (W D H)</td><td>AT</td></tr><tr><td>Modular Cutlery Tray 11-20 (Double Wing)</td><td>MCT-1120-DW</td><td>270 490 45 (W D H)</td><td>AT</td></tr><tr><td>Modular Cutlery Tray - Knife Block</td><td>MCT-KB2</td><td>100 200 45 (W D H)</td><td>WD</td></tr><tr><td>Modular Cutlery Tray - Cutting Board</td><td>MCT-CB2</td><td>85 395 10 (W D H)</td><td>WD</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-06-05",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-05-01.jpg",
+        "title": "Kitchen Drawer Rack - Thali - SS304",
+        "cardImg": "media-second-floor-view-01/02-01-06-05-01.jpg",
         "carouselId": "carousel-02-01-06-05",
         "images": [
-          "media-second-floor-view-02/02-01-06-05-01.jpg",
-          "media-second-floor-view-02/02-01-06-05-02.jpg",
-          "media-second-floor-view-02/02-01-06-05-03.jpg",
-          "media-second-floor-view-02/02-01-06-05-04.jpg"
+          "media-second-floor-view-01/02-01-06-05-01.jpg",
+          "media-second-floor-view-01/02-01-06-05-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Portable kitchen thali rack.",
+          "Can be positioned inside drawers, cabinets, or on the kitchen countertop.",
+          "Made of SS304 grade and electro polished (safer for kitchen use - unlike chrome plating).",
+          "Designed for convenience, has a handle grip so that it can be comfortably carried.",
+          "Has PVC coating to protect thalis from scratches.",
+          "Rubber bush prevents the rack from moving, slipping, or scratching the surface on which it is placed.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Drawer Rack - Thali</td><td>KDR-18T</td><td>464x159mm</td><td>SS</td></tr><tr><td>Kitchen Drawer Rack-Thali</td><td>KDR-20T</td><td>514x159mm</td><td>SS</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-06-06",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-06-01.jpg",
+        "title": "Horizontal Gola Profile",
+        "cardImg": "media-second-floor-view-01/02-01-06-06-01.webp",
         "carouselId": "carousel-02-01-06-06",
         "images": [
-          "media-second-floor-view-02/02-01-06-06-01.jpg",
-          "media-second-floor-view-02/02-01-06-06-02.jpg",
-          "media-second-floor-view-02/02-01-06-06-03.jpg",
-          "media-second-floor-view-02/02-01-06-06-04.jpg"
+          "media-second-floor-view-01/02-01-06-06-01.webp",
+          "media-second-floor-view-01/02-01-06-06-02.webp",
+          "media-second-floor-view-01/02-01-06-06-03.webp"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Enhance the kitchen design with a seamless handle profile (no additional handle on shutter)",
+          "Horizontal Gola Profile 3L is ideal for upper or single drawer while 3C is ideal for lower or two drawers",
+          "Gola Profile - L for the upper or single drawer",
+          "Gola Profile - C for lower or two drawers",
+          "LED Strip light - 5mm / COB Strip light - 5mm need to be order separately",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Horizontal Gola Profile 3 L</td><td>HG3L</td><td>Height- 58mm, Length- 3mtr</td><td rowspan='2'>Anodized Silver / Anthracite / Anodized Black / Special Finish / Brushed Gold</td></tr><tr><td>Horizontal Gola Profile 3 C</td><td>HG3C</td><td>Height- 71mm, Length- 3mtr</td></tr><tr><td>Horizontal Gola 3 End Cap for L</td><td>HG3L-EC</td><td rowspan='2'>-</td><td rowspan='2'>Anodized Silver/ White Mat / Anthracite / Black / Special Finish / Champagne / Gold Finish</td></tr><tr><td>Horizontal Gola 3 End Cap for C</td><td>HG3C-EC</td></tr><tr><td>Horizontal Gola 3 Mounting Bracket</td><td>HG3-MB</td><td>-</td><td>Zinc White</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-06-07",
         "prevContent": "selection-02-01-06",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-06-07-01.jpg",
+        "title": "LED For PMDS 'S3' Series 50",
+        "cardImg": "media-second-floor-view-01/02-01-06-07-01.webp",
         "carouselId": "carousel-02-01-06-07",
         "images": [
-          "media-second-floor-view-02/02-01-06-07-01.jpg",
-          "media-second-floor-view-02/02-01-06-07-02.jpg",
-          "media-second-floor-view-02/02-01-06-07-03.jpg",
-          "media-second-floor-view-02/02-01-06-07-04.jpg"
+          "media-second-floor-view-01/02-01-06-07-01.webp",
+          "media-second-floor-view-01/02-01-06-07-02.webp",
+          "media-second-floor-view-01/02-01-06-07-03.webp",
+          "media-second-floor-view-01/02-01-06-07-04.webp"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Elegant lighting that enhances the usability and appearance of the PMDS S3 Series 50",
+          "ON/OFF button on controller box helps conserve battery.",
+          "Includes 2 lights (right & left, 500mm each) and 1 controller box for full drawer coverage",
+          "Tool-free installation with strong adhesive backing.",
+          "Runs on 6 AAA batteries with a built-in sensor that automatically turns on the light when the drawer opens and switches off when closed or after 20 seconds.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Led for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500</td><td>Anthracite</td></tr></tbody></table>"
         ]
       }
     ]
@@ -603,91 +655,107 @@
       {
         "id": "content-02-01-07-01",
         "prevContent": "selection-02-01-07",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-07-01-01.jpg",
+        "title": "Pro-motion Drawer System - S3 Series with Glass",
+        "cardImg": "media-second-floor-view-01/02-01-07-01-01.jpg",
         "carouselId": "carousel-02-01-07-01",
         "images": [
-          "media-second-floor-view-02/02-01-07-01-01.jpg",
-          "media-second-floor-view-02/02-01-07-01-02.jpg",
-          "media-second-floor-view-02/02-01-07-01-03.jpg",
-          "media-second-floor-view-02/02-01-07-01-04.jpg"
+          "media-second-floor-view-01/02-01-07-01-01.jpg",
+          "media-second-floor-view-01/02-01-07-01-02.jpg",
+          "media-second-floor-view-01/02-01-07-01-03.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Freely designed drawer width with automatic error adjustment",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle",
+          "Load capacity: 50kg",
+          "Length: 450, 500 & 550mm",
+          "Height: 90, 122 & 172mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Pro-motion Drawer System 90 - Slim3 with Glass</td><td>PMDS1G-45-S3</td><td>90x450mm, 50Kg</td><td rowspan='9'>White / Anthracite</td></tr><tr><td>PMDS1G-50-S3</td><td>90x500mm, 50Kg</td></tr><tr><td>PMDS1G-55-S3</td><td>90x550mm, 50Kg</td></tr><tr><td rowspan='3'>Pro-motion Drawer System 122 - Slim3 with Glass</td><td>PMDS2G-45-S3</td><td>122x450mm, 50Kg</td></tr><tr><td>PMDS2G-50-S3</td><td>122x500mm, 50Kg</td></tr><tr><td>PMDS2G-55-S3</td><td>122x550mm, 50Kg</td></tr><tr><td rowspan='3'>Pro-motion Drawer System 172 - Slim3 with Glass</td><td>PMDS3G-45-S3</td><td>172x450mm, 50Kg</td></tr><tr><td>PMDS3G-50-S3</td><td>172x500mm, 50Kg</td></tr><tr><td>PMDS3G-55-S3</td><td>172x550mm, 50Kg</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-07-02",
         "prevContent": "selection-02-01-07",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-07-02-01.jpg",
+        "title": "Drawer Partition Kitchen",
+        "cardImg": "media-second-floor-view-01/02-01-07-02-01.jpg",
         "carouselId": "carousel-02-01-07-02",
         "images": [
-          "media-second-floor-view-02/02-01-07-02-01.jpg",
-          "media-second-floor-view-02/02-01-07-02-02.jpg",
-          "media-second-floor-view-02/02-01-07-02-03.jpg",
-          "media-second-floor-view-02/02-01-07-02-04.jpg"
+          "media-second-floor-view-01/02-01-07-02-01.jpg",
+          "media-second-floor-view-01/02-01-07-02-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Organize drawers as desired with flexible drawer partitions.",
+          "Available in Do It Yourself (DIY) kit & fun to assemble.",
+          "It can be easily positioned on the side or in the middle of drawer with any combination of your choice",
+          "Ideal for storing multiple items such as spoons, knifes etc. (For Kitchen).",
+          "Recommended to use with anti skid mat by Livsmart.",
+          "Finish: Anthracite for kitchen.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Drawer Partition - Kitchen</td><td>DPK-2048-A</td><td rowspan='2'>200 x 475</td><td rowspan='6'>Anthracite</td></tr><tr><td>DPK-2048-B</td></tr><tr><td>DPK-3048-A</td><td rowspan='2'>300 x 475</td></tr><tr><td>DPK-3048-B</td></tr><tr><td>DPK-4048-A</td><td rowspan='2'>400 x 475</td></tr><tr><td>DPK-4048-B</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-07-03",
         "prevContent": "selection-02-01-07",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-07-03-01.jpg",
+        "title": "Kitchen Drawer Rack - Plate - SS304",
+        "cardImg": "media-second-floor-view-01/02-01-07-03-01.jpg",
         "carouselId": "carousel-02-01-07-03",
         "images": [
-          "media-second-floor-view-02/02-01-07-03-01.jpg",
-          "media-second-floor-view-02/02-01-07-03-02.jpg",
-          "media-second-floor-view-02/02-01-07-03-03.jpg",
-          "media-second-floor-view-02/02-01-07-03-04.jpg"
+          "media-second-floor-view-01/02-01-07-03-01.jpg",
+          "media-second-floor-view-01/02-01-07-03-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Portable kitchen plate rack.",
+          "Can be positioned inside drawers, cabinets, or on the kitchen countertop.",
+          "Made of SS304 grade and electro polished (safer for kitchen use - unlike chrome plating).",
+          "Designed for convenience, has a handle grip so that it can be comfortably carried.",
+          "Has PVC coating to protect plates from scratches.",
+          "Rubber bush prevents the rack from moving, slipping, or scratching the surface on which it is placed.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Drawer Rack - Plate</td><td>KDR-18P</td><td>46.4 x 12.8 cm</td><td>SS</td></tr><tr><td>Kitchen Drawer Rack - Plate</td><td>KDR-20P</td><td>51.4 x 12.8 cm</td><td>SS</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-07-04",
         "prevContent": "selection-02-01-07",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-07-04-01.jpg",
+        "title": "Drawer Plate Organiser",
+        "cardImg": "media-second-floor-view-01/02-01-07-04-01.jpg",
         "carouselId": "carousel-02-01-07-04",
         "images": [
-          "media-second-floor-view-02/02-01-07-04-01.jpg",
-          "media-second-floor-view-02/02-01-07-04-02.jpg",
-          "media-second-floor-view-02/02-01-07-04-03.jpg",
-          "media-second-floor-view-02/02-01-07-04-04.jpg"
+          "media-second-floor-view-01/02-01-07-04-01.jpg",
+          "media-second-floor-view-01/02-01-07-04-02.jpg",
+          "media-second-floor-view-01/02-01-07-04-03.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Add on Drawer plate organiser with end cover",
+          "Can be positioned inside Drawers, Cabinets or on the kitchen countertop",
+          "Comes in one size and two end caps",
+          "By adding the plate organisers size can be increased",
+          "Holes provided to drain water form plates",
+          "Finish: Grey / White",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Drawer Plate Organiser</td><td>DPO1-610</td><td>-</td><td>GR/WH</td></tr><tr><td>End Cover for Drawer Plate Organiser</td><td>DPO1-EC</td><td>-</td><td>DPO1-EC</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-07-05",
         "prevContent": "selection-02-01-07",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-07-05-01.jpg",
+        "title": "Anti Skid Mat",
+        "cardImg": "media-second-floor-view-01/02-01-07-05-01.jpg",
         "carouselId": "carousel-02-01-07-05",
         "images": [
-          "media-second-floor-view-02/02-01-07-05-01.jpg",
-          "media-second-floor-view-02/02-01-07-05-02.jpg",
-          "media-second-floor-view-02/02-01-07-05-03.jpg",
-          "media-second-floor-view-02/02-01-07-05-04.jpg"
+          "media-second-floor-view-01/02-01-07-05-01.jpg",
+          "media-second-floor-view-01/02-01-07-05-02.jpg",
+          "media-second-floor-view-01/02-01-07-05-03.jpg",
+          "media-second-floor-view-01/02-01-07-05-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Safeguard cutlery from sliding out with these Anti skid mats.",
+          "Ideal for kitchen drawers, cabinet/ wardrobe shelves, working table, etc.",
+          "Dotted and lined upper surface for better hold and superior anti skid coating at the bottom.",
+          "For use in kitchen drawers and shelves - protects furniture from water dripping and the anti skid feature keeps the cutlery and utensils in place.",
+          "For use in wardrobe and shelves - protects clothes from wood coating stain.",
+          "Easy to clean and reuse.",
+          "Available in various finish.",
+          "Comes in rolls, each of which are 510 mm wide x 5 meters long.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Anti Skid Mat 2 - Clear (Dotted)</td><td>ASM2-CLD</td><td>51cm x 5m</td><td>Clear</td></tr><tr><td>Anti Skid Mat 2 - Anthracite (Dotted)</td><td>ASM2B-ATD</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 5 - Anthracite (Cross)</td><td>ASM5-ATC</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Anthracite (Line)</td><td>ASM6-ATL</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Beige (Line)</td><td>ASM6-BEL</td><td>51cm x 5m</td><td>Beige</td></tr><tr><td>Anti Skid Mat 7</td><td>ASM7-AT</td><td>510mm x 20m x 1.2mm</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 8</td><td>ASM8-AT/BL</td><td>510mm x 20m x 1.2mm</td><td>Anthracite / Black</td></tr></tbody></table>"
         ]
       }
     ]
@@ -698,109 +766,138 @@
       {
         "id": "content-02-01-08-01",
         "prevContent": "selection-02-01-08",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-08-01-01.jpg",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-second-floor-view-01/02-01-08-01-01.jpg",
         "carouselId": "carousel-02-01-08-01",
         "images": [
-          "media-second-floor-view-02/02-01-08-01-01.jpg",
-          "media-second-floor-view-02/02-01-08-01-02.jpg",
-          "media-second-floor-view-02/02-01-08-01-03.jpg",
-          "media-second-floor-view-02/02-01-08-01-04.jpg"
+          "media-second-floor-view-01/02-01-08-01-01.jpg",
+          "media-second-floor-view-01/02-01-08-01-02.jpg",
+          "media-second-floor-view-01/02-01-08-01-03.jpg",
+          "media-second-floor-view-01/02-01-08-01-04.jpg",
+          "media-second-floor-view-01/02-01-08-01-05.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Quick installation and dismantle.",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 90mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Black (BL), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='7'>Pro-motion Drawer System 90 - S3</td><td>PMDS1-30-S3</td><td>90 X 300, 50Kg</td><td rowspan='2'>White / Anthracite</td></tr><tr><td>PMDS1-35-S3</td><td>90 X 350, 50Kg</td></tr><tr><td>PMDS1-40-S3</td><td>90 X 400, 50Kg</td><td>White / Anthracite / Black</td></tr><tr><td>PMDS1-45-S3</td><td>90 X 450, 50Kg</td><td>White / Anthracite/ Brown /Black/ Oak</td></tr><tr><td>PMDS1-50-S3</td><td>90 X 500, 50Kg</td><td rowspan='2'>White / Anthracite/ Brown / Black / Oak</td></tr><tr><td>PMDS1-55-S3</td><td>90 X 550, 50Kg</td></tr><tr><td>PMDS1-60-S3</td><td>90 X 600, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>Fascia Connector for PMDS1 'S3' Series</td><td>PMDS1-S3-FC</td><td>-</td><td>White / Anthracite / Brown / Black</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>450 mm</td><td rowspan='3'>White/Anthracite/Brown</td></tr><tr><td>PMDS-G1-50-S3</td><td>500 mm</td></tr><tr><td>PMDS-G1-55-S3</td><td>550 mm</td></tr><tr><td>PMDS-G1-60-S3</td><td>600 mm</td><td>White/Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-08-02",
         "prevContent": "selection-02-01-08",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-08-02-01.jpg",
+        "title": "Pro-motion Drawer System 172 - S3",
+        "cardImg": "media-second-floor-view-01/02-01-08-02-01.jpg",
         "carouselId": "carousel-02-01-08-02",
         "images": [
-          "media-second-floor-view-02/02-01-08-02-01.jpg",
-          "media-second-floor-view-02/02-01-08-02-02.jpg",
-          "media-second-floor-view-02/02-01-08-02-03.jpg",
-          "media-second-floor-view-02/02-01-08-02-04.jpg"
+          "media-second-floor-view-01/02-01-08-02-01.jpg",
+          "media-second-floor-view-01/02-01-08-02-02.jpg",
+          "media-second-floor-view-01/02-01-08-02-03.jpg",
+          "media-second-floor-view-01/02-01-08-02-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 172mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='10'>Pro-Motion Drawer System 172 -S3</td><td>PMDS3-30-S3</td><td>172 x 300, 50Kg</td><td rowspan='2'>White/ Anthracite</td></tr><tr><td>PMDS3-35-S3</td><td>172 x 350, 50Kg</td></tr><tr><td>PMDS3-40-S3</td><td>172 x 400, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>PMDS3-45-S3</td><td>172 x 450, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-45-S3-OK</td><td>172 x 450, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-50-S3</td><td>172 x 500, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-50-S3-OK</td><td>172 x 500, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-55-S3</td><td>172 x 550, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-55-S3-OK</td><td>172 x 550, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-60-S3</td><td>172 x 600, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>Aluminium Facia Panel for PMDS3 'S3' Series</td><td>PMDS3-S3-FP</td><td>90 mm (H) x 3 mtr. (W)</td><td>White / Anthracite / Brown / Black</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 45</td><td>PMDS3-S3-FG-45</td><td>for 450mm Glass Cabinet</td><td rowspan='3'>-</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 60</td><td>PMDS3-S3-FG-60</td><td>for 600mm Glass Cabinet</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 90</td><td>PMDS3-S3-FG-90</td><td>for 900mm Glass Cabinet</td></tr><tr><td>Aluminium Fascia Rail for PMDS3 'S3' Series</td><td>PMDS3-S3-FR</td><td>Length: 3 mtr.</td><td rowspan='6'>White / Anthracite / Brown / Black</td></tr><tr><td>Facia connector for PMDS3 'S3' Series for Rail</td><td>PMDS3-S3-FC-R</td><td>Length: 3 mtr.</td></tr><tr><td>Facia connector for PMDS3 'S3' Series for Glass/Aluminium Panel</td><td>PMDS3S3-FC-GP</td><td>-</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>450 mm</td></tr><tr><td>PMDS-G1-50-S3</td><td>500 mm</td></tr><tr><td>PMDS-G1-55-S3</td><td>550 mm</td></tr><tr><td>PMDS-G1-60-S3</td><td>600 mm</td><td>White/Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-08-03",
         "prevContent": "selection-02-01-08",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-08-03-01.jpg",
+        "title": "Kitchen Cutlery Tray 5",
+        "cardImg": "media-second-floor-view-01/02-01-08-03-01.jpg",
         "carouselId": "carousel-02-01-08-03",
         "images": [
-          "media-second-floor-view-02/02-01-08-03-01.jpg",
-          "media-second-floor-view-02/02-01-08-03-02.jpg",
-          "media-second-floor-view-02/02-01-08-03-03.jpg",
-          "media-second-floor-view-02/02-01-08-03-04.jpg"
+          "media-second-floor-view-01/02-01-08-03-01.jpg",
+          "media-second-floor-view-01/02-01-08-03-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Multiple compartments keep cutlery and tools neatly organised",
+          "Diagonal stripes pattern tray surface for better hold",
+          "Diamond pattern top for an elegant look",
+          "Height: 55mm and Depth: 420-490mm",
+          "Available in 7 different cut-able widths to fit any drawer",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='7'>Kitchen Cutlery Tray 5</td><td>KCT5-40-AT</td><td>W290-350 x D420-490 x H55</td><td rowspan='7'>Anthracite</td></tr><tr><td>KCT5-45-AT</td><td>W340-400 x D420-490 x H55</td></tr><tr><td>KCT5-50-AT</td><td>W390-450 x D420-490 x H55</td></tr><tr><td>KCT5-60-AT</td><td>W490-550 x D420-490 x H55</td></tr><tr><td>KCT5-70-AT</td><td>W590-650 x D420-490 x H55</td></tr><tr><td>KCT5-80-AT</td><td>W690-750 x D420-490 x H55</td></tr><tr><td>KCT5-90-AT</td><td>W790-850 x D420-490 x H55</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-08-04",
         "prevContent": "selection-02-01-08",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-08-04-01.jpg",
+        "title": "Kitchen Drawer Bin",
+        "cardImg": "media-second-floor-view-01/02-01-08-04-01.jpg",
         "carouselId": "carousel-02-01-08-04",
         "images": [
-          "media-second-floor-view-02/02-01-08-04-01.jpg",
-          "media-second-floor-view-02/02-01-08-04-02.jpg",
-          "media-second-floor-view-02/02-01-08-04-03.jpg",
-          "media-second-floor-view-02/02-01-08-04-04.jpg"
+          "media-second-floor-view-01/02-01-08-04-01.jpg",
+          "media-second-floor-view-01/02-01-08-04-02.jpg",
+          "media-second-floor-view-01/02-01-08-04-03.jpg",
+          "media-second-floor-view-01/02-01-08-04-04.jpg",
+          "media-second-floor-view-01/02-01-08-04-05.jpg",
+          "media-second-floor-view-01/02-01-08-04-06.jpg",
+          "media-second-floor-view-01/02-01-08-04-07.jpg",
+          "media-second-floor-view-01/02-01-08-04-08.jpg",
+          "media-second-floor-view-01/02-01-08-04-09.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Suitable for drawer width 600mm/900mm",
+          "Capacity: 35L (15L+20L), 55L (15L+20L+20L)",
+          "Available in: Tray Width: Min.(500) - Max.(540), Tray Width: Min.(800) - Max.(840)",
+          "Tray Depth: Min.(400) - Max.(490), Tray Depth: Min.(400) - Max.(490)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Drawer Bin - 60 (35 Ltr.)</td><td>KDB60-35-AT</td><td>W500-540 D400-490 H270 35L (15L + 20L)</td><td>Anthracite</td></tr><tr><td>Kitchen Drawer Bin - 90 (55 Ltr.)</td><td>KDB90-55-AT</td><td>W800-840 D400-490 H270 55L (2*20L + 15L)</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-08-05",
         "prevContent": "selection-02-01-08",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-08-05-01.jpg",
+        "title": "Anti Skid Mat",
+        "cardImg": "media-second-floor-view-01/02-01-08-05-01.jpg",
         "carouselId": "carousel-02-01-08-05",
         "images": [
-          "media-second-floor-view-02/02-01-08-05-01.jpg",
-          "media-second-floor-view-02/02-01-08-05-02.jpg",
-          "media-second-floor-view-02/02-01-08-05-03.jpg",
-          "media-second-floor-view-02/02-01-08-05-04.jpg"
+          "media-second-floor-view-01/02-01-08-05-01.jpg",
+          "media-second-floor-view-01/02-01-08-05-02.jpg",
+          "media-second-floor-view-01/02-01-08-05-03.jpg",
+          "media-second-floor-view-01/02-01-08-05-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Safeguard cutlery from sliding out with these Anti skid mats.",
+          "Ideal for kitchen drawers, cabinet/ wardrobe shelves, working table, etc.",
+          "Dotted and lined upper surface for better hold and superior anti skid coating at the bottom.",
+          "For use in kitchen drawers and shelves - protects furniture from water dripping and the anti skid feature keeps the cutlery and utensils in place.",
+          "For use in wardrobe and shelves - protects clothes from wood coating stain.",
+          "Easy to clean and reuse.",
+          "Available in various finish.",
+          "Comes in rolls, each of which are 510 mm wide x 5 meters long.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Anti Skid Mat 2 - Clear (Dotted)</td><td>ASM2-CLD</td><td>51cm x 5m</td><td>Clear</td></tr><tr><td>Anti Skid Mat 2 - Anthracite (Dotted)</td><td>ASM2B-ATD</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 5 - Anthracite (Cross)</td><td>ASM5-ATC</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Anthracite (Line)</td><td>ASM6-ATL</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Beige (Line)</td><td>ASM6-BEL</td><td>51cm x 5m</td><td>Beige</td></tr><tr><td>Anti Skid Mat 7</td><td>ASM7-AT</td><td>510mm x 20m x 1.2mm</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 8</td><td>ASM8-AT/BL</td><td>510mm x 20m x 1.2mm</td><td>Anthracite / Black</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-08-06",
         "prevContent": "selection-02-01-08",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-08-06-01.jpg",
+        "title": "Horizontal Gola Profile",
+        "cardImg": "media-second-floor-view-01/02-01-08-06-01.webp",
         "carouselId": "carousel-02-01-08-06",
         "images": [
-          "media-second-floor-view-02/02-01-08-06-01.jpg",
-          "media-second-floor-view-02/02-01-08-06-02.jpg",
-          "media-second-floor-view-02/02-01-08-06-03.jpg",
-          "media-second-floor-view-02/02-01-08-06-04.jpg"
+          "media-second-floor-view-01/02-01-08-06-01.webp",
+          "media-second-floor-view-01/02-01-08-06-02.webp",
+          "media-second-floor-view-01/02-01-08-06-03.webp"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Enhance the kitchen design with a seamless handle profile (no additional handle on shutter)",
+          "Horizontal Gola Profile 3L is ideal for upper or single drawer while 3C is ideal for lower or two drawers",
+          "Gola Profile - L for the upper or single drawer",
+          "Gola Profile - C for lower or two drawers",
+          "LED Strip light - 5mm / COB Strip light - 5mm need to be order separately",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Horizontal Gola Profile 3 L</td><td>HG3L</td><td>Height- 58mm, Length- 3mtr</td><td rowspan='2'>Anodized Silver / Anthracite / Anodized Black / Special Finish / Brushed Gold</td></tr><tr><td>Horizontal Gola Profile 3 C</td><td>HG3C</td><td>Height- 71mm, Length- 3mtr</td></tr><tr><td>Horizontal Gola 3 End Cap for L</td><td>HG3L-EC</td><td rowspan='2'>-</td><td rowspan='2'>Anodized Silver/ White Mat / Anthracite / Black / Special Finish / Champagne / Gold Finish</td></tr><tr><td>Horizontal Gola 3 End Cap for C</td><td>HG3C-EC</td></tr><tr><td>Horizontal Gola 3 Mounting Bracket</td><td>HG3-MB</td><td>-</td><td>Zinc White</td></tr></tbody></table>"
         ]
       }
     ]
@@ -811,37 +908,44 @@
       {
         "id": "content-02-01-09-01",
         "prevContent": "selection-02-01-09",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-09-01-01.jpg",
+        "title": "Pull Out Waste Bin 4 - 40 Ltr",
+        "cardImg": "media-second-floor-view-01/02-01-09-01-01.jpg",
         "carouselId": "carousel-02-01-09-01",
         "images": [
-          "media-second-floor-view-02/02-01-09-01-01.jpg",
-          "media-second-floor-view-02/02-01-09-01-02.jpg",
-          "media-second-floor-view-02/02-01-09-01-03.jpg",
-          "media-second-floor-view-02/02-01-09-01-04.jpg"
+          "media-second-floor-view-01/02-01-09-01-01.jpg",
+          "media-second-floor-view-01/02-01-09-01-02.jpg",
+          "media-second-floor-view-01/02-01-09-01-03.jpg",
+          "media-second-floor-view-01/02-01-09-01-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Wet & dry waste management at ease with twin containers",
+          "Facility to remove bucket for convenience",
+          "Quick installation under every kind of sink",
+          "Full-extension slides provided for easy access of the buckets",
+          "Mounts on the floor of the cabinet & operates manually",
+          "Option of fascia brackets for shutter mounting",
+          "Capacity: 40L (20 x 2)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pull Out Waste Bin 4 - 40 Ltr</td><td>POWB4-40-AT</td><td>335 480 420 (W L H)</td><td>Anthracite</td></tr><tr><td>Fascia Bracket for POWB4-40-AT (To be purchase separately)</td><td>POWB4-40-FB-AT</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-09-02",
         "prevContent": "selection-02-01-09",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-09-02-01.jpg",
+        "title": "Horizontal Gola Profile",
+        "cardImg": "media-second-floor-view-01/02-01-09-02-01.webp",
         "carouselId": "carousel-02-01-09-02",
         "images": [
-          "media-second-floor-view-02/02-01-09-02-01.jpg",
-          "media-second-floor-view-02/02-01-09-02-02.jpg",
-          "media-second-floor-view-02/02-01-09-02-03.jpg",
-          "media-second-floor-view-02/02-01-09-02-04.jpg"
+          "media-second-floor-view-01/02-01-09-02-01.webp",
+          "media-second-floor-view-01/02-01-09-02-02.webp",
+          "media-second-floor-view-01/02-01-09-02-03.webp"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Enhance the kitchen design with a seamless handle profile (no additional handle on shutter)",
+          "Horizontal Gola Profile 3L is ideal for upper or single drawer while 3C is ideal for lower or two drawers",
+          "Gola Profile - L for the upper or single drawer",
+          "Gola Profile - C for lower or two drawers",
+          "LED Strip light - 5mm / COB Strip light - 5mm need to be order separately",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Horizontal Gola Profile 3 L</td><td>HG3L</td><td>Height- 58mm, Length- 3mtr</td><td rowspan='2'>Anodized Silver / Anthracite / Anodized Black / Special Finish / Brushed Gold</td></tr><tr><td>Horizontal Gola Profile 3 C</td><td>HG3C</td><td>Height- 71mm, Length- 3mtr</td></tr><tr><td>Horizontal Gola 3 End Cap for L</td><td>HG3L-EC</td><td rowspan='2'>-</td><td rowspan='2'>Anodized Silver/ White Mat / Anthracite / Black / Special Finish / Champagne / Gold Finish</td></tr><tr><td>Horizontal Gola 3 End Cap for C</td><td>HG3C-EC</td></tr><tr><td>Horizontal Gola 3 Mounting Bracket</td><td>HG3-MB</td><td>-</td><td>Zinc White</td></tr></tbody></table>"
         ]
       }
     ]
@@ -852,37 +956,40 @@
       {
         "id": "content-02-01-10-01",
         "prevContent": "selection-02-01-10",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-10-01-01.jpg",
+        "title": "Magic Corner Double Pullout",
+        "cardImg": "media-second-floor-view-01/02-01-10-01-01.jpg",
         "carouselId": "carousel-02-01-10-01",
         "images": [
-          "media-second-floor-view-02/02-01-10-01-01.jpg",
-          "media-second-floor-view-02/02-01-10-01-02.jpg",
-          "media-second-floor-view-02/02-01-10-01-03.jpg",
-          "media-second-floor-view-02/02-01-10-01-04.jpg"
+          "media-second-floor-view-01/02-01-10-01-01.jpg",
+          "media-second-floor-view-01/02-01-10-01-02.jpg",
+          "media-second-floor-view-01/02-01-10-01-03.jpg",
+          "media-second-floor-view-01/02-01-10-01-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Both shelves pull out completely for easy access.",
+          "Ensures smooth and quiet closing with Soft-Close Mechanism.",
+          "High Load Capacity which is strong enough to hold heavy cookware and appliances.",
+          "Modern Design that adds a sleek, stylish look to your kitchen.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Magic Corner Double Pullout</td><td>MCDP90</td><td>680 470 580 (H W D)</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-10-02",
         "prevContent": "selection-02-01-10",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-10-02-01.jpg",
+        "title": "Blind corner Hinge- 3D-Soft close",
+        "cardImg": "media-second-floor-view-01/02-01-10-02-01.jpg",
         "carouselId": "carousel-02-01-10-02",
         "images": [
-          "media-second-floor-view-02/02-01-10-02-01.jpg",
-          "media-second-floor-view-02/02-01-10-02-02.jpg",
-          "media-second-floor-view-02/02-01-10-02-03.jpg",
-          "media-second-floor-view-02/02-01-10-02-04.jpg"
+          "media-second-floor-view-01/02-01-10-02-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "3D Adjustment",
+          "Max. opening: 90˚",
+          "In-built soft close mechanism prevents shutter from banging",
+          "Max. shutter size: 850mm X 550mm",
+          "Shutter thickness: 16mm - 19mm",
+          "Finish: Nickel Plated",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Blind corner Hinge - 3D-Soft close</td><td>HBC1-3D-SC</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
         ]
       }
     ]
@@ -892,20 +999,22 @@
     "products": [
       {
         "id": "content-02-01-11-01",
-        "prevContent": "selection-02-01-12",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-11-01-01.jpg",
+        "prevContent": "selection-02-01-11",
+        "title": "Bottle Pullout 2 -Soft Close",
+        "cardImg": "media-second-floor-view-01/02-01-11-01-01.jpg",
         "carouselId": "carousel-02-01-11-01",
         "images": [
-          "media-second-floor-view-02/02-01-11-01-01.jpg",
-          "media-second-floor-view-02/02-01-11-01-02.jpg",
-          "media-second-floor-view-02/02-01-11-01-03.jpg",
-          "media-second-floor-view-02/02-01-11-01-04.jpg"
+          "media-second-floor-view-01/02-01-11-01-01.jpg",
+          "media-second-floor-view-01/02-01-11-01-02.jpg",
+          "media-second-floor-view-01/02-01-11-01-03.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal solution for kitchen narrow base cabinets where small and different things can be stored in an organized manner.",
+          "Built-in SOFT CLOSE mechanism.",
+          "Partition rods keep bottles in place.",
+          "Comes in full set with Baskets, Concealed slides & a Mounting kit.",
+          "Available in four sizes: 100mm (For 150mm cabinet) 150mm (For 200mm cabinet) 200mm (For 250mm cabinet) 250mm (For 300mm cabinet)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Bottle Pullout 2 - Soft Close</td><td>BPO2SC2-100 / BPO2SC2-150 / BPO2SC2-200 / BPO2SC2-250</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
         ]
       }
     ]
@@ -916,55 +1025,66 @@
       {
         "id": "content-02-01-12-01",
         "prevContent": "selection-02-01-12",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-12-01-01.jpg",
+        "title": "Pro-motion Drawer System - N Series",
+        "cardImg": "media-second-floor-view-01/02-01-12-01-01.jpg",
         "carouselId": "carousel-02-01-12-01",
         "images": [
-          "media-second-floor-view-02/02-01-12-01-01.jpg",
-          "media-second-floor-view-02/02-01-12-01-02.jpg",
-          "media-second-floor-view-02/02-01-12-01-03.jpg",
-          "media-second-floor-view-02/02-01-12-01-04.jpg"
+          "media-second-floor-view-01/02-01-12-01-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Length: 400, 450, 500 & 550mm",
+          "Side panel height: 80mm, 185mm, 176mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 30kg for 400/450mm length & 65kg for 500/550mm length",
+          "Full extension of drawer with soft close feature",
+          "Quick to installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Option of add-on gallery to increase stability of drawer.",
+          "Finish: Silver Grey (SG), Anthracite (AT)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-40-N</td><td>80 x 400mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-45-N</td><td>80 x 450mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-50-N</td><td>80 x 500mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-55-N</td><td>80 x 550mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-40-N</td><td>185 x 400mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-45-N</td><td>185 x 450mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-50-N</td><td>185 x 500mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-55-N</td><td>185 x 550mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-40-N</td><td>176 x 400mm, 30kg</td><td>Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-45-N</td><td>176 x 450mm, 30kg</td><td>Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-50-N</td><td>176 x 500mm, 65kg</td><td>Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-55-N</td><td>176 x 550mm, 65kg</td><td>Anthracite</td></tr><tr><td>PMDS1(N) Facia Connector - D</td><td>PMDS1-FC-D</td><td>H=104mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>PMDS3(N) Facia Connector for Rail- D</td><td>PMDS3-FCR-D</td><td>H=218mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>PMDS3(N) Facia Connector for Al. Panel/Glass - D</td><td>PMDS3-FCPG-D</td><td>-</td><td>Silver Grey / Anthracite</td></tr><tr><td>Facia Handle Profile</td><td>PMDS3-FHP-D</td><td>2000mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>Add-on Gallery (Pro-motion 'N' Series)</td><td>PMDS-G1-45</td><td>450</td><td>Silver Grey / Anthracite</td></tr><tr><td>Add-on Gallery (Pro-motion 'N' Series)</td><td>PMDS-G1-50</td><td>500</td><td>Silver Grey / Anthracite</td></tr><tr><td>Add-on Gallery (Pro-motion 'N' Series)</td><td>PMDS-G1-55</td><td>550</td><td>Silver Grey / Anthracite</td></tr><tr><td>Facia-Side Partition Panel</td><td>PMDS3-FAP</td><td>8 x 105 x 2000mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>Facia Aluminium Rail Handle for PMDS3(N)</td><td>PMDS3-RH-1</td><td>2000mm</td><td>Silver Grey / Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-12-02",
         "prevContent": "selection-02-01-12",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-12-02-01.jpg",
+        "title": "Anti Skid Mat",
+        "cardImg": "media-second-floor-view-01/02-01-12-02-01.jpg",
         "carouselId": "carousel-02-01-12-02",
         "images": [
-          "media-second-floor-view-02/02-01-12-02-01.jpg",
-          "media-second-floor-view-02/02-01-12-02-02.jpg",
-          "media-second-floor-view-02/02-01-12-02-03.jpg",
-          "media-second-floor-view-02/02-01-12-02-04.jpg"
+          "media-second-floor-view-01/02-01-12-02-01.jpg",
+          "media-second-floor-view-01/02-01-12-02-02.jpg",
+          "media-second-floor-view-01/02-01-12-02-03.jpg",
+          "media-second-floor-view-01/02-01-12-02-04.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Safeguard cutlery from sliding out with these Anti skid mats.",
+          "Ideal for kitchen drawers, cabinet/ wardrobe shelves, working table, etc.",
+          "Dotted and lined upper surface for better hold and superior anti skid coating at the bottom.",
+          "For use in kitchen drawers and shelves - protects furniture from water dripping and the anti skid feature keeps the cutlery and utensils in place.",
+          "For use in wardrobe and shelves - protects clothes from wood coating stain.",
+          "Easy to clean and reuse.",
+          "Available in various finish.",
+          "Comes in rolls, each of which are 510 mm wide x 5 meters long.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Anti Skid Mat 2 - Clear (Dotted)</td><td>ASM2-CLD</td><td>51cm x 5m</td><td>Clear</td></tr><tr><td>Anti Skid Mat 2 - Anthracite (Dotted)</td><td>ASM2B-ATD</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 5 - Anthracite (Cross)</td><td>ASM5-ATC</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Anthracite (Line)</td><td>ASM6-ATL</td><td>51cm x 5m</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 6 - Beige (Line)</td><td>ASM6-BEL</td><td>51cm x 5m</td><td>Beige</td></tr><tr><td>Anti Skid Mat 7</td><td>ASM7-AT</td><td>510mm x 20m x 1.2mm</td><td>Anthracite</td></tr><tr><td>Anti Skid Mat 8</td><td>ASM8-AT/BL</td><td>510mm x 20m x 1.2mm</td><td>Anthracite / Black</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-12-03",
         "prevContent": "selection-02-01-12",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-12-03-01.jpg",
+        "title": "Kitchen Cutlery Tray - 2 ",
+        "cardImg": "media-second-floor-view-01/02-01-12-03-01.png",
         "carouselId": "carousel-02-01-12-03",
         "images": [
-          "media-second-floor-view-02/02-01-12-03-01.jpg",
-          "media-second-floor-view-02/02-01-12-03-02.jpg",
-          "media-second-floor-view-02/02-01-12-03-03.jpg",
-          "media-second-floor-view-02/02-01-12-03-04.jpg"
+          "media-second-floor-view-01/02-01-12-03-01.png",
+          "media-second-floor-view-01/02-01-12-03-02.png",
+          "media-second-floor-view-01/02-01-12-03-03.png"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Elegantly designed to suit today's modern kitchen.",
+          "Available in Anthracite finish.",
+          "Comes in 7 different sizes and configurations to fit any drawer.",
+          "Manufactured out of non-toxic, food grade polypropylene and are easy to clean.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-40-AT</td><td>W351 x D490 x H45</td><td>Anthracite</td></tr><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-45-AT</td><td>W401 x D490 x H45</td><td>Anthracite</td></tr><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-50-AT</td><td>W451 x D490 x H45</td><td>Anthracite</td></tr><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-60-AT</td><td>W551 x D490 x H45</td><td>Anthracite</td></tr><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-80-AT</td><td>W740 x D490 x H45</td><td>Anthracite</td></tr><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-90-AT</td><td>W840 x D490 x H45</td><td>Anthracite</td></tr><tr><td>Kitchen Cutlery Tray - 2</td><td>KCT2-100-AT</td><td>W940 x D490 x H45</td><td>Anthracite</td></tr></tbody></table>"
         ]
       }
     ]
@@ -975,19 +1095,17 @@
       {
         "id": "content-02-01-13-01",
         "prevContent": "selection-02-01-13",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-13-01-01.jpg",
+        "title": "Roll Top Glass - Vertical (with Overlay Rails & Cover Profile)",
+        "cardImg": "media-second-floor-view-01/02-01-13-01-01.webp",
         "carouselId": "carousel-02-01-13-01",
         "images": [
-          "media-second-floor-view-02/02-01-13-01-01.jpg",
-          "media-second-floor-view-02/02-01-13-01-02.jpg",
-          "media-second-floor-view-02/02-01-13-01-03.jpg",
-          "media-second-floor-view-02/02-01-13-01-04.jpg"
+          "media-second-floor-view-01/02-01-13-01-01.webp"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Designed to give complete opening in cabinets",
+          "Easy to install & use",
+          "Available in various finishes",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Roll Top Glass - Vertical (with Overlay Rails & Cover Profile)</td><td>RTGV-60140-WH</td><td rowspan='3'>600 mm (W) x 1320 mm (H)</td><td>White</td></tr><tr><td>RTGV-60140-BL</td><td>Black</td></tr><tr><td>RTGV-60140-FG</td><td>Frozen Glass</td></tr></tbody></table>"
         ]
       }
     ]
@@ -998,55 +1116,61 @@
       {
         "id": "content-02-01-14-01",
         "prevContent": "selection-02-01-14",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-14-01-01.jpg",
+        "title": "Kitchen Pantry Unit - Soft Close (Complete System Mechanism & Flat Base Basket)",
+        "cardImg": "media-second-floor-view-01/02-01-14-01-01.jpg",
         "carouselId": "carousel-02-01-14-01",
         "images": [
-          "media-second-floor-view-02/02-01-14-01-01.jpg",
-          "media-second-floor-view-02/02-01-14-01-02.jpg",
-          "media-second-floor-view-02/02-01-14-01-03.jpg",
-          "media-second-floor-view-02/02-01-14-01-04.jpg"
+          "media-second-floor-view-01/02-01-14-01-01.jpg",
+          "media-second-floor-view-01/02-01-14-01-02.jpeg",
+          "media-second-floor-view-01/02-01-14-01-03.jpeg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "This kitchen pantry unit is ideal for pantry storage of 450mm & 600mm wide cabinets.",
+          "Soft close and soft open feature ensures effortless functioning.",
+          "In-built slide-out mechanism for easy accessibility.",
+          "Baskets/ shelves are height adjustable.",
+          "Six baskets on the cabinet and six baskets on the shutter.",
+          "Suggested to use with Ebco Anti skid mats.",
+          "Left hand and right hand compatible.",
+          "Load Capacity: Cabinet Basket: 5 Kgs/Each, Shutter Basket: 3 Kgs/Each",
+          "Finish: Anthracite.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Pantry Unit 450mm - Soft Close (With set of 6+6 shelves)</td><td>KPUSC1-45</td><td>410 x 500 x 1820</td><td>Anthracite</td></tr><tr><td>Kitchen Pantry Unit 600mm - Soft Close (With set of 6+6 shelves)</td><td>KPUSC1-60</td><td>560 x 500 x 1820</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-14-02",
         "prevContent": "selection-02-01-14",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-14-02-01.jpg",
+        "title": "125° Hinge-Overlay (Soft Close)",
+        "cardImg": "media-second-floor-view-01/02-01-14-02-01.jpg",
         "carouselId": "carousel-02-01-14-02",
         "images": [
-          "media-second-floor-view-02/02-01-14-02-01.jpg",
-          "media-second-floor-view-02/02-01-14-02-02.jpg",
-          "media-second-floor-view-02/02-01-14-02-03.jpg",
-          "media-second-floor-view-02/02-01-14-02-04.jpg"
+          "media-second-floor-view-01/02-01-14-02-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for openable wardrobes",
+          "Unique buit in damping system allows the shutter to close in slow motion without banging",
+          "Available in full overlay",
+          "Max opening 125°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550 mm) for 2 hinges",
+          "Shutter cavity: ⌀ mm, 13mm deep, cavity 4mm from edge",
+          "Finish: Nickel Plated.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>125° Hinge - Overlay (Soft Close)</td><td>H125-1-SC</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-14-03",
         "prevContent": "selection-02-01-14",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-14-03-01.jpg",
+        "title": "Edge Profile Handle - 1 - 2700",
+        "cardImg": "media-second-floor-view-01/02-01-14-03-01.jpg",
         "carouselId": "carousel-02-01-14-03",
         "images": [
-          "media-second-floor-view-02/02-01-14-03-01.jpg",
-          "media-second-floor-view-02/02-01-14-03-02.jpg",
-          "media-second-floor-view-02/02-01-14-03-03.jpg",
-          "media-second-floor-view-02/02-01-14-03-04.jpg"
+          "media-second-floor-view-01/02-01-14-03-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Specially designed edge profile handles for wardrobe shutters",
+          "Ergonomically designed for good grip",
+          "Length : 2700mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Edge Profile Handle - 1 Left (SF)</td><td>EPH1L-2700-SF</td><td>2700</td><td>Special Finish</td></tr><tr><td>Edge Profile Handle - 1 Right (SF)</td><td>EPH1R-2700-SF</td><td>2700</td><td>Special Finish</td></tr><tr><td>Edge Profile Handle - 1 Left (AB)</td><td>EPH1L-2700-AB</td><td>2700</td><td>Anodised Black</td></tr><tr><td>Edge Profile Handle - 1 Right (AB)</td><td>EPH1R-2700-AB</td><td>2700</td><td>Anodised Black</td></tr></tbody></table>"
         ]
       }
     ]
@@ -1057,55 +1181,62 @@
       {
         "id": "content-02-01-15-01",
         "prevContent": "selection-02-01-15",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-15-01-01.jpg",
+        "title": "Pan Hanger Rack - Soft Close",
+        "cardImg": "media-second-floor-view-01/02-01-15-01-01.jpg",
         "carouselId": "carousel-02-01-15-01",
         "images": [
-          "media-second-floor-view-02/02-01-15-01-01.jpg",
-          "media-second-floor-view-02/02-01-15-01-02.jpg",
-          "media-second-floor-view-02/02-01-15-01-03.jpg",
-          "media-second-floor-view-02/02-01-15-01-04.jpg"
+          "media-second-floor-view-01/02-01-15-01-01.jpg",
+          "media-second-floor-view-01/02-01-15-01-02.jpg",
+          "media-second-floor-view-01/02-01-15-01-03.gif"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Features a soft-close mechanism for quiet and effortless closure.",
+          "Suitable for internal cabinet depth of ≥490mm.",
+          "Comes with slide length of 482mm for smooth operation.",
+          "Offers a weight capacity of 20kg.",
+          "Equipped with 6 hooks for hanging pans securely.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pan Hanger Rack - Soft Close</td><td>PHR48-SC-AT</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-15-02",
         "prevContent": "selection-02-01-15",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-15-02-01.jpg",
+        "title": "Lid Holder For Pan Hanger",
+        "cardImg": "media-second-floor-view-01/02-01-15-02-01.jpg",
         "carouselId": "carousel-02-01-15-02",
         "images": [
-          "media-second-floor-view-02/02-01-15-02-01.jpg",
-          "media-second-floor-view-02/02-01-15-02-02.jpg",
-          "media-second-floor-view-02/02-01-15-02-03.jpg",
-          "media-second-floor-view-02/02-01-15-02-04.jpg"
+          "media-second-floor-view-01/02-01-15-02-01.jpg",
+          "media-second-floor-view-01/02-01-15-02-02.jpg",
+          "media-second-floor-view-01/02-01-15-02-03.gif",
+          "media-second-floor-view-01/02-01-15-02-04.jpg",
+          "media-second-floor-view-01/02-01-15-02-05.jpeg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal accessories to complement Livsmart pan hanger to store the lids.",
+          "Comes with a 4 set of screws & nuts",
+          "Compatible with Sleek Telescopic Drawer Slides 500mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Lid Holder For Pan Hanger</td><td>LH-18-4-15</td><td>456 x 100 x 375</td><td>Stainless Steel</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-15-03",
         "prevContent": "selection-02-01-15",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-15-03-01.jpg",
+        "title": "Sleek Telescopic Drawer Slides 1 - 35",
+        "cardImg": "media-second-floor-view-01/02-01-15-03-01.jpg",
         "carouselId": "carousel-02-01-15-03",
         "images": [
-          "media-second-floor-view-02/02-01-15-03-01.jpg",
-          "media-second-floor-view-02/02-01-15-03-02.jpg",
-          "media-second-floor-view-02/02-01-15-03-03.jpg",
-          "media-second-floor-view-02/02-01-15-03-04.jpg"
+          "media-second-floor-view-01/02-01-15-03-01.jpg",
+          "media-second-floor-view-01/02-01-15-03-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Precision Telescopic Slides",
+          "Full Extension of Drawer",
+          "Direct fitting from front",
+          "Load Capacity: 35 Kgs",
+          "Removable drawer with latch",
+          "System 32 Installation",
+          "Comes in Pack of 2 Pairs (4 Slides - for 2 Drawers)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Sleek Telescopic Drawer Slides 1 - 35</td><td>STDS1-25-35</td><td>250 Load: 35 Kgs</td><td rowspan='8'>Zinc Plated White/ Zinc Plated Black</td></tr><tr><td>STDS1-30-35</td><td>300 Load: 35 Kgs</td></tr><tr><td>STDS1-35-35</td><td>350 Load: 35 Kgs</td></tr><tr><td>STDS1-40-35</td><td>400 Load: 35 Kgs</td></tr><tr><td>STDS1-45-35</td><td>450 Load: 35 Kgs</td></tr><tr><td>STDS1-50-35</td><td>500 Load: 35 Kgs</td></tr><tr><td>STDS1-55-35</td><td>550 Load: 35 Kgs</td></tr><tr><td>STDS1-60-35</td><td>600 Load: 35 Kgs</td></tr></tbody></table>"
         ]
       }
     ]
@@ -1116,73 +1247,76 @@
       {
         "id": "content-02-01-16-01",
         "prevContent": "selection-02-01-16",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-16-01-01.jpg",
+        "title": "Swing Out Waste Bin - SS (14 Ltr)",
+        "cardImg": "media-second-floor-view-01/02-01-16-01-01.jpg",
         "carouselId": "carousel-02-01-16-01",
         "images": [
-          "media-second-floor-view-02/02-01-16-01-01.jpg",
-          "media-second-floor-view-02/02-01-16-01-02.jpg",
-          "media-second-floor-view-02/02-01-16-01-03.jpg",
-          "media-second-floor-view-02/02-01-16-01-04.jpg"
+          "media-second-floor-view-01/02-01-16-01-01.jpg",
+          "media-second-floor-view-01/02-01-16-01-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "These bins have automatic opening system for lids.",
+          "They also have a removable bucket for convenience.",
+          "Non toxic premium plastic used for long life.",
+          "Special stainless steel finish on outside.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Swing Out Waste Bin - SS</td><td>SOWB3-14-SS</td><td>14 Ltr.</td><td>Stainless Steel</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-16-02",
         "prevContent": "selection-02-01-16",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-16-02-01.jpg",
+        "title": "125° Hinge-Overlay (Soft Close)",
+        "cardImg": "media-second-floor-view-01/02-01-16-02-01.jpg",
         "carouselId": "carousel-02-01-16-02",
         "images": [
-          "media-second-floor-view-02/02-01-16-02-01.jpg",
-          "media-second-floor-view-02/02-01-16-02-02.jpg",
-          "media-second-floor-view-02/02-01-16-02-03.jpg",
-          "media-second-floor-view-02/02-01-16-02-04.jpg"
+          "media-second-floor-view-01/02-01-16-02-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for openable wardrobes",
+          "Unique buit in damping system allows the shutter to close in slow motion without banging",
+          "Available in full overlay",
+          "Max opening 125°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550 mm) for 2 hinges",
+          "Shutter cavity: ⌀ mm, 13mm deep, cavity 4mm from edge",
+          "Finish: Nickel Plated.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>125° Hinge - Overlay (Soft Close)</td><td>H125-1-SC</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-16-03",
         "prevContent": "selection-02-01-16",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-16-03-01.jpg",
+        "title": "Right Angle Basket - Plain",
+        "cardImg": "media-second-floor-view-01/02-01-16-03-01.jpg",
         "carouselId": "carousel-02-01-16-03",
         "images": [
-          "media-second-floor-view-02/02-01-16-03-01.jpg",
-          "media-second-floor-view-02/02-01-16-03-02.jpg",
-          "media-second-floor-view-02/02-01-16-03-03.jpg",
-          "media-second-floor-view-02/02-01-16-03-04.jpg"
+          "media-second-floor-view-01/02-01-16-03-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "For storing all kinds of kitchen articles conveniently.",
+          "Manufactured out of stainless steel 304 grade and electro polished.",
+          "Designed to be used with 'Ebco' Sleek Telescopic Drawer Slides and Heavy Duty Telescopic drawer slides by direct assembly onto mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='31'>Right Angle Basket - Plain</td><td>RA-12-20-4</td><td>305 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-20-6</td><td>305 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-20-8</td><td>305 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-22-4</td><td>305 555 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-22-6</td><td>305 555 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-24-4</td><td>305 605 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-24-6</td><td>305 605 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-16-4</td><td>380 405 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-16-6</td><td>380 405 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-16-8</td><td>380 405 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-18-4</td><td>380 455 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-18-6</td><td>380 455 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-18-8</td><td>380 455 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-20-4</td><td>380 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-20-6</td><td>380 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-20-8</td><td>380 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-22-8</td><td>380 555 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-24-4</td><td>380 605 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-20-4</td><td>430 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-20-6</td><td>430 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-20-8</td><td>430 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-22-8</td><td>430 555 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-24-2</td><td>430 605 50 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-2</td><td>480 505 50 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-4</td><td>480 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-6</td><td>480 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-8</td><td>480 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-2</td><td>530 505 50 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-4</td><td>530 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-6</td><td>530 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-8</td><td>530 505 200 (W D H)</td><td>SS304</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-16-04",
         "prevContent": "selection-02-01-16",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-16-04-01.jpg",
+        "title": "Sleek Telescopic Drawer Slides 1 - 35",
+        "cardImg": "media-second-floor-view-01/02-01-16-04-01.jpg",
         "carouselId": "carousel-02-01-16-04",
         "images": [
-          "media-second-floor-view-02/02-01-16-04-01.jpg",
-          "media-second-floor-view-02/02-01-16-04-02.jpg",
-          "media-second-floor-view-02/02-01-16-04-03.jpg",
-          "media-second-floor-view-02/02-01-16-04-04.jpg"
+          "media-second-floor-view-01/02-01-16-04-01.jpg",
+          "media-second-floor-view-01/02-01-16-04-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Precision Telescopic Slides",
+          "Full Extension of Drawer",
+          "Direct fitting from front",
+          "Load Capacity: 35 Kgs",
+          "Removable drawer with latch",
+          "System 32 Installation",
+          "Comes in Pack of 2 Pairs (4 Slides - for 2 Drawers)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Sleek Telescopic Drawer Slides 1 - 35</td><td>STDS1-25-35</td><td>250 Load: 35 Kgs</td><td rowspan='8'>Zinc Plated White/ Zinc Plated Black</td></tr><tr><td>STDS1-30-35</td><td>300 Load: 35 Kgs</td></tr><tr><td>STDS1-35-35</td><td>350 Load: 35 Kgs</td></tr><tr><td>STDS1-40-35</td><td>400 Load: 35 Kgs</td></tr><tr><td>STDS1-45-35</td><td>450 Load: 35 Kgs</td></tr><tr><td>STDS1-50-35</td><td>500 Load: 35 Kgs</td></tr><tr><td>STDS1-55-35</td><td>550 Load: 35 Kgs</td></tr><tr><td>STDS1-60-35</td><td>600 Load: 35 Kgs</td></tr></tbody></table>"
         ]
       }
     ]
@@ -1193,73 +1327,77 @@
       {
         "id": "content-02-01-17-01",
         "prevContent": "selection-02-01-17",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-17-01-01.jpg",
+        "title": "Swing Out Waste Bin Rectangular (Single)",
+        "cardImg": "media-second-floor-view-01/02-01-17-01-01.jpg",
         "carouselId": "carousel-02-01-17-01",
         "images": [
-          "media-second-floor-view-02/02-01-17-01-01.jpg",
-          "media-second-floor-view-02/02-01-17-01-02.jpg",
-          "media-second-floor-view-02/02-01-17-01-03.jpg",
-          "media-second-floor-view-02/02-01-17-01-04.jpg"
+          "media-second-floor-view-01/02-01-17-01-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Swing Out waste Bin Rectangular Fits directly on cabinet shutter.",
+          "Has a lid which opens when the shutter is opened and closes when the shutter is closed.",
+          "The bin has a capacity of 15L.",
+          "Has a removal bucket for cleaning and convenience.",
+          "Easy to install.",
+          "Comes with easily removable divider for wet & dry waste management. (Sowbr-20D)",
+          "Finish - Grey",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Swing Out Waste Bin Rectangular (Single)</td><td>SOWBR-15S</td><td>1 X 15 litre</td><td>Grey</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-17-02",
         "prevContent": "selection-02-01-17",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-17-02-01.jpg",
+        "title": "125° Hinge-Overlay (Soft Close)",
+        "cardImg": "media-second-floor-view-01/02-01-17-02-01.jpg",
         "carouselId": "carousel-02-01-17-02",
         "images": [
-          "media-second-floor-view-02/02-01-17-02-01.jpg",
-          "media-second-floor-view-02/02-01-17-02-02.jpg",
-          "media-second-floor-view-02/02-01-17-02-03.jpg",
-          "media-second-floor-view-02/02-01-17-02-04.jpg"
+          "media-second-floor-view-01/02-01-17-02-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for openable wardrobes",
+          "Unique buit in damping system allows the shutter to close in slow motion without banging",
+          "Available in full overlay",
+          "Max opening 125°",
+          "Max shutter size: 34 inch x 22 inch (850mm x 550 mm) for 2 hinges",
+          "Shutter cavity: ⌀ mm, 13mm deep, cavity 4mm from edge",
+          "Finish: Nickel Plated.",
+          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>125° Hinge - Overlay (Soft Close)</td><td>H125-1-SC</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-17-03",
         "prevContent": "selection-02-01-17",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-17-03-01.jpg",
+        "title": "Right Angle Basket - Plain",
+        "cardImg": "media-second-floor-view-01/02-01-17-03-01.jpg",
         "carouselId": "carousel-02-01-17-03",
         "images": [
-          "media-second-floor-view-02/02-01-17-03-01.jpg",
-          "media-second-floor-view-02/02-01-17-03-02.jpg",
-          "media-second-floor-view-02/02-01-17-03-03.jpg",
-          "media-second-floor-view-02/02-01-17-03-04.jpg"
+          "media-second-floor-view-01/02-01-17-03-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "For storing all kinds of kitchen articles conveniently.",
+          "Manufactured out of stainless steel 304 grade and electro polished.",
+          "Designed to be used with 'Ebco' Sleek Telescopic Drawer Slides and Heavy Duty Telescopic drawer slides by direct assembly onto mounting plates provided on all baskets.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='31'>Right Angle Basket - Plain</td><td>RA-12-20-4</td><td>305 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-20-6</td><td>305 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-20-8</td><td>305 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-22-4</td><td>305 555 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-22-6</td><td>305 555 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-24-4</td><td>305 605 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-12-24-6</td><td>305 605 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-16-4</td><td>380 405 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-16-6</td><td>380 405 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-16-8</td><td>380 405 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-18-4</td><td>380 455 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-18-6</td><td>380 455 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-18-8</td><td>380 455 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-20-4</td><td>380 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-20-6</td><td>380 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-20-8</td><td>380 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-22-8</td><td>380 555 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-15-24-4</td><td>380 605 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-20-4</td><td>430 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-20-6</td><td>430 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-20-8</td><td>430 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-22-8</td><td>430 555 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-17-24-2</td><td>430 605 50 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-2</td><td>480 505 50 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-4</td><td>480 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-6</td><td>480 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-19-20-8</td><td>480 505 200 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-2</td><td>530 505 50 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-4</td><td>530 505 100 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-6</td><td>530 505 150 (W D H)</td><td>SS304</td></tr><tr><td>RA-21-20-8</td><td>530 505 200 (W D H)</td><td>SS304</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-17-04",
         "prevContent": "selection-02-01-17",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-17-04-01.jpg",
+        "title": "Sleek Telescopic Drawer Slide 35 - Soft Close",
+        "cardImg": "media-second-floor-view-01/02-01-17-04-01.jpg",
         "carouselId": "carousel-02-01-17-04",
         "images": [
-          "media-second-floor-view-02/02-01-17-04-01.jpg",
-          "media-second-floor-view-02/02-01-17-04-02.jpg",
-          "media-second-floor-view-02/02-01-17-04-03.jpg",
-          "media-second-floor-view-02/02-01-17-04-04.jpg"
+          "media-second-floor-view-01/02-01-17-04-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Precision telescopic slides",
+          "Soft closing function built in slide, easy for installation.",
+          "Full extension of drawer",
+          "Load capacity : 35 Kgs",
+          "Direct fitting from the front",
+          "Removable drawer with Latch",
+          "System 32 Installation",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='7'>Sleek Telescopic Drawer Slide 35 - Soft Close</td><td>STDS30-35-SC</td><td>300</td><td rowspan='7'>Zinc White</td></tr><tr><td>STDS35-35-SC</td><td>350</td></tr><tr><td>STDS40-35-SC</td><td>400</td></tr><tr><td>STDS45-35-SC</td><td>450</td></tr><tr><td>STDS50-35-SC</td><td>500</td></tr><tr><td>STDS55-35-SC</td><td>550</td></tr><tr><td>STDS60-35-SC</td><td>600</td></tr></tbody></table>"
         ]
       }
     ]
@@ -1270,19 +1408,20 @@
       {
         "id": "content-02-01-18-01",
         "prevContent": "selection-02-01-18",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-18-01-01.jpg",
+        "title": "Base Pullout Max 45",
+        "cardImg": "media-second-floor-view-01/02-01-18-01-01.jpg",
         "carouselId": "carousel-02-01-18-01",
         "images": [
-          "media-second-floor-view-02/02-01-18-01-01.jpg",
-          "media-second-floor-view-02/02-01-18-01-02.jpg",
-          "media-second-floor-view-02/02-01-18-01-03.jpg",
-          "media-second-floor-view-02/02-01-18-01-04.jpg"
+          "media-second-floor-view-01/02-01-18-01-01.jpg",
+          "media-second-floor-view-01/02-01-18-01-02.png",
+          "media-second-floor-view-01/02-01-18-01-03.jpg",
+          "media-second-floor-view-01/02-01-18-01-04.png"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Organize your kitchen essentials at ease with this multipurpose, compact, and flexible storage unit",
+          "Easy access to content from all three sides",
+          "Suitable for miscellaneous storage including bottles, jars, knives, ladles, chopping board, gloves etc.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Base Pullout Max 45</td><td>BPO1-45</td><td>450mm</td><td>-</td></tr></tbody></table>"
         ]
       }
     ]
@@ -1293,55 +1432,63 @@
       {
         "id": "content-02-01-19-01",
         "prevContent": "selection-02-01-19",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-19-01-01.jpg",
+        "title": "Turn Table Mechanism",
+        "cardImg": "media-second-floor-view-01/02-01-19-01-01.jpg",
         "carouselId": "carousel-02-01-19-01",
         "images": [
-          "media-second-floor-view-02/02-01-19-01-01.jpg",
-          "media-second-floor-view-02/02-01-19-01-02.jpg",
-          "media-second-floor-view-02/02-01-19-01-03.jpg",
-          "media-second-floor-view-02/02-01-19-01-04.jpg"
+          "media-second-floor-view-01/02-01-19-01-01.jpg",
+          "media-second-floor-view-01/02-01-19-01-02.jpg",
+          "media-second-floor-view-01/02-01-19-01-03.jpg",
+          "media-second-floor-view-01/02-01-19-01-04.jpg",
+          "media-second-floor-view-01/02-01-19-01-05.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for Turning Tables or Swivel Units.",
+          "Precision Ball Bearing for smooth rotation & long life.",
+          "360° Free Rotation.",
+          "Available in different sizes for different loads.",
+          "<table><thead><tr><th style='width: 20%;'>Item</th><th style='width: 18%;'>Code</th><th style='width: 32%;'>Size (in mm)</th><th style='width: 16%;'>Max Load</th><th style='width: 14%;'>Finish</th></tr></thead><tbody><tr><td>Turn Table Mechanism</td><td>TTM-100</td><td>100 x 100 x 11mm</td><td>40 kgs.</td><td>Silver</td></tr><tr><td>Turn Table Mechanism</td><td>TTM-150</td><td>150 x 150 x 14mm</td><td>60 kgs.</td><td>Silver</td></tr><tr><td>Turn Table Mechanism</td><td>TTM-200</td><td>200 x 200 x 20mm</td><td>80 kgs.</td><td>Silver</td></tr><tr><td>Turn Table Mechanism Heavy</td><td>TTMH-200</td><td>200 x 200 x 21mm</td><td>100 kgs.</td><td>Silver</td></tr><tr><td>Turn Table Mechanism 1</td><td>TTM1H-3-BL</td><td><ul><li>Size: 3 inch 71mm</li><li>Thickness: 08mm</li><li>Weight: 84g</li><li>Rotate: 360 degree</li></ul></td><td>-</td><td>Black</td></tr><tr><td>Turn Table Mechanism 1</td><td>TTM1H-4-BL</td><td><ul><li>Size: 4inch 94.5mm</li><li>Thickness: 08mm</li><li>Weight: 130gm</li><li>Rotate: 360 degree</li></ul></td><td>35 kgs.</td><td>Black</td></tr><tr><td>Turn Table Mechanism 2</td><td>TTM2-9</td><td><ul><li>Size: 9inch 230mm</li><li>Thickness: 08mm</li><li>Weight: 475g</li><li>Rotate: 360 degree</li></ul></td><td>120 kgs.</td><td>Black</td></tr><tr><td>Turn Table Mechanism 2</td><td>TTM2-12</td><td><ul><li>Size: 12inch 304mm</li><li>Thickness: 08mm</li><li>Weight: 690g</li><li>Rotate: 360 degree</li></ul></td><td>160 kgs.</td><td>Black</td></tr><tr><td>Turn Table Mechanism 3 - Glass</td><td>TTM3G-8</td><td><ul><li>Outer diameter: 202mm</li><li>Thickness: 8.5mm</li><li>Rotate: 360 degree</li></ul></td><td>25 kgs.</td><td>Zinc White</td></tr><tr><td>Turn Table Mechanism 3 - Glass</td><td>TTM3G-14</td><td><ul><li>Outer diameter: 350mm</li><li>Thickness: 10mm</li></ul></td><td>30 kgs.</td><td>Zinc White</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-19-02",
         "prevContent": "selection-02-01-19",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-19-02-01.jpg",
+        "title": "Pedestal Castor",
+        "cardImg": "media-second-floor-view-01/02-01-19-02-01.jpg",
         "carouselId": "carousel-02-01-19-02",
         "images": [
-          "media-second-floor-view-02/02-01-19-02-01.jpg",
-          "media-second-floor-view-02/02-01-19-02-02.jpg",
-          "media-second-floor-view-02/02-01-19-02-03.jpg",
-          "media-second-floor-view-02/02-01-19-02-04.jpg"
+          "media-second-floor-view-01/02-01-19-02-01.jpg",
+          "media-second-floor-view-01/02-01-19-02-02.jpg",
+          "media-second-floor-view-01/02-01-19-02-03.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Ideal for movable furniture.",
+          "Easy to fit.",
+          "Castor made out of Nylon for durability.",
+          "Low profile reduces set height.",
+          "Set height required is only 28mm.",
+          "Load capacity: Static 500kgs, Dynamic 300 kgs.",
+          "Comes in 1 box of 4 Castor.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pedestal Castor</td><td>PC28</td><td>Ht. 28mm / Dia. 60mm</td><td>Black</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-19-03",
         "prevContent": "selection-02-01-19",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-19-03-01.jpg",
+        "title": "Maxi Connector",
+        "cardImg": "media-second-floor-view-01/02-01-19-03-01.jpg",
         "carouselId": "carousel-02-01-19-03",
         "images": [
-          "media-second-floor-view-02/02-01-19-03-01.jpg",
-          "media-second-floor-view-02/02-01-19-03-02.jpg",
-          "media-second-floor-view-02/02-01-19-03-03.jpg",
-          "media-second-floor-view-02/02-01-19-03-04.jpg"
+          "media-second-floor-view-01/02-01-19-03-01.jpg",
+          "media-second-floor-view-01/02-01-19-03-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "This heavy duty connector is used to join wardrobes, cupboards and other heavy furniture.",
+          "Bolts available in three lengths: 65mm, 100mm & 150mm.",
+          "Nuts available in two lengths, 10mm and 17mm.",
+          "Ø35mm boring cutter required.",
+          "Connectors are available for 19mm and 25mm boards.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Maxi Connector</td><td>MC35-65</td><td>65.0</td><td>Zinc Plated White</td></tr><tr><td>Maxi Connector</td><td>MC35-100</td><td>100.0</td><td>Zinc Plated White</td></tr><tr><td>Connector</td><td>MC-13</td><td>13.0</td><td>-</td></tr><tr><td>Connector</td><td>MC-18</td><td>18.0</td><td>-</td></tr></tbody></table>"
         ]
       }
     ]
@@ -1352,37 +1499,39 @@
       {
         "id": "content-02-01-20-01",
         "prevContent": "selection-02-01-20",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-20-01-01.jpg",
+        "title": "Kitchen Midway Systems",
+        "cardImg": "media-second-floor-view-01/02-01-20-01-01.jpg",
         "carouselId": "carousel-02-01-20-01",
         "images": [
-          "media-second-floor-view-02/02-01-20-01-01.jpg",
-          "media-second-floor-view-02/02-01-20-01-02.jpg",
-          "media-second-floor-view-02/02-01-20-01-03.jpg",
-          "media-second-floor-view-02/02-01-20-01-04.jpg"
+          "media-second-floor-view-01/02-01-20-01-01.jpg",
+          "media-second-floor-view-01/02-01-20-01-02.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Maximise your kitchen space and get easy access to your daily kitchen tools",
+          "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience",
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop",
+          "Optional LED lighting in Aluminium track.",
+          "Safety Bumpers provided for additional stability and grip.",
+          "Finish : Anthracite & Wood",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Midway Aluminium Track (with LED)</td><td>KMS-L-AT</td><td>36 x 34 x 904mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Aluminium Track (without LED)</td><td>KMS-AT</td><td>36 x 34 x 904mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Aluminium Track (with LED) 1200</td><td>KMS-L120-AT</td><td>1200</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Aluminium Track (without LED) 1200</td><td>KMS-120-AT</td><td>1200</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Towel Rack</td><td>KMS-TR</td><td>48 x 115 x 229mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Shelf with Spice Rack - Round</td><td>KMS-S-SR-R</td><td>150 x 130 x 225mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Shelf</td><td>KMS-S</td><td>157 x 134 x 225mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Shelf  With Gallery</td><td>KMS-S-G</td><td>157 x 134 x 225 mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Shelf Tall with Gallery</td><td>KMS-ST-G</td><td>257 x 134 x 225mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Laddle Rack</td><td>KMS-LR</td><td>48 x 40 x 225mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Wine Glass Holder</td><td>KMS-WGH</td><td>43 x 125 x 450mm</td><td>Anthracite</td></tr></tbody></table>"
         ]
       },
       {
         "id": "content-02-01-20-02",
         "prevContent": "selection-02-01-20",
-        "title": "",
-        "cardImg": "media-second-floor-view-02/02-01-20-02-01.jpg",
+        "title": "Kitchen Midway Rack Set",
+        "cardImg": "media-second-floor-view-01/02-01-20-02-01.jpg",
         "carouselId": "carousel-02-01-20-02",
         "images": [
-          "media-second-floor-view-02/02-01-20-02-01.jpg",
-          "media-second-floor-view-02/02-01-20-02-02.jpg",
-          "media-second-floor-view-02/02-01-20-02-03.jpg",
-          "media-second-floor-view-02/02-01-20-02-04.jpg"
+          "media-second-floor-view-01/02-01-20-02-01.jpg"
         ],
         "features": [
-          "",
-          "",
-          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+          "Two tire multi purpose kitchen midway rack set can be used for quick access to jars, bottles, spices, etc also has a hook strip to hang handy spoons.",
+          "Easy to install, remove, & maintain",
+          "Width: 800mm",
+          "Height: 400mm",
+          "Finish: Anthracite",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Midway Rack Set</td><td>KMR-50</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
         ]
       }
     ]
