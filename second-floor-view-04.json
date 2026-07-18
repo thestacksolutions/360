@@ -17,8 +17,8 @@
       "rotation": "0 0 0"
     },
     {
-      "id": "02-04-02",
-      "targetContent": "selection-02-04-02",
+      "id": "02-04-03",
+      "targetContent": "selection-02-04-03",
       "position": "-4.70 1.50 -0.80",
       "rotation": "0 0 0"
     },
@@ -66,953 +66,1045 @@
     }
   ],
   "selection-02-04-01": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-01-01",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-01-01.jpg",
-      "carouselId": "carousel-02-04-01-01",
-      "images": [
-        "media-second-floor-view-04/02-04-01-01-01.jpg",
-        "media-second-floor-view-04/02-04-01-01-02.jpg",
-        "media-second-floor-view-04/02-04-01-01-03.jpg",
-        "media-second-floor-view-04/02-04-01-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-02",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-02-01.jpg",
-      "carouselId": "carousel-02-04-01-02",
-      "images": [
-        "media-second-floor-view-04/02-04-01-02-01.jpg",
-        "media-second-floor-view-04/02-04-01-02-02.jpg",
-        "media-second-floor-view-04/02-04-01-02-03.jpg",
-        "media-second-floor-view-04/02-04-01-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-03",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-03-01.jpg",
-      "carouselId": "carousel-02-04-01-03",
-      "images": [
-        "media-second-floor-view-04/02-04-01-03-01.jpg",
-        "media-second-floor-view-04/02-04-01-03-02.jpg",
-        "media-second-floor-view-04/02-04-01-03-03.jpg",
-        "media-second-floor-view-04/02-04-01-03-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-04",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-04-01.jpg",
-      "carouselId": "carousel-02-04-01-04",
-      "images": [
-        "media-second-floor-view-04/02-04-01-04-01.jpg",
-        "media-second-floor-view-04/02-04-01-04-02.jpg",
-        "media-second-floor-view-04/02-04-01-04-03.jpg",
-        "media-second-floor-view-04/02-04-01-04-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-05",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-05-01.jpg",
-      "carouselId": "carousel-02-04-01-05",
-      "images": [
-        "media-second-floor-view-04/02-04-01-05-01.jpg",
-        "media-second-floor-view-04/02-04-01-05-02.jpg",
-        "media-second-floor-view-04/02-04-01-05-03.jpg",
-        "media-second-floor-view-04/02-04-01-05-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-06",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-06-01.jpg",
-      "carouselId": "carousel-02-04-01-06",
-      "images": [
-        "media-second-floor-view-04/02-04-01-06-01.jpg",
-        "media-second-floor-view-04/02-04-01-06-02.jpg",
-        "media-second-floor-view-04/02-04-01-06-03.jpg",
-        "media-second-floor-view-04/02-04-01-06-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-07",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-07-01.jpg",
-      "carouselId": "carousel-02-04-01-07",
-      "images": [
-        "media-second-floor-view-04/02-04-01-07-01.jpg",
-        "media-second-floor-view-04/02-04-01-07-02.jpg",
-        "media-second-floor-view-04/02-04-01-07-03.jpg",
-        "media-second-floor-view-04/02-04-01-07-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-08",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-08-01.jpg",
-      "carouselId": "carousel-02-04-01-08",
-      "images": [
-        "media-second-floor-view-04/02-04-01-08-01.jpg",
-        "media-second-floor-view-04/02-04-01-08-02.jpg",
-        "media-second-floor-view-04/02-04-01-08-03.jpg",
-        "media-second-floor-view-04/02-04-01-08-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-09",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-09-01.jpg",
-      "carouselId": "carousel-02-04-01-09",
-      "images": [
-        "media-second-floor-view-04/02-04-01-09-01.jpg",
-        "media-second-floor-view-04/02-04-01-09-02.jpg",
-        "media-second-floor-view-04/02-04-01-09-03.jpg",
-        "media-second-floor-view-04/02-04-01-09-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-10",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-10-01.jpg",
-      "carouselId": "carousel-02-04-01-10",
-      "images": [
-        "media-second-floor-view-04/02-04-01-10-01.jpg",
-        "media-second-floor-view-04/02-04-01-10-02.jpg",
-        "media-second-floor-view-04/02-04-01-10-03.jpg",
-        "media-second-floor-view-04/02-04-01-10-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-01-11",
-      "prevContent": "selection-02-04-01",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-01-11-01.jpg",
-      "carouselId": "carousel-02-04-01-11",
-      "images": [
-        "media-second-floor-view-04/02-04-01-11-01.jpg",
-        "media-second-floor-view-04/02-04-01-11-02.jpg",
-        "media-second-floor-view-04/02-04-01-11-03.jpg",
-        "media-second-floor-view-04/02-04-01-11-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-02": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-02-01",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-01-01.jpg",
-      "carouselId": "carousel-02-04-02-01",
-      "images": [
-        "media-second-floor-view-04/02-04-02-01-01.jpg",
-        "media-second-floor-view-04/02-04-02-01-02.jpg",
-        "media-second-floor-view-04/02-04-02-01-03.jpg",
-        "media-second-floor-view-04/02-04-02-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-02",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-02-01.jpg",
-      "carouselId": "carousel-02-04-02-02",
-      "images": [
-        "media-second-floor-view-04/02-04-02-02-01.jpg",
-        "media-second-floor-view-04/02-04-02-02-02.jpg",
-        "media-second-floor-view-04/02-04-02-02-03.jpg",
-        "media-second-floor-view-04/02-04-02-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-03",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-03-01.jpg",
-      "carouselId": "carousel-02-04-02-03",
-      "images": [
-        "media-second-floor-view-04/02-04-02-03-01.jpg",
-        "media-second-floor-view-04/02-04-02-03-02.jpg",
-        "media-second-floor-view-04/02-04-02-03-03.jpg",
-        "media-second-floor-view-04/02-04-02-03-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-04",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-04-01.jpg",
-      "carouselId": "carousel-02-04-02-04",
-      "images": [
-        "media-second-floor-view-04/02-04-02-04-01.jpg",
-        "media-second-floor-view-04/02-04-02-04-02.jpg",
-        "media-second-floor-view-04/02-04-02-04-03.jpg",
-        "media-second-floor-view-04/02-04-02-04-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-05",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-05-01.jpg",
-      "carouselId": "carousel-02-04-02-05",
-      "images": [
-        "media-second-floor-view-04/02-04-02-05-01.jpg",
-        "media-second-floor-view-04/02-04-02-05-02.jpg",
-        "media-second-floor-view-04/02-04-02-05-03.jpg",
-        "media-second-floor-view-04/02-04-02-05-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-06",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-06-01.jpg",
-      "carouselId": "carousel-02-04-02-06",
-      "images": [
-        "media-second-floor-view-04/02-04-02-06-01.jpg",
-        "media-second-floor-view-04/02-04-02-06-02.jpg",
-        "media-second-floor-view-04/02-04-02-06-03.jpg",
-        "media-second-floor-view-04/02-04-02-06-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-07",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-07-01.jpg",
-      "carouselId": "carousel-02-04-02-07",
-      "images": [
-        "media-second-floor-view-04/02-04-02-07-01.jpg",
-        "media-second-floor-view-04/02-04-02-07-02.jpg",
-        "media-second-floor-view-04/02-04-02-07-03.jpg",
-        "media-second-floor-view-04/02-04-02-07-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-08",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-08-01.jpg",
-      "carouselId": "carousel-02-04-02-08",
-      "images": [
-        "media-second-floor-view-04/02-04-02-08-01.jpg",
-        "media-second-floor-view-04/02-04-02-08-02.jpg",
-        "media-second-floor-view-04/02-04-02-08-03.jpg",
-        "media-second-floor-view-04/02-04-02-08-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-09",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-09-01.jpg",
-      "carouselId": "carousel-02-04-02-09",
-      "images": [
-        "media-second-floor-view-04/02-04-02-09-01.jpg",
-        "media-second-floor-view-04/02-04-02-09-02.jpg",
-        "media-second-floor-view-04/02-04-02-09-03.jpg",
-        "media-second-floor-view-04/02-04-02-09-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-10",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-10-01.jpg",
-      "carouselId": "carousel-02-04-02-10",
-      "images": [
-        "media-second-floor-view-04/02-04-02-10-01.jpg",
-        "media-second-floor-view-04/02-04-02-10-02.jpg",
-        "media-second-floor-view-04/02-04-02-10-03.jpg",
-        "media-second-floor-view-04/02-04-02-10-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-02-11",
-      "prevContent": "selection-02-04-02",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-02-11-01.jpg",
-      "carouselId": "carousel-02-04-02-11",
-      "images": [
-        "media-second-floor-view-04/02-04-02-11-01.jpg",
-        "media-second-floor-view-04/02-04-02-11-02.jpg",
-        "media-second-floor-view-04/02-04-02-11-03.jpg",
-        "media-second-floor-view-04/02-04-02-11-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-03": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-03-01",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-01-01.jpg",
-      "carouselId": "carousel-02-04-03-01",
-      "images": [
-        "media-second-floor-view-04/02-04-03-01-01.jpg",
-        "media-second-floor-view-04/02-04-03-01-02.jpg",
-        "media-second-floor-view-04/02-04-03-01-03.jpg",
-        "media-second-floor-view-04/02-04-03-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-03-02",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-02-01.jpg",
-      "carouselId": "carousel-02-04-03-02",
-      "images": [
-        "media-second-floor-view-04/02-04-03-02-01.jpg",
-        "media-second-floor-view-04/02-04-03-02-02.jpg",
-        "media-second-floor-view-04/02-04-03-02-03.jpg",
-        "media-second-floor-view-04/02-04-03-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-03-03",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-03-01.jpg",
-      "carouselId": "carousel-02-04-03-03",
-      "images": [
-        "media-second-floor-view-04/02-04-03-03-01.jpg",
-        "media-second-floor-view-04/02-04-03-03-02.jpg",
-        "media-second-floor-view-04/02-04-03-03-03.jpg",
-        "media-second-floor-view-04/02-04-03-03-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-03-04",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-04-01.jpg",
-      "carouselId": "carousel-02-04-03-04",
-      "images": [
-        "media-second-floor-view-04/02-04-03-04-01.jpg",
-        "media-second-floor-view-04/02-04-03-04-02.jpg",
-        "media-second-floor-view-04/02-04-03-04-03.jpg",
-        "media-second-floor-view-04/02-04-03-04-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-03-05",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-05-01.jpg",
-      "carouselId": "carousel-02-04-03-05",
-      "images": [
-        "media-second-floor-view-04/02-04-03-05-01.jpg",
-        "media-second-floor-view-04/02-04-03-05-02.jpg",
-        "media-second-floor-view-04/02-04-03-05-03.jpg",
-        "media-second-floor-view-04/02-04-03-05-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-03-06",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-06-01.jpg",
-      "carouselId": "carousel-02-04-03-06",
-      "images": [
-        "media-second-floor-view-04/02-04-03-06-01.jpg",
-        "media-second-floor-view-04/02-04-03-06-02.jpg",
-        "media-second-floor-view-04/02-04-03-06-03.jpg",
-        "media-second-floor-view-04/02-04-03-06-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-03-07",
-      "prevContent": "selection-02-04-03",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-03-07-01.jpg",
-      "carouselId": "carousel-02-04-03-07",
-      "images": [
-        "media-second-floor-view-04/02-04-03-07-01.jpg",
-        "media-second-floor-view-04/02-04-03-07-02.jpg",
-        "media-second-floor-view-04/02-04-03-07-03.jpg",
-        "media-second-floor-view-04/02-04-03-07-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-04": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-04-01",
-      "prevContent": "selection-02-04-04",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-04-01-01.jpg",
-      "carouselId": "carousel-02-04-04-01",
-      "images": [
-        "media-second-floor-view-04/02-04-04-01-01.jpg",
-        "media-second-floor-view-04/02-04-04-01-02.jpg",
-        "media-second-floor-view-04/02-04-04-01-03.jpg",
-        "media-second-floor-view-04/02-04-04-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-04-02",
-      "prevContent": "selection-02-04-04",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-04-02-01.jpg",
-      "carouselId": "carousel-02-04-04-02",
-      "images": [
-        "media-second-floor-view-04/02-04-04-02-01.jpg",
-        "media-second-floor-view-04/02-04-04-02-02.jpg",
-        "media-second-floor-view-04/02-04-04-02-03.jpg",
-        "media-second-floor-view-04/02-04-04-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-04-03",
-      "prevContent": "selection-02-04-04",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-04-03-01.jpg",
-      "carouselId": "carousel-02-04-04-03",
-      "images": [
-        "media-second-floor-view-04/02-04-04-03-01.jpg",
-        "media-second-floor-view-04/02-04-04-03-02.jpg",
-        "media-second-floor-view-04/02-04-04-03-03.jpg",
-        "media-second-floor-view-04/02-04-04-03-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-04-04",
-      "prevContent": "selection-02-04-04",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-04-04-01.jpg",
-      "carouselId": "carousel-02-04-04-04",
-      "images": [
-        "media-second-floor-view-04/02-04-04-04-01.jpg",
-        "media-second-floor-view-04/02-04-04-04-02.jpg",
-        "media-second-floor-view-04/02-04-04-04-03.jpg",
-        "media-second-floor-view-04/02-04-04-04-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-05": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-05-01",
-      "prevContent": "selection-02-04-05",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-05-01-01.jpg",
-      "carouselId": "carousel-02-04-05-01",
-      "images": [
-        "media-second-floor-view-04/02-04-05-01-01.jpg",
-        "media-second-floor-view-04/02-04-05-01-02.jpg",
-        "media-second-floor-view-04/02-04-05-01-03.jpg",
-        "media-second-floor-view-04/02-04-05-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-05-02",
-      "prevContent": "selection-02-04-05",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-05-02-01.jpg",
-      "carouselId": "carousel-02-04-05-02",
-      "images": [
-        "media-second-floor-view-04/02-04-05-02-01.jpg",
-        "media-second-floor-view-04/02-04-05-02-02.jpg",
-        "media-second-floor-view-04/02-04-05-02-03.jpg",
-        "media-second-floor-view-04/02-04-05-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-06": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-06-01",
-      "prevContent": "selection-02-04-06",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-06-01-01.jpg",
-      "carouselId": "carousel-02-04-06-01",
-      "images": [
-        "media-second-floor-view-04/02-04-06-01-01.jpg",
-        "media-second-floor-view-04/02-04-06-01-02.jpg",
-        "media-second-floor-view-04/02-04-06-01-03.jpg",
-        "media-second-floor-view-04/02-04-06-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-07": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-07-01",
-      "prevContent": "selection-02-04-07",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-07-01-01.jpg",
-      "carouselId": "carousel-02-04-07-01",
-      "images": [
-        "media-second-floor-view-04/02-04-07-01-01.jpg",
-        "media-second-floor-view-04/02-04-07-01-02.jpg",
-        "media-second-floor-view-04/02-04-07-01-03.jpg",
-        "media-second-floor-view-04/02-04-07-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-07-02",
-      "prevContent": "selection-02-04-07",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-07-02-01.jpg",
-      "carouselId": "carousel-02-04-07-02",
-      "images": [
-        "media-second-floor-view-04/02-04-07-02-01.jpg",
-        "media-second-floor-view-04/02-04-07-02-02.jpg",
-        "media-second-floor-view-04/02-04-07-02-03.jpg",
-        "media-second-floor-view-04/02-04-07-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-07-03",
-      "prevContent": "selection-02-04-07",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-07-03-01.jpg",
-      "carouselId": "carousel-02-04-07-03",
-      "images": [
-        "media-second-floor-view-04/02-04-07-03-01.jpg",
-        "media-second-floor-view-04/02-04-07-03-02.jpg",
-        "media-second-floor-view-04/02-04-07-03-03.jpg",
-        "media-second-floor-view-04/02-04-07-03-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-08": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-08-01",
-      "prevContent": "selection-02-04-08",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-08-01-01.jpg",
-      "carouselId": "carousel-02-04-08-01",
-      "images": [
-        "media-second-floor-view-04/02-04-08-01-01.jpg",
-        "media-second-floor-view-04/02-04-08-01-02.jpg",
-        "media-second-floor-view-04/02-04-08-01-03.jpg",
-        "media-second-floor-view-04/02-04-08-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-09": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-09-01",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-01-01.jpg",
-      "carouselId": "carousel-02-04-09-01",
-      "images": [
-        "media-second-floor-view-04/02-04-09-01-01.jpg",
-        "media-second-floor-view-04/02-04-09-01-02.jpg",
-        "media-second-floor-view-04/02-04-09-01-03.jpg",
-        "media-second-floor-view-04/02-04-09-01-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-02",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-02-01.jpg",
-      "carouselId": "carousel-02-04-09-02",
-      "images": [
-        "media-second-floor-view-04/02-04-09-02-01.jpg",
-        "media-second-floor-view-04/02-04-09-02-02.jpg",
-        "media-second-floor-view-04/02-04-09-02-03.jpg",
-        "media-second-floor-view-04/02-04-09-02-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-03",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-03-01.jpg",
-      "carouselId": "carousel-02-04-09-03",
-      "images": [
-        "media-second-floor-view-04/02-04-09-03-01.jpg",
-        "media-second-floor-view-04/02-04-09-03-02.jpg",
-        "media-second-floor-view-04/02-04-09-03-03.jpg",
-        "media-second-floor-view-04/02-04-09-03-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-04",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-04-01.jpg",
-      "carouselId": "carousel-02-04-09-04",
-      "images": [
-        "media-second-floor-view-04/02-04-09-04-01.jpg",
-        "media-second-floor-view-04/02-04-09-04-02.jpg",
-        "media-second-floor-view-04/02-04-09-04-03.jpg",
-        "media-second-floor-view-04/02-04-09-04-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-05",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-05-01.jpg",
-      "carouselId": "carousel-02-04-09-05",
-      "images": [
-        "media-second-floor-view-04/02-04-09-05-01.jpg",
-        "media-second-floor-view-04/02-04-09-05-02.jpg",
-        "media-second-floor-view-04/02-04-09-05-03.jpg",
-        "media-second-floor-view-04/02-04-09-05-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-06",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-06-01.jpg",
-      "carouselId": "carousel-02-04-09-06",
-      "images": [
-        "media-second-floor-view-04/02-04-09-06-01.jpg",
-        "media-second-floor-view-04/02-04-09-06-02.jpg",
-        "media-second-floor-view-04/02-04-09-06-03.jpg",
-        "media-second-floor-view-04/02-04-09-06-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-07",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-07-01.jpg",
-      "carouselId": "carousel-02-04-09-07",
-      "images": [
-        "media-second-floor-view-04/02-04-09-07-01.jpg",
-        "media-second-floor-view-04/02-04-09-07-02.jpg",
-        "media-second-floor-view-04/02-04-09-07-03.jpg",
-        "media-second-floor-view-04/02-04-09-07-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-08",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-08-01.jpg",
-      "carouselId": "carousel-02-04-09-08",
-      "images": [
-        "media-second-floor-view-04/02-04-09-08-01.jpg",
-        "media-second-floor-view-04/02-04-09-08-02.jpg",
-        "media-second-floor-view-04/02-04-09-08-03.jpg",
-        "media-second-floor-view-04/02-04-09-08-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    },
-    {
-      "id": "content-02-04-09-09",
-      "prevContent": "selection-02-04-09",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-09-01.jpg",
-      "carouselId": "carousel-02-04-09-09",
-      "images": [
-        "media-second-floor-view-04/02-04-09-09-01.jpg",
-        "media-second-floor-view-04/02-04-09-09-02.jpg",
-        "media-second-floor-view-04/02-04-09-09-03.jpg",
-        "media-second-floor-view-04/02-04-09-09-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-},
-"selection-02-04-10": {
-  "title": "Second Floor View 04",
-  "products": [
-    {
-      "id": "content-02-04-09-10",
-      "prevContent": "selection-02-04-10",
-      "title": "",
-      "cardImg": "media-second-floor-view-04/02-04-09-10-01.jpg",
-      "carouselId": "carousel-02-04-09-10",
-      "images": [
-        "media-second-floor-view-04/02-04-09-10-01.jpg",
-        "media-second-floor-view-04/02-04-09-10-02.jpg",
-        "media-second-floor-view-04/02-04-09-10-03.jpg",
-        "media-second-floor-view-04/02-04-09-10-04.jpg"
-      ],
-      "features": [
-        "",
-        "",
-        "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
-      ]
-    }
-  ]
-}
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-01-01",
+        "prevContent": "selection-02-04-01",
+        "title": "Hi Slide and Fold 20-25",
+        "cardImg": "media-second-floor-view-04/02-04-01-01-01.webp",
+        "carouselId": "carousel-02-04-01-01",
+        "images": [
+          "media-second-floor-view-04/02-04-01-01-01.webp"
+        ],
+        "features": [
+          "Ideal for multiple of 2 doors overlay mounting shutters.",
+          "Soft-close function allows the shutter to close in slow motion without banging.",
+          "Weight Capacity: 20-25kg/door",
+          "Door width: 300-600mm",
+          "Door thickness: >16mm",
+          "Door height: <2500mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Hi Slide and Fold 20-25 (Set of 2 Top Fittings, 2 Bottom Fittings, 4 Folding Hinge, 2 Soft Close and Assembling Kit)</td><td>HSF-20-25</td><td rowspan='3'>-</td><td>Zinc White</td></tr><tr><td>Al. Track for Hi Slide and Fold 20-25 (Set of Top & Bottom tracks in 2.44 meters)</td><td>HSF-20-25-T2</td><td>Anodised Silver</td></tr><tr><td>Al. Track for Hi Slide and Fold 20-25 (Set of Top & Bottom tracks in 3.66 meters)</td><td>HSF-20-25-T3</td><td>Anodised Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-02",
+        "prevContent": "selection-02-04-01",
+        "title": "Door Stiffener HD",
+        "cardImg": "media-second-floor-view-04/02-04-01-02-01.jpg",
+        "carouselId": "carousel-02-04-01-02",
+        "images": [
+          "media-second-floor-view-04/02-04-01-02-01.jpg",
+          "media-second-floor-view-04/02-04-01-02-02.jpg",
+          "media-second-floor-view-04/02-04-01-02-03.png",
+          "media-second-floor-view-04/02-04-01-02-04.jpg"
+        ],
+        "features": [
+          "Door stiffener HD helps to prevent warpage of thin long shutters.",
+          "Symmetrical working processes",
+          "Can be used in multiples for wider shutters",
+          "Use two sets when door width is more than 600mm",
+          "For door thickness 15mm and more",
+          "For door height 1000mm ~ 2700mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Door Stiffener HD</td><td>DSTF2-HD</td><td>2010</td><td>Grey</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-03",
+        "prevContent": "selection-02-04-01",
+        "title": "Linear Wardrobe Oval",
+        "cardImg": "media-second-floor-view-04/02-04-01-03-01.webp",
+        "carouselId": "carousel-02-04-01-03",
+        "images": [
+          "media-second-floor-view-04/02-04-01-03-01.webp",
+          "media-second-floor-view-04/02-04-01-03-02.webp"
+        ],
+        "features": [
+          "Specially designed wardrobe rail with in-built LED light",
+          "Input: 24V DC",
+          "CCT: 4000K",
+          "CRI: Ra 80+",
+          "Watt: 14.4w/mtr",
+          "Led: 120L/mtr",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Linear Wardrobe Oval</td><td>L-LWO-412</td><td rowspan='3'>Size : 409mm,559mm,859 mm Power : 14.4W/mtr No of led - 120/mtr *CCT : 4000K *CRI : Ra 80+ Door Sensor trigger distance &lt; 80mm</td><td rowspan='3'>AS</td></tr><tr><td>L-LWO-562</td></tr><tr><td>L-LWO-862</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-04",
+        "prevContent": "selection-02-04-01",
+        "title": "Power Supply Unit - Series 2 & 3",
+        "cardImg": "media-second-floor-view-04/02-04-01-04-01.jpg",
+        "carouselId": "carousel-02-04-01-04",
+        "images": [
+          "media-second-floor-view-04/02-04-01-04-01.jpg",
+          "media-second-floor-view-04/02-04-01-04-02.jpg",
+          "media-second-floor-view-04/02-04-01-04-03.jpg",
+          "media-second-floor-view-04/02-04-01-04-04.jpg"
+        ],
+        "features": [
+          "In-built distributors",
+          "Red gold-plated 5A terminal for stability & durability",
+          "Centralized as well as independent sensor control to achieve diverse lighting management using a single power supply",
+          "Input voltage: AC200-240V",
+          "Comes with 1 mtr power cable",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Power Supply Unit - Series 2</td><td>PSU2-2424</td><td>24W/24V</td><td>White</td></tr><tr><td>PSU2-2436</td><td>36W/24V</td><td>White</td></tr><tr><td>PSU2-2460</td><td>60W/24V</td><td>White</td></tr><tr><td rowspan='3'>Power Supply Unit - Series 3</td><td>PSU3-2436</td><td>36W/24V</td><td>Black</td></tr><tr><td>PSU3-2465</td><td>65W/24V</td><td>Black</td></tr><tr><td>PSU3-24120</td><td>120W/24V</td><td>Black</td></tr><tr><td>Sensor Adapter Cord</td><td>SAC1</td><td>150mm, 2pin to 4pin</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-05",
+        "prevContent": "selection-02-04-01",
+        "title": "Wardrobe Pullout Utility Rack",
+        "cardImg": "media-second-floor-view-04/02-04-01-05-01.webp",
+        "carouselId": "carousel-02-04-01-05",
+        "images": [
+          "media-second-floor-view-04/02-04-01-05-01.webp",
+          "media-second-floor-view-04/02-04-01-05-02.webp"
+        ],
+        "features": [
+          "The multi-function side pullout rack can be used in wardrobes or any cabinets to organize your tie, belt, handbag, shawl, scarves, or other handy things",
+          "Comes with 8 hooks and 1 tray to keep miscellaneous things.",
+          "Saves space and maintains aesthetics",
+          "Can be used in multiples.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Pullout Utility Rack - Left</td><td>WPUR-L</td><td>111 X 457 X 60</td><td>Brown</td></tr><tr><td>Wardrobe Pullout Utility Rack - Right</td><td>WPUR-R</td><td>111 X 457 X 60</td><td>Brown</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-06",
+        "prevContent": "selection-02-04-01",
+        "title": "Wardrobe Mirror Pullout",
+        "cardImg": "media-second-floor-view-04/02-04-01-06-01.jpg",
+        "carouselId": "carousel-02-04-01-06",
+        "images": [
+          "media-second-floor-view-04/02-04-01-06-01.jpg"
+        ],
+        "features": [
+          "Elegant and minimalistic mirror that can be pulled out from a wardrobe and stowed away when not in use.",
+          "Space saving solution that eliminates the need of a separate dressing table.",
+          "Suitable for wardrobes with folding/sliding doors, 180° opening shutters, walk in wardrobes, etc.",
+          "Can be pulled out and rotated by 90°",
+          "Minimum width required for rotation is 230mm.",
+          "Finish: Brown",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Mirror Pullout</td><td>WMP-12035-BR</td><td>1200 x 352 x 61</td><td>Brown</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-07",
+        "prevContent": "selection-02-04-01",
+        "title": "Wardrobe Pullout Drawer Organiser (Soft Close)",
+        "cardImg": "media-second-floor-view-04/02-04-01-07-01.jpg",
+        "carouselId": "carousel-02-04-01-07",
+        "images": [
+          "media-second-floor-view-04/02-04-01-07-01.jpg",
+          "media-second-floor-view-04/02-04-01-07-02.jpg"
+        ],
+        "features": [
+          "Thoughtfully designed to organize your accessories for convenient access and easy pull-out",
+          "Ready to use product that can be installed easily in any type of wardrobe",
+          "Soft velvet material at bottom protects your accessories from any type of dirt & damage",
+          "Ideal for storing variety of jewellery such as necklaces, rings, earrings or more.",
+          "in built soft close feature for silent & effortless closing",
+          "Design for 450, 600, 800 and 900mm wide cabinets, with soft close feature",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Wardrobe Pullout Drawer Organiser (Soft Close)</td><td>WPDO-45 SC BR</td><td>414 x 470 x 56</td><td rowspan='4'>Brown</td></tr><tr><td>WPDO-60-SC-BR</td><td>564 x 470 x 56</td></tr><tr><td>WPDO-80-SC-BR</td><td>764 x 470 x 56</td></tr><tr><td>WPDO-90-SC-BR</td><td>864 x 470 x 56</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-08",
+        "prevContent": "selection-02-04-01",
+        "title": "Wardrobe Pullout Basket - Wicker - Soft Close",
+        "cardImg": "media-second-floor-view-04/02-04-01-08-01.jpg",
+        "carouselId": "carousel-02-04-01-08",
+        "images": [
+          "media-second-floor-view-04/02-04-01-08-01.jpg",
+          "media-second-floor-view-04/02-04-01-08-02.jpg"
+        ],
+        "features": [
+          "Well - designed plastic wicker basket with soft close feature is ideal for organised storage in wardrobes",
+          "Easy pull out providing clear access to your outfits",
+          "Available in brown finish",
+          "Designed for 450, 600, 800 & 900mm wide cabinets",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Wardrobe Pullout Basket - Wicker - (Soft Close)</td><td>WPBW-45-SC-BR</td><td>414 x 470 x 140</td><td rowspan='4'>Brown</td></tr><tr><td>WPBW-60-SC-BR</td><td>564 x 470 x 140</td></tr><tr><td>WPBW-80-SC-BR</td><td>764 x 470 x 140</td></tr><tr><td>WPBW-90-SC-BR</td><td>864 x 470 x 140</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-09",
+        "prevContent": "selection-02-04-01",
+        "title": "Wardrobe Pullout Basket - (Soft Close)",
+        "cardImg": "media-second-floor-view-04/02-04-01-09-01.jpg",
+        "carouselId": "carousel-02-04-01-09",
+        "images": [
+          "media-second-floor-view-04/02-04-01-09-01.jpg",
+          "media-second-floor-view-04/02-04-01-09-02.jpg"
+        ],
+        "features": [
+          "Organise your clothes in a better way with these pull-out baskets for wardrobes.",
+          "Easy pull out providing clear access to your outfits.",
+          "In built soft close feature for silent & effortless closing",
+          "Design for 450, 600, 800 and 900mm wide cabinets, with soft close feature.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Wardrobe Pullout Basket - (Soft Close)</td><td> WPB-45-SC-BR</td><td> 414 x 470 x 140</td><td rowspan='4'>Brown</td></tr><tr><td> WPB-60-SC-BR</td><td> 564 x 470 x 140</td></tr><tr><td> WPB-80-SC-BR</td><td> 764 x 470 x 140</td></tr><tr><td> WPB-90-SC-BR</td><td> 864 x 470 x 140</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-10",
+        "prevContent": "selection-02-04-01",
+        "title": "Aluminium Handle - C4",
+        "cardImg": "media-second-floor-view-04/02-04-01-10-01.png",
+        "carouselId": "carousel-02-04-01-10",
+        "images": [
+          "media-second-floor-view-04/02-04-01-10-01.png",
+          "media-second-floor-view-04/02-04-01-10-02.png",
+          "media-second-floor-view-04/02-04-01-10-03.jpg",
+          "media-second-floor-view-04/02-04-01-10-04.jpeg",
+          "media-second-floor-view-04/02-04-01-10-05.jpg"
+        ],
+        "features": [
+          "Variety of designs to select from.",
+          "Ergonomically designed for good grip.",
+          "Available in different lengths as per system - 32.",
+          "Various finishes to suit your furniture.",
+          "Comes in Set of 2pcs",
+          "Finishes - Special Finish (SF), Brushed Aluminium (BA), Anodized Black (AB), Chrome Plated (CP).",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Aluminium Handle C4</td><td>C4AH1-96-SF/CP/BA/AB</td><td>96 x 136 mm</td><td rowspan='4'>Special Finish / Chrome Plated / Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-160-SF/CP/BA/AB</td><td>160 x 200 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-192-SF/CP/BA/AB</td><td>192 x 232 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-320-SF/CP/BA/AB</td><td>320 x 360 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-1088-BA/AB</td><td>1088 x 1200 mm</td><td>Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-96-SF/BA/AB</td><td>96 x 136 mm</td><td>Special Finish / Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-160-SF/AB</td><td>160 x 200 mm</td><td rowspan='3'>Special Finish / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-192-SF/AB</td><td>192 x 232 mm</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-320-SF/AB</td><td>320 x 360 mm</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-1088-BA/AB</td><td>1088 x 1200 mm</td><td>Brushed Aluminium / Anodized Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-01-11",
+        "prevContent": "selection-02-04-01",
+        "title": "Shelf Cam",
+        "cardImg": "media-second-floor-view-04/02-04-01-11-01.jpg",
+        "carouselId": "carousel-02-04-01-11",
+        "images": [
+          "media-second-floor-view-04/02-04-01-11-01.jpg",
+          "media-second-floor-view-04/02-04-01-11-02.jpg",
+          "media-second-floor-view-04/02-04-01-11-03.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets.",
+          "This saves on assembly time as the shelves can be fitted easily from front or from above into the carcass of the cabinet.",
+          "The fittings sits inside a Ø20 mm cavity, 12.5 mm deep.",
+          "The screw is fitted on the side wall of the cabinet.",
+          "The eccentric cam is tightened from below to lock.",
+          "Load Capacity: 4 pcs - 20Kgs ",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Shelf Cam</td><td>SFC2</td><td>⌀20 mm</td><td>Frosty White / Brown</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-02": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-02-01",
+        "prevContent": "selection-02-04-02",
+        "title": "Hi Slide and Fold 20-25",
+        "cardImg": "media-second-floor-view-04/02-04-02-01-01.webp",
+        "carouselId": "carousel-02-04-02-01",
+        "images": [
+          "media-second-floor-view-04/02-04-02-01-01.webp"
+        ],
+        "features": [
+          "Ideal for multiple of 2 doors overlay mounting shutters.",
+          "Soft-close function allows the shutter to close in slow motion without banging.",
+          "Weight Capacity: 20-25kg/door",
+          "Door width: 300-600mm",
+          "Door thickness: >16mm",
+          "Door height: <2500mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Hi Slide and Fold 20-25 (Set of 2 Top Fittings, 2 Bottom Fittings, 4 Folding Hinge, 2 Soft Close and Assembling Kit)</td><td>HSF-20-25</td><td rowspan='3'>-</td><td>Zinc White</td></tr><tr><td>Al. Track for Hi Slide and Fold 20-25 (Set of Top & Bottom tracks in 2.44 meters)</td><td>HSF-20-25-T2</td><td>Anodised Silver</td></tr><tr><td>Al. Track for Hi Slide and Fold 20-25 (Set of Top & Bottom tracks in 3.66 meters)</td><td>HSF-20-25-T3</td><td>Anodised Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-02",
+        "prevContent": "selection-02-04-02",
+        "title": "Door Stiffener HD",
+        "cardImg": "media-second-floor-view-04/02-04-02-02-01.jpg",
+        "carouselId": "carousel-02-04-02-02",
+        "images": [
+          "media-second-floor-view-04/02-04-02-02-01.jpg",
+          "media-second-floor-view-04/02-04-02-02-02.jpg",
+          "media-second-floor-view-04/02-04-02-02-03.png",
+          "media-second-floor-view-04/02-04-02-02-04.jpg"
+        ],
+        "features": [
+          "Door stiffener HD helps to prevent warpage of thin long shutters.",
+          "Symmetrical working processes",
+          "Can be used in multiples for wider shutters",
+          "Use two sets when door width is more than 600mm",
+          "For door thickness 15mm and more",
+          "For door height 1000mm ~ 2700mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Door Stiffener HD</td><td>DSTF2-HD</td><td>2010</td><td>Grey</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-03",
+        "prevContent": "selection-02-04-02",
+        "title": "L' Connector for Rectangular Al. Rail",
+        "cardImg": "media-second-floor-view-04/02-04-02-03-01.jpg",
+        "carouselId": "carousel-02-04-02-03",
+        "images": [
+          "media-second-floor-view-04/02-04-02-03-01.jpg",
+          "media-second-floor-view-04/02-04-02-03-02.jpeg",
+          "media-second-floor-view-04/02-04-02-03-03.jpeg",
+          "media-second-floor-view-04/02-04-02-03-04.jpeg"
+        ],
+        "features": [
+          "Easy to fit and compatible with a special",
+          "EBCO aluminium rectangular rail. (WRF-RR)",
+          "Specially designed R.A. Connectors which mounts the rectangular rail on the ceiling of wardrobe and mounting screws remains concealed, thus enhancing the look of the furniture.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>L' Connector for Rectangular Al. Rail</td><td>WRF-RRC</td><td>-</td><td>Brown / Brushed Aluminium</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-04",
+        "prevContent": "selection-02-04-02",
+        "title": "Wardrobe Rail Fittings (Rectangular)",
+        "cardImg": "media-second-floor-view-04/02-04-02-04-01.jpg",
+        "carouselId": "carousel-02-04-02-04",
+        "images": [
+          "media-second-floor-view-04/02-04-02-04-01.jpg"
+        ],
+        "features": [
+          "Rectangular wardrobe rail support are die cast for strength and long life. ",
+          "Easy to fit and compatible with a special Ebco aluminium rectangular rail. ",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='5'>Wardrobe Rail Fitting Rectangular</td><td>WRF-RR2-AN</td><td>10 x 30mm</td><td rowspan='3'>Anodized Brown</td></tr><tr><td>WRF-RR-3M-AN</td><td>-</td></tr><tr><td>WRF-RR3-AN</td><td>10 x 30mm</td></tr><tr><td>WRF-RR-3M-BA</td><td>-</td><td rowspan='2'>Brushed Aluminium</td></tr><tr><td>WRF-RR3-BA</td><td>10 x 30mm</td></tr><tr><td>Wardrobe Rail Fitting Rectangular Bracket</td><td>WRF-BR1-BR/AC</td><td>42 x 25m x Ø4mm</td><td>Brown / Anodized Champagne</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-05",
+        "prevContent": "selection-02-04-02",
+        "title": "Shelf Cam",
+        "cardImg": "media-second-floor-view-04/02-04-02-05-01.jpg",
+        "carouselId": "carousel-02-04-02-05",
+        "images": [
+          "media-second-floor-view-04/02-04-02-05-01.jpg",
+          "media-second-floor-view-04/02-04-02-05-02.jpg",
+          "media-second-floor-view-04/02-04-02-05-03.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets.",
+          "This saves on assembly time as the shelves can be fitted easily from front or from above into the carcass of the cabinet.",
+          "The fittings sits inside a Ø20 mm cavity, 12.5 mm deep.",
+          "The screw is fitted on the side wall of the cabinet.",
+          "The eccentric cam is tightened from below to lock.",
+          "Load Capacity: 4 pcs - 20Kgs ",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Shelf Cam</td><td>SFC2</td><td>⌀20 mm</td><td>Frosty White / Brown</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-06",
+        "prevContent": "selection-02-04-02",
+        "title": "Wardrobe Pullout Ironing Board",
+        "cardImg": "media-second-floor-view-04/02-04-02-06-01.jpg",
+        "carouselId": "carousel-02-04-02-06",
+        "images": [
+          "media-second-floor-view-04/02-04-02-06-01.jpg",
+          "media-second-floor-view-04/02-04-02-06-02.jpg",
+          "media-second-floor-view-04/02-04-02-06-03.jpg",
+          "media-second-floor-view-04/02-04-02-06-04.jpg"
+        ],
+        "features": [
+          "Aesthetically designed, space saving ironing board which slides in the wardrobe easily.",
+          "Easy to use in standing position as the board can be easily rotated to 180° for left and right hand side positions.",
+          "Practical in use and can be fitted on any shelf.",
+          "Folds in half and slides in for easy storage.",
+          "Finish: Anthracite",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Pullout Ironing Board</td><td>WPIB-4360-AT</td><td>430 x 300 x 140</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-07",
+        "prevContent": "selection-02-04-02",
+        "title": "Iron Rack",
+        "cardImg": "media-second-floor-view-04/02-04-02-07-01.jpg",
+        "carouselId": "carousel-02-04-02-07",
+        "images": [
+          "media-second-floor-view-04/02-04-02-07-01.jpg",
+          "media-second-floor-view-04/02-04-02-07-02.jpg",
+          "media-second-floor-view-04/02-04-02-07-03.jpg",
+          "media-second-floor-view-04/02-04-02-07-04.jpg"
+        ],
+        "features": [
+          "Simple and elegant in appearance.",
+          "Ideal for storing Iron Box on Wall.",
+          "Cables can be winded up in the lower compartment.",
+          "Easy to Fit.",
+          "Made out of SS 304.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Iron Rack</td><td>IR1-6-5-10-SS</td><td>148 x 130 x 260</td><td>SS304</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-08",
+        "prevContent": "selection-02-04-02",
+        "title": "Wardrobe Drawer Organiser 3",
+        "cardImg": "media-second-floor-view-04/02-04-02-08-01.jpg",
+        "carouselId": "carousel-02-04-02-08",
+        "images": [
+          "media-second-floor-view-04/02-04-02-08-01.jpg",
+          "media-second-floor-view-04/02-04-02-08-02.jpg",
+          "media-second-floor-view-04/02-04-02-08-03.jpg",
+          "media-second-floor-view-04/02-04-02-08-04.jpg",
+          "media-second-floor-view-04/02-04-02-08-05.jpg"
+        ],
+        "features": [
+          "These wardrobe drawer organizers help you store items such as watches, jewellery, ornaments, etc. in an organized and easy-to-access way",
+          "These can be easily added to existing wardrobe drawers or shelves and moved around to suit your needs",
+          "Dimensions: Length x Width x Height : 425mm x 165mm x 50mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Drawer Organiser 3 - Watch / Bangles 1</td><td>WDO3-WB1</td><td>165 x 425 x 50 mm</td><td rowspan='5'>Brown</td></tr><tr><td>Wardrobe Drawer Organiser 3 - Watch / Bangles 2</td><td>WDO3-WB2</td><td>165 x 425 x 50 mm</td></tr><tr><td>Wardrobe Drawer Organiser 3 - Multipurpose-4-1</td><td>WDO3-M41</td><td>165 x 425 x 50 mm</td></tr><tr><td>Wardrobe Drawer Organiser 3 - Multipurpose-4-2</td><td>WDO3-M42</td><td>165 x 425 x 50 mm</td></tr><tr><td>Wardrobe Drawer Organiser 3 - Ornaments & Rings</td><td>WDO3-OR</td><td>165 x 425 x 50 mm</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-09",
+        "prevContent": "selection-02-04-02",
+        "title": "Pro-motion Drawer System - S3 Series with Glass",
+        "cardImg": "media-second-floor-view-04/02-04-02-09-01.jpg",
+        "carouselId": "carousel-02-04-02-09",
+        "images": [
+          "media-second-floor-view-04/02-04-02-09-01.jpg",
+          "media-second-floor-view-04/02-04-02-09-02.jpg",
+          "media-second-floor-view-04/02-04-02-09-03.jpg"
+        ],
+        "features": [
+          "Freely designed drawer width with automatic error adjustment",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle",
+          "Load capacity: 50kg",
+          "Length: 450, 500 & 550mm",
+          "Height: 90, 122 & 172mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Pro-motion Drawer System 90 - Slim3 with Glass</td><td>PMDS1G-45-S3</td><td>90x450mm, 50Kg</td><td rowspan='9'>White / Anthracite</td></tr><tr><td>PMDS1G-50-S3</td><td>90x500mm, 50Kg</td></tr><tr><td>PMDS1G-55-S3</td><td>90x550mm, 50Kg</td></tr><tr><td rowspan='3'>Pro-motion Drawer System 122 - Slim3 with Glass</td><td>PMDS2G-45-S3</td><td>122x450mm, 50Kg</td></tr><tr><td>PMDS2G-50-S3</td><td>122x500mm, 50Kg</td></tr><tr><td>PMDS2G-55-S3</td><td>122x550mm, 50Kg</td></tr><tr><td rowspan='3'>Pro-motion Drawer System 172 - Slim3 with Glass</td><td>PMDS3G-45-S3</td><td>172x450mm, 50Kg</td></tr><tr><td>PMDS3G-50-S3</td><td>172x500mm, 50Kg</td></tr><tr><td>PMDS3G-55-S3</td><td>172x550mm, 50Kg</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-10",
+        "prevContent": "selection-02-04-02",
+        "title": "Wardrobe Drawer Organiser",
+        "cardImg": "media-second-floor-view-04/02-04-02-10-01.png",
+        "carouselId": "carousel-02-04-02-10",
+        "images": [
+          "media-second-floor-view-04/02-04-02-10-01.png",
+          "media-second-floor-view-04/02-04-02-10-02.png"
+        ],
+        "features": [
+          "These new multipurpose divider organisers come with various options for storage",
+          "Can easily be added to a finished wardrobe and moved around to suit your needs",
+          "These dividers are available for storing ornaments, watches, bangles or others",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Drawer Organiser - Ornaments</td><td>WDOO-3212 GR</td><td>316 x 117.5 x 50</td><td rowspan='4'>Grey</td></tr><tr><td>Wardrobe Drawer Organiser - Watch / Bangles</td><td>WDOWB-3212 GR</td><td>316 x 117.5 x 50</td></tr><tr><td>Wardrobe Drawer Organiser - Multipurpose-4</td><td>WDOM4-3212</td><td>316 x 117.5 x 50</td></tr><tr><td>Wardrobe Drawer Organiser - Multipurpose-3</td><td>WDOM3-3212</td><td>352 x 100 x 50</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-02-11",
+        "prevContent": "selection-02-04-02",
+        "title": "Aluminium Handle - C4",
+        "cardImg": "media-second-floor-view-04/02-04-02-11-01.png",
+        "carouselId": "carousel-02-04-02-11",
+        "images": [
+          "media-second-floor-view-04/02-04-02-11-01.png",
+          "media-second-floor-view-04/02-04-02-11-02.png",
+          "media-second-floor-view-04/02-04-02-11-03.jpg",
+          "media-second-floor-view-04/02-04-02-11-04.jpeg",
+          "media-second-floor-view-04/02-04-02-11-04.jpg"
+        ],
+        "features": [
+          "Variety of designs to select from.",
+          "Ergonomically designed for good grip.",
+          "Available in different lengths as per system - 32.",
+          "Various finishes to suit your furniture.",
+          "Comes in Set of 2pcs",
+          "Finishes - Special Finish (SF), Brushed Aluminium (BA), Anodized Black (AB), Chrome Plated (CP).",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Aluminium Handle C4</td><td>C4AH1-96-SF/CP/BA/AB</td><td>96 x 136 mm</td><td rowspan='4'>Special Finish / Chrome Plated / Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-160-SF/CP/BA/AB</td><td>160 x 200 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-192-SF/CP/BA/AB</td><td>192 x 232 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-320-SF/CP/BA/AB</td><td>320 x 360 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-1088-BA/AB</td><td>1088 x 1200 mm</td><td>Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-96-SF/BA/AB</td><td>96 x 136 mm</td><td>Special Finish / Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-160-SF/AB</td><td>160 x 200 mm</td><td rowspan='3'>Special Finish / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-192-SF/AB</td><td>192 x 232 mm</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-320-SF/AB</td><td>320 x 360 mm</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-1088-BA/AB</td><td>1088 x 1200 mm</td><td>Brushed Aluminium / Anodized Black</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-03": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-03-01",
+        "prevContent": "selection-02-04-03",
+        "title": "Wall Bed - Single (Complete Fittings with Frame, Slats and Manual Legs)",
+        "cardImg": "media-second-floor-view-04/02-04-03-01-01.jpg",
+        "carouselId": "carousel-02-04-03-01",
+        "images": [
+          "media-second-floor-view-04/02-04-03-01-01.jpg",
+          "media-second-floor-view-04/02-04-03-01-02.jpg",
+          "media-second-floor-view-04/02-04-03-01-03.jpg",
+          "media-second-floor-view-04/02-04-03-01-04.jpg",
+          "media-second-floor-view-04/02-04-03-01-05.jpg"
+        ],
+        "features": [
+          "Hidden bed on the wall!",
+          "Ideal for student’s room, children's room, hostel, etc.",
+          "This space saving solution comes in complete set of bed frame With slats, Wall bed mechanism (1200N) & folding legs",
+          "The bed gets concealed in the wall cabinet when not in use.",
+          "Dead load range: 55-60kg (Weight including frame with slats, legs, matters & 18mm board cover)",
+          "DIMENSIONS:",
+          "Bed Frame Size : 2000 x 900mm",
+          "Mattress Size: 2000 x 900mm",
+          "Mattress Weight: 14kg (6 inch THK) 18kg (8 inch THK)",
+          "Overall Size of Bed with Carcass: 1,010mm (W) X 2,085mm (H) Considering 25mm panels",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wall Bed - Single (Complete Fittings with Frame, Slats and Manual Legs)</td><td>WBS-ML</td><td>L 2000 x B 900 (Single Bed)</td><td>Anthracite</td></tr><tr><td>Mattress Stopper</td><td>WB-MST-SS</td><td>-</td><td>Stainless Steel</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-03-02",
+        "prevContent": "selection-02-04-03",
+        "title": "Hi Slide and Fold 20-25",
+        "cardImg": "media-second-floor-view-04/02-04-03-02-01.webp",
+        "carouselId": "carousel-02-04-03-02",
+        "images": [
+          "media-second-floor-view-04/02-04-03-02-01.webp"
+        ],
+        "features": [
+          "Ideal for multiple of 2 doors overlay mounting shutters.",
+          "Soft-close function allows the shutter to close in slow motion without banging.",
+          "Weight Capacity: 20-25kg/door",
+          "Door width: 300-600mm",
+          "Door thickness: >16mm",
+          "Door height: <2500mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Hi Slide and Fold 20-25 (Set of 2 Top Fittings, 2 Bottom Fittings, 4 Folding Hinge, 2 Soft Close and Assembling Kit)</td><td>HSF-20-25</td><td rowspan='3'>-</td><td>Zinc White</td></tr><tr><td>Al. Track for Hi Slide and Fold 20-25 (Set of Top & Bottom tracks in 2.44 meters)</td><td>HSF-20-25-T2</td><td>Anodised Silver</td></tr><tr><td>Al. Track for Hi Slide and Fold 20-25 (Set of Top & Bottom tracks in 3.66 meters)</td><td>HSF-20-25-T3</td><td>Anodised Silver</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-03-03",
+        "prevContent": "selection-02-04-03",
+        "title": "Door Stiffener HD",
+        "cardImg": "media-second-floor-view-04/02-04-03-03-01.jpg",
+        "carouselId": "carousel-02-04-03-03",
+        "images": [
+          "media-second-floor-view-04/02-04-03-03-01.jpg",
+          "media-second-floor-view-04/02-04-03-03-02.jpg",
+          "media-second-floor-view-04/02-04-03-03-03.png",
+          "media-second-floor-view-04/02-04-03-03-04.jpg"
+        ],
+        "features": [
+          "Door stiffener HD helps to prevent warpage of thin long shutters.",
+          "Symmetrical working processes",
+          "Can be used in multiples for wider shutters",
+          "Use two sets when door width is more than 600mm",
+          "For door thickness 15mm and more",
+          "For door height 1000mm ~ 2700mm",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Door Stiffener HD</td><td>DSTF2-HD</td><td>2010</td><td>Grey</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-03-04",
+        "prevContent": "selection-02-04-03",
+        "title": "Shelf Cam",
+        "cardImg": "media-second-floor-view-04/02-04-03-04-01.jpg",
+        "carouselId": "carousel-02-04-03-04",
+        "images": [
+          "media-second-floor-view-04/02-04-03-04-01.jpg",
+          "media-second-floor-view-04/02-04-03-04-02.jpg",
+          "media-second-floor-view-04/02-04-03-04-03.jpg"
+        ],
+        "features": [
+          "These are easy to use fittings and are used for connecting shelves and sides of cabinets.",
+          "This saves on assembly time as the shelves can be fitted easily from front or from above into the carcass of the cabinet.",
+          "The fittings sits inside a Ø20 mm cavity, 12.5 mm deep.",
+          "The screw is fitted on the side wall of the cabinet.",
+          "The eccentric cam is tightened from below to lock.",
+          "Load Capacity: 4 pcs - 20Kgs ",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Shelf Cam</td><td>SFC2</td><td>⌀20 mm</td><td>Frosty White / Brown</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-03-05",
+        "prevContent": "selection-02-04-03",
+        "title": "Blind corner Hinge- 3D-Soft close",
+        "cardImg": "media-second-floor-view-04/02-04-03-05-01.jpg",
+        "carouselId": "carousel-02-04-03-05",
+        "images": [
+          "media-second-floor-view-04/02-04-03-05-01.jpg"
+        ],
+        "features": [
+          "3D Adjustment",
+          "Max. opening: 90˚",
+          "In-built soft close mechanism prevents shutter from banging",
+          "Max. shutter size: 850mm X 550mm",
+          "Shutter thickness: 16mm - 19mm",
+          "Finish: Nickel Plated",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Blind corner Hinge - 3D-Soft close</td><td>HBC1-3D-SC</td><td>-</td><td>Nickel Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-03-06",
+        "prevContent": "selection-02-04-03",
+        "title": "Aluminium Handle - C4",
+        "cardImg": "media-second-floor-view-04/02-04-03-06-01.png",
+        "carouselId": "carousel-02-04-03-06",
+        "images": [
+          "media-second-floor-view-04/02-04-03-06-01.png",
+          "media-second-floor-view-04/02-04-03-06-02.png",
+          "media-second-floor-view-04/02-04-03-06-03.jpg",
+          "media-second-floor-view-04/02-04-03-06-04.jpeg",
+          "media-second-floor-view-04/02-04-03-06-04.jpg"
+        ],
+        "features": [
+          "Variety of designs to select from.",
+          "Ergonomically designed for good grip.",
+          "Available in different lengths as per system - 32.",
+          "Various finishes to suit your furniture.",
+          "Comes in Set of 2pcs",
+          "Finishes - Special Finish (SF), Brushed Aluminium (BA), Anodized Black (AB), Chrome Plated (CP).",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Aluminium Handle C4</td><td>C4AH1-96-SF/CP/BA/AB</td><td>96 x 136 mm</td><td rowspan='4'>Special Finish / Chrome Plated / Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-160-SF/CP/BA/AB</td><td>160 x 200 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-192-SF/CP/BA/AB</td><td>192 x 232 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-320-SF/CP/BA/AB</td><td>320 x 360 mm</td></tr><tr><td>Aluminium Handle C4</td><td>C4AH1-1088-BA/AB</td><td>1088 x 1200 mm</td><td>Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-96-SF/BA/AB</td><td>96 x 136 mm</td><td>Special Finish / Brushed Aluminium / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-160-SF/AB</td><td>160 x 200 mm</td><td rowspan='3'>Special Finish / Anodized Black</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-192-SF/AB</td><td>192 x 232 mm</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-320-SF/AB</td><td>320 x 360 mm</td></tr><tr><td>Aluminium Handle C4-2</td><td>C4AH2-1088-BA/AB</td><td>1088 x 1200 mm</td><td>Brushed Aluminium / Anodized Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-03-07",
+        "prevContent": "selection-02-04-03",
+        "title": "Radio Knob 2",
+        "cardImg": "media-second-floor-view-04/02-04-03-07-01.webp",
+        "carouselId": "carousel-02-04-03-07",
+        "images": [
+          "media-second-floor-view-04/02-04-03-07-01.webp",
+          "media-second-floor-view-04/02-04-03-07-02.webp",
+          "media-second-floor-view-04/02-04-03-07-03.webp"
+        ],
+        "features": [
+          "Knurled texture handle for a premium look and better grip",
+          "Finish: Anodized black, Anodized gold, Titanium",
+          "Comes in Set of 4pcs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Radio Knob 2</td><td>RK2-25</td><td>Dia 25mm x 30mm Ht</td><td>Anodized Black/ Anodized Gold/ Titanium</td></tr><tr><td>Radio Knob 2</td><td>RK2-30</td><td>Dia 30mm x 30mm Ht</td><td>Anodized Black/ Anodized Gold/ Titanium</td></tr><tr><td>Radio Knob 2</td><td>RK2-38</td><td>Dia 30mm x 30mm Ht</td><td>Anodized Black/ Anodized Gold/ Titanium</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-04": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-04-01",
+        "prevContent": "selection-02-04-04",
+        "title": "Pro-Lift Sofa Bed Fittings with Guide Track",
+        "cardImg": "media-second-floor-view-04/02-04-04-01-01.jpg",
+        "carouselId": "carousel-02-04-04-01",
+        "images": [
+          "media-second-floor-view-04/02-04-04-01-01.jpg",
+          "media-second-floor-view-04/02-04-04-01-02.jpg"
+        ],
+        "features": [
+          "Durable and easy to fit.",
+          "It converts a sofa into bed.",
+          "Sliding Frame not required.",
+          "Min. depth 845mm, width 5 - 6ft",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pro-Lift Sofa Bed Fitting with Guide Track</td><td>PLSB1-G</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-04-02",
+        "prevContent": "selection-02-04-04",
+        "title": "Pro-Lift Bed Fitting - Mini",
+        "cardImg": "media-second-floor-view-04/02-04-04-02-01.jpg",
+        "carouselId": "carousel-02-04-04-02",
+        "images": [
+          "media-second-floor-view-04/02-04-04-02-01.jpg",
+          "media-second-floor-view-04/02-04-04-02-02.jpg"
+        ],
+        "features": [
+          "Ideal for partial storage under beds.",
+          "Special gas pumps included.",
+          "45° opening angle allows easy access.",
+          "Easy to lift (with the weight of top board) with minimum force.",
+          "Easy access as the gas pump keeps the bed top open.",
+          "Finish: Anthracite",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pro-Lift Bed Fitting -Mini (With Gas Lifts)</td><td>PLBFM30</td><td>2.5 to 3 feet (Width & Length)</td><td>Anthracite</td></tr><tr><td>Pro-Lift Bed Fitting - Handle</td><td>PLBF-H128-AT</td><td>-</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-04-03",
+        "prevContent": "selection-02-04-04",
+        "title": "Sofa Base",
+        "cardImg": "media-second-floor-view-04/02-04-04-03-01.jpg",
+        "carouselId": "carousel-02-04-04-03",
+        "images": [
+          "media-second-floor-view-04/02-04-04-03-01.jpg",
+          "media-second-floor-view-04/02-04-04-03-02.jpg"
+        ],
+        "features": [
+          "Easy to mount foot base for sofas and cabinets",
+          "Available in two design - Square & Rectangular",
+          "Finish - Brown & Chrome Plated",
+          "Comes in Pack of 20pcs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sofa Base 332</td><td>SB332</td><td>70 x 70 x 45</td><td>Brown</td></tr><tr><td> Sofa Base 333</td><td>SB333</td><td>70 x 70 x 75</td><td>Brown</td></tr><tr><td>Sofa Base 282</td><td>SB282</td><td>45 x 200 x 45</td><td>Chrome Plated</td></tr><tr><td>Sofa Base 283</td><td>SB283</td><td>45 x 200 x 75</td><td>Chrome Plated</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-04-04",
+        "prevContent": "selection-02-04-04",
+        "title": "Sofa Connector 2",
+        "cardImg": "media-second-floor-view-04/02-04-04-04-01.jpg",
+        "carouselId": "carousel-02-04-04-04",
+        "images": [
+          "media-second-floor-view-04/02-04-04-04-01.jpg",
+          "media-second-floor-view-04/02-04-04-04-02.jpg",
+          "media-second-floor-view-04/02-04-04-04-03.jpg",
+          "media-second-floor-view-04/02-04-04-04-04.jpg"
+        ],
+        "features": [
+          "For connecting sofa & chaise, can use in multiples for bigger size furniture",
+          "Max load capacity: 150Kg",
+          "Compatible with Ebco chipboard screw (CBS-4025)",
+          "Finish: Zinc Yellow",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Sofa Connector 2</td><td>SOC2</td><td>8.7 x 48 x 65</td><td>Zinc Plated Yellow</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-05": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-05-01",
+        "prevContent": "selection-02-04-05",
+        "title": "Table Lift 200 with Damper",
+        "cardImg": "media-second-floor-view-04/02-04-05-01-01.jpg",
+        "carouselId": "carousel-02-04-05-01",
+        "images": [
+          "media-second-floor-view-04/02-04-05-01-01.jpg",
+          "media-second-floor-view-04/02-04-05-01-02.jpg",
+          "media-second-floor-view-04/02-04-05-01-03.jpg"
+        ],
+        "features": [
+          "Perfect for low coffee tables.",
+          "Approx. Recommended size 4 Feet x 2 Feet.",
+          "Lifts up by 200mm.",
+          "Load capacity 11 kg. max.",
+          "Special counter balance springs provided.",
+          "Unique built in damping system allows the table top to close in gently & progressively without banging.",
+          "Ideal for Writing & T.V. Dinners.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Table Lift - 200 with Damper</td><td>TL-200-D</td><td>4 x 2 Feet</td><td>Anthracite</td></tr><tr><td colspan='4'>*Size recommendation is considering particle/MDF board. In case of application with thick board, glass, etc recommended size will vary.</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-05-02",
+        "prevContent": "selection-02-04-05",
+        "title": "Base Plinth 6 mm",
+        "cardImg": "media-second-floor-view-04/02-04-05-02-01.jpg",
+        "carouselId": "carousel-02-04-05-02",
+        "images": [
+          "media-second-floor-view-04/02-04-05-02-01.jpg"
+        ],
+        "features": [
+          "Specially designed for 16mm board",
+          "Easy to fit.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Load</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Base Plinth 6 mm</td><td>BP616</td><td>1000 kgs. load per pc.</td><td>Black / White</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-06": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-06-01",
+        "prevContent": "selection-02-04-06",
+        "title": "Pole Shelving System",
+        "cardImg": "media-second-floor-view-04/02-04-06-01-01.jpg",
+        "carouselId": "carousel-02-04-06-01",
+        "images": [
+          "media-second-floor-view-04/02-04-06-01-01.jpg",
+          "media-second-floor-view-04/02-04-06-01-02.jpg",
+          "media-second-floor-view-04/02-04-06-01-03.gif",
+          "media-second-floor-view-04/02-04-06-01-04.jpg"
+        ],
+        "features": [
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Aluminum Section</td><td>PPDS-ALS</td><td>1000kgs</td><td>Anodized Brown / Anodized Silver / Champagne</td></tr><tr><td>Height Adjustable Plinth</td><td>PPDS-HAP</td><td>800kgs/ Plinth</td><td>Brown / Silver Champagne</td></tr><tr><td>End Connector Set</td><td>PPDS-ECS</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Right Angle Connector</td><td>PPDS-RAC</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Small Shelf Support</td><td>PPDS-SSS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Big Shelf Support</td><td>PPDS-BSS</td><td>20kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Tilting Shelf Bracket</td><td>PPDS-TSB</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Adjustable Glass Shelf Support</td><td>PPDS-AGS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Concealed Slide Adaptor</td><td>PPDS-CSA</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Rectangular Rail Support</td><td>PPDS-RRS</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-07": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-07-01",
+        "prevContent": "selection-02-04-07",
+        "title": "Smart Light",
+        "cardImg": "media-second-floor-view-04/02-04-07-01-01.jpg",
+        "carouselId": "carousel-02-04-07-01",
+        "images": [
+          "media-second-floor-view-04/02-04-07-01-01.jpg",
+          "media-second-floor-view-04/02-04-07-01-02.jpg",
+          "media-second-floor-view-04/02-04-07-01-03.jpg",
+          "media-second-floor-view-04/02-04-07-01-04.jpg",
+          "media-second-floor-view-04/02-04-07-01-05.jpg"
+        ],
+        "features": [
+          "Smart Light (with Motion Sensor or with Switch)",
+          "Motion-Activate Technology in Motion Sensor",
+          "Convenient power on/off switch for easy control in Switch",
+          "Stay powered up with 3 AAA batteries for on-the-go lighting",
+          "Illuminate your space with just 1 Watt of power consumption",
+          "Three vibrant LEDs brighten up any environment",
+          "Enjoy the perfect ambiance with a color temperature of 4000K",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Smart Light (With Motion Sensor)</td><td>SLMS1-WH</td><td rowspan='3'>1W AAA, CCC: 4000K, 3 LED</td><td>White</td></tr><tr><td>SLMS1-BL</td><td>Black</td></tr><tr><td>SLMS1-AT</td><td>Anthracite</td></tr><tr><td>Smart Light (With Switch)</td><td>SLS1</td><td>-</td><td>White / Anthracite / Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-07-02",
+        "prevContent": "selection-02-04-07",
+        "title": "Hinge Slow-Motion 'S' Click On (A)",
+        "cardImg": "media-second-floor-view-04/02-04-07-02-01.jpg",
+        "carouselId": "carousel-02-04-07-02",
+        "images": [
+          "media-second-floor-view-04/02-04-07-02-01.jpg",
+          "media-second-floor-view-04/02-04-07-02-02.jpg"
+        ],
+        "features": [
+          "Unique built in damping system allows the shutter to close in slow motion without banging.",
+          "Available in Full overlay, Half overlay & Inset.",
+          "Max. opening : 105°.",
+          "Max. Shutter size: 34 inch x 22 inch (850mm x 550mm) for 2 hinges.",
+          "Shutter Thickness: 16mm to 19mm.",
+          "Shutter Cavity: Ø35mm, 12mm deep, cavity 4mm from edge.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Hinge Slow-Motion 'S' Click On (Overlay, Half-Overlay, Inset)</td><td>HSMS1A</td><td rowspan='6'>-</td><td rowspan='6'>Nickel Plated</td></tr><tr><td>Hinge Slow-Motion 'S' Click On (Overlay, Half-Overlay, Inset)</td><td>HSMS2A</td></tr><tr><td>Hinge Slow-Motion 'S' Click On (Overlay, Half-Overlay, Inset)</td><td>HSMS3A</td></tr><tr><td>Hinge Slow-Motion 'S' Click On - with 4 Hole Mounting Plate (Overlay, Half-Overlay, Inset)</td><td>HSMS1A-M1</td></tr><tr><td>Hinge Slow-Motion 'S' Click On - with 4 Hole Mounting Plate (Overlay, Half-Overlay, Inset)</td><td>HSMS2A-M1</td></tr><tr><td>Hinge Slow-Motion 'S' Click On - with 4 Hole Mounting Plate (Overlay, Half-Overlay, Inset)</td><td>HSMS3A-M1</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-07-03",
+        "prevContent": "selection-02-04-07",
+        "title": "Cabinet Pocket Door Slide - 35",
+        "cardImg": "media-second-floor-view-04/02-04-07-03-01.webp",
+        "carouselId": "carousel-02-04-07-03",
+        "images": [
+          "media-second-floor-view-04/02-04-07-03-01.webp",
+          "media-second-floor-view-04/02-04-07-03-02.webp",
+          "media-second-floor-view-04/02-04-07-03-03.gif",
+          "media-second-floor-view-04/02-04-07-03-04.webp",
+          "media-second-floor-view-04/02-04-07-03-04.webp"
+        ],
+        "features": [
+          "Recommended shutter size 540 x 800 x 18mm.",
+          "Shutter size can be increased by using more slides",
+          "Recommended hinges: Ebco half overlay hinges.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='6'>Cabinet Pocket Door Slide - 35</td><td>CPDS30-I-35</td><td>300 mm</td><td rowspan='6'>Zinc White</td></tr><tr><td>CPDS35-I-35</td><td>350 mm</td></tr><tr><td>CPDS40-I-35</td><td>400 mm</td></tr><tr><td>CPDS45-I-35</td><td>450 mm</td></tr><tr><td>CPDS50-I-35</td><td>500 mm</td></tr><tr><td>CPDS55-I-35</td><td>550 mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-08": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-08-01",
+        "prevContent": "selection-02-04-08",
+        "title": "Shoe Rack Fittings",
+        "cardImg": "media-second-floor-view-04/02-04-08-01-01.jpg",
+        "carouselId": "carousel-02-04-08-01",
+        "images": [
+          "media-second-floor-view-04/02-04-08-01-01.jpg"
+        ],
+        "features": [
+          "Three partitions give ample storage.",
+          "Manufactured out of high impact plastic for long life.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Shoe Rack Fittings</td><td>6/3/SRF/BL</td><td>-</td><td>Black</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-09": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-09-01",
+        "prevContent": "selection-02-04-09",
+        "title": "Kitchen Midway Systems",
+        "cardImg": "media-second-floor-view-04/02-04-09-01-01.jpg",
+        "carouselId": "carousel-02-04-09-01",
+        "images": [
+          "media-second-floor-view-04/02-04-09-01-01.jpg",
+          "media-second-floor-view-04/02-04-09-01-02.jpg"
+        ],
+        "features": [
+          "Maximise your kitchen space and get easy access to your daily kitchen tools",
+          "Easy to clip on shelves/racks that can be added / removed or repositioned as per your work convenience",
+          "Made of MS and Natural Wood which adds aesthetic appeal to your countertop",
+          "Optional LED lighting in Aluminium track.",
+          "Safety Bumpers provided for additional stability and grip.",
+          "Finish : Anthracite & Wood",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Kitchen Midway Aluminium Track (with LED)</td><td>KMS-L-AT</td><td>36 x 34 x 904mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Aluminium Track (without LED)</td><td>KMS-AT</td><td>36 x 34 x 904mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Aluminium Track (with LED) 1200</td><td>KMS-L120-AT</td><td>1200</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Aluminium Track (without LED) 1200</td><td>KMS-120-AT</td><td>1200</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Towel Rack</td><td>KMS-TR</td><td>48 x 115 x 229mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Shelf with Spice Rack - Round</td><td>KMS-S-SR-R</td><td>150 x 130 x 225mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Shelf</td><td>KMS-S</td><td>157 x 134 x 225mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Shelf  With Gallery</td><td>KMS-S-G</td><td>157 x 134 x 225 mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Shelf Tall with Gallery</td><td>KMS-ST-G</td><td>257 x 134 x 225mm</td><td>Anthracite (with wood)</td></tr><tr><td>Kitchen Midway Laddle Rack</td><td>KMS-LR</td><td>48 x 40 x 225mm</td><td>Anthracite</td></tr><tr><td>Kitchen Midway Wine Glass Holder</td><td>KMS-WGH</td><td>43 x 125 x 450mm</td><td>Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-02",
+        "prevContent": "selection-02-04-09",
+        "title": "Kitchen Plate Rack - Glass Rack - Drip tray",
+        "cardImg": "media-second-floor-view-04/02-04-09-02-01.jpg",
+        "carouselId": "carousel-02-04-09-02",
+        "images": [
+          "media-second-floor-view-04/02-04-09-02-01.jpg"
+        ],
+        "features": [
+          "Elegantly designed for good aesthetics and made out of SS 304 for long life.",
+          "Easy to fit.",
+          "Ideal kitchen accessories to store Plates & Glasses.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Kitchen Plate Rack</td><td>PR-16-10</td><td>400</td><td rowspan='24'>-</td></tr><tr><td>PR-18-10</td><td>451</td></tr><tr><td>PR-22-10</td><td>554</td></tr><tr><td>PR-24-10</td><td>590</td></tr><tr><td>PR-26-10</td><td>655</td></tr><tr><td>PR-28-10</td><td>700</td></tr><tr><td>PR-30-10</td><td>750</td></tr><tr><td>PR-34-10</td><td>850</td></tr><tr><td rowspan='8'>Kitchen Glass Rack</td><td>GR-16-10</td><td>400</td></tr><tr><td>GR-18-10</td><td>451</td></tr><tr><td>GR-22-10</td><td>554</td></tr><tr><td>GR-24-10</td><td>590</td></tr><tr><td>GR-26-10</td><td>655</td></tr><tr><td>GR-28-10</td><td>700</td></tr><tr><td>GR-30-10</td><td>750</td></tr><tr><td>GR-34-10</td><td>850</td></tr><tr><td rowspan='8'>Kitchen Drip Tray</td><td>DT-16-10E</td><td>450</td></tr><tr><td>DT-18-10E</td><td>500</td></tr><tr><td>DT-22-10E</td><td>550</td></tr><tr><td>DT-24-10E</td><td>600</td></tr><tr><td>DT-26-10E</td><td>700</td></tr><tr><td>DT-28-10E</td><td>710</td></tr><tr><td>DT-30-10E</td><td>760</td></tr><tr><td>DT-34-10E</td><td>860</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-03",
+        "prevContent": "selection-02-04-09",
+        "title": "Cup Hanger (with 6 Hooks)",
+        "cardImg": "media-second-floor-view-04/02-04-09-03-01.jpg",
+        "carouselId": "carousel-02-04-09-03",
+        "images": [
+          "media-second-floor-view-04/02-04-09-03-01.jpg",
+          "media-second-floor-view-04/02-04-09-03-02.jpg"
+        ],
+        "features": [
+          "Manufactured out of SS 304.",
+          "Ideal for Hanging 6 cups.",
+          "Easy to fit on to the Ceiling of Cabinets.",
+          "Elegant & Cost effective design.",
+          "Comes in a Pack of 2pcs",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Cup Hanger (with 6 Hooks)</td><td>CH-6</td><td>106 280 51 (W D H)</td><td>SS 304</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-04",
+        "prevContent": "selection-02-04-09",
+        "title": "Ladle Caddie & Kitchen Hanger",
+        "cardImg": "media-second-floor-view-04/02-04-09-04-01.jpg",
+        "carouselId": "carousel-02-04-09-04",
+        "images": [
+          "media-second-floor-view-04/02-04-09-04-01.jpg",
+          "media-second-floor-view-04/02-04-09-04-02.jpg"
+        ],
+        "features": [
+          "Manufactured out of SS 304.",
+          "Ideal for hanging ladles and other kitchen cutlery.",
+          "Easy to fit on the wall and convenient.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Ladle Caddie</td><td>KLC-20-15-2</td><td>505 x 380 x 50</td><td>SS304</td></tr><tr><td>Kitchen Hanger</td><td>HR-13-2</td><td>333 x 55</td><td>SS304</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-05",
+        "prevContent": "selection-02-04-09",
+        "title": "Pro-motion Drawer System - N Series",
+        "cardImg": "media-second-floor-view-04/02-04-09-05-01.jpg",
+        "carouselId": "carousel-02-04-09-05",
+        "images": [
+          "media-second-floor-view-04/02-04-09-05-01.jpg"
+        ],
+        "features": [
+          "Length: 400, 450, 500 & 550mm",
+          "Side panel height: 80mm, 185mm, 176mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 30kg for 400/450mm length & 65kg for 500/550mm length",
+          "Full extension of drawer with soft close feature",
+          "Quick to installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Option of add-on gallery to increase stability of drawer.",
+          "Finish: Silver Grey (SG), Anthracite (AT)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-40-N</td><td>80 x 400mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-45-N</td><td>80 x 450mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-50-N</td><td>80 x 500mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 80</td><td>PMDS1-55-N</td><td>80 x 550mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-40-N</td><td>185 x 400mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-45-N</td><td>185 x 450mm, 30kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-50-N</td><td>185 x 500mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 185</td><td>PMDS3-55-N</td><td>185 x 550mm, 65kg</td><td>Silver Grey / Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-40-N</td><td>176 x 400mm, 30kg</td><td>Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-45-N</td><td>176 x 450mm, 30kg</td><td>Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-50-N</td><td>176 x 500mm, 65kg</td><td>Anthracite</td></tr><tr><td>Pro Motion Drawer System 176 with Glass Panel</td><td>PMDS3G-55-N</td><td>176 x 550mm, 65kg</td><td>Anthracite</td></tr><tr><td>PMDS1(N) Facia Connector - D</td><td>PMDS1-FC-D</td><td>H=104mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>PMDS3(N) Facia Connector for Rail- D</td><td>PMDS3-FCR-D</td><td>H=218mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>PMDS3(N) Facia Connector for Al. Panel/Glass - D</td><td>PMDS3-FCPG-D</td><td>-</td><td>Silver Grey / Anthracite</td></tr><tr><td>Facia Handle Profile</td><td>PMDS3-FHP-D</td><td>2000mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>Add-on Gallery (Pro-motion 'N' Series)</td><td>PMDS-G1-45</td><td>450</td><td>Silver Grey / Anthracite</td></tr><tr><td>Add-on Gallery (Pro-motion 'N' Series)</td><td>PMDS-G1-50</td><td>500</td><td>Silver Grey / Anthracite</td></tr><tr><td>Add-on Gallery (Pro-motion 'N' Series)</td><td>PMDS-G1-55</td><td>550</td><td>Silver Grey / Anthracite</td></tr><tr><td>Facia-Side Partition Panel</td><td>PMDS3-FAP</td><td>8 x 105 x 2000mm</td><td>Silver Grey / Anthracite</td></tr><tr><td>Facia Aluminium Rail Handle for PMDS3(N)</td><td>PMDS3-RH-1</td><td>2000mm</td><td>Silver Grey / Anthracite</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-06",
+        "prevContent": "selection-02-04-09",
+        "title": "Side Pullout",
+        "cardImg": "media-second-floor-view-04/02-04-09-06-01.jpg",
+        "carouselId": "carousel-02-04-09-06",
+        "images": [
+          "media-second-floor-view-04/02-04-09-06-01.jpg",
+          "media-second-floor-view-04/02-04-09-06-02.jpg"
+        ],
+        "features": [
+          "For storing detergent bottles and other bottles under the counter in narrow spaces.",
+          "Manufactured out of stainless steel 304 and electro polished.",
+          "Designed to be used with 'Ebco Sleek telescopic Drawer slides'",
+          "Also available Frameless Side pullout baskets which can directly mount on slides.",
+          "<table><thead><tr><th rowspan='2'>Item</th><th rowspan='2'>Code No.</th><th>Size in mm</th><th rowspan='2'>Finish</th></tr><tr><th>Width Depth Height</th></thead><tbody></tr><tr><td>Side Pullout Baskets</td><td>RA-4-16-3-SPB</td><td>100 405 75</td><td rowspan='6'>-</td></tr><tr><td>Side Pullout Baskets</td><td>RA-6-16-3-SPB</td><td>150 405 75</td></tr><tr><td>Side Pullout Baskets</td><td>RA-8-16-3-SPB</td><td>200 405 75</td></tr><tr><td>Side Pullout Baskets</td><td>RA-4-20-3-SPB</td><td>100 505 75</td></tr><tr><td>Side Pullout Baskets</td><td>RA-6-20-3-SPB</td><td>150 505 75</td></tr><tr><td>Side Pullout Baskets</td><td>RA-8-20-3-SPB</td><td>200 505 75</td></tr></tbody></table><div style='visibility: hidden;'>.</div><table><thead><tr><th rowspan='2'>Type</th><th rowspan='2'>Code No.</th><th>Size in mm.</th><th rowspan='2'>Finish</th></tr><tr><th>Width Depth Height</th></tr></thead><tbody><tr><td rowspan='3'>Side Pullout - Frameless - 3 Tier</td><td>SPOB-4-20-21T</td><td>100 505 533</td><td rowspan='6'>-</td></tr><tr><td>SPOB-6-20-21T</td><td>150 505 533</td></tr><tr><td>SPOB-8-20-21T</td><td>200 505 533</td></tr><tr><td rowspan='3'>Side Pullout - Frameless - 2 Tier</td><td>SPOB-4-20-17D</td><td>100 505 432</td></tr><tr><td>SPOB-6-20-17D</td><td>150 505 432</td></tr><tr><td>SPOB-8-20-17D</td><td>200 505 432</td></tr></tbody></table><div style='visibility: hidden;'>.</div><table><thead><tr><th rowspan='2'>Item</th><th rowspan='2'>Code No.</th><th>Size in mm</th><th rowspan='2'>Finish</th></tr><tr><th>Width Height</th></tr></thead><tbody><tr><td rowspan='4'>Side Pullout Holders</td><td>SPH-16-23</td><td>400 580</td><td rowspan='3'>SS</td></tr><tr><td>SPH-20-19</td><td>500 480</td></tr><tr><td>SPH-20-23</td><td>500 580</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-07",
+        "prevContent": "selection-02-04-09",
+        "title": "Sleek Telescopic Drawer Slides 1 - 35",
+        "cardImg": "media-second-floor-view-04/02-04-09-07-01.jpg",
+        "carouselId": "carousel-02-04-09-07",
+        "images": [
+          "media-second-floor-view-04/02-04-09-07-01.jpg",
+          "media-second-floor-view-04/02-04-09-07-02.jpg"
+        ],
+        "features": [
+          "Precision Telescopic Slides",
+          "Full Extension of Drawer",
+          "Direct fitting from front",
+          "Load Capacity: 35 Kgs",
+          "Removable drawer with latch",
+          "System 32 Installation",
+          "Comes in Pack of 2 Pairs (4 Slides - for 2 Drawers)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='8'>Sleek Telescopic Drawer Slides 1 - 35</td><td>STDS1-25-35</td><td>250 Load: 35 Kgs</td><td rowspan='8'>Zinc Plated White/ Zinc Plated Black</td></tr><tr><td>STDS1-30-35</td><td>300 Load: 35 Kgs</td></tr><tr><td>STDS1-35-35</td><td>350 Load: 35 Kgs</td></tr><tr><td>STDS1-40-35</td><td>400 Load: 35 Kgs</td></tr><tr><td>STDS1-45-35</td><td>450 Load: 35 Kgs</td></tr><tr><td>STDS1-50-35</td><td>500 Load: 35 Kgs</td></tr><tr><td>STDS1-55-35</td><td>550 Load: 35 Kgs</td></tr><tr><td>STDS1-60-35</td><td>600 Load: 35 Kgs</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-08",
+        "prevContent": "selection-02-04-09",
+        "title": "Swing Out Waste Bin - 13Ltr",
+        "cardImg": "media-second-floor-view-04/02-04-09-08-01.jpg",
+        "carouselId": "carousel-02-04-09-08",
+        "images": [
+          "media-second-floor-view-04/02-04-09-08-01.jpg"
+        ],
+        "features": [
+          "These bins have automatic opening system for lids.",
+          "They also have a removable bucket for convenience.",
+          "Non toxic premium plastic used for long life.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Capacity</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Swing Out Waste Bin - 13Ltr</td><td>SOWB2-13</td><td>13 litre</td><td>White / Grey</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-04-09-09",
+        "prevContent": "selection-02-04-09",
+        "title": "Zinc Handle M",
+        "cardImg": "media-second-floor-view-04/02-04-09-09-01.jpeg",
+        "carouselId": "carousel-02-04-09-09",
+        "images": [
+          "media-second-floor-view-04/02-04-09-09-01.jpeg",
+          "media-second-floor-view-04/02-04-09-09-02.jpeg"
+        ],
+        "features": [
+          "Variety of designs to select from.",
+          "Ergonomically designed for good grip.",
+          "Available in different lengths as per system - 32.",
+          "Comes in Set of 2pcs",
+          "Finish - Anthracite, Matt Nickel, Chrome Plated",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='9'>Zinc Handle M</td><td>MZH-96-AT</td><td>96mm</td><td rowspan='3'>Anthracite</td></tr><tr><td>MZH-128-AT</td><td>128mm</td></tr><tr><td>MZH-192-AT</td><td>192mm</td></tr><tr><td>MZH-96-MN</td><td>96mm</td><td rowspan='3'>Matt Nickel</td></tr><tr><td>MZH-128-MN</td><td>128mm</td></tr><tr><td>MZH-192-MN</td><td>192mm</td></tr><tr><td>MZH1-96-CP</td><td>96mm</td><td rowspan='3'>Chrome Plated</td></tr><tr><td>MZH1-128-CP</td><td>128mm</td></tr><tr><td>MZH1-192-CP</td><td>192mm</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-04-10": {
+    "title": "Second Floor View 04",
+    "products": [
+      {
+        "id": "content-02-04-09-10",
+        "prevContent": "selection-02-04-10",
+        "title": "Folding Utility Table",
+        "cardImg": "media-second-floor-view-04/02-04-09-10-01.jpg",
+        "carouselId": "carousel-02-04-09-10",
+        "images": [
+          "media-second-floor-view-04/02-04-09-10-01.jpg",
+          "media-second-floor-view-04/02-04-09-10-02.jpg"
+        ],
+        "features": [
+          "This product enables you to have a fold away dining table",
+          "Can also be used a fold away work table in a room where space is limited",
+          "Does NOT include the table top - only includes the fittings",
+          "Special release knob helps to fold the table",
+          "Built for strength & durability",
+          "Maximum width 900mm - 3mm clearance is required on both sides",
+          "Available in 4 different sizes - 600mm, 750mm, 900mm and 1200mm",
+          "Load capacity: 70 kilograms",
+          "May not be suitable for table tops made of heavy materials such as stone, marble, granite, etc. However, this depends on size.",
+          "Finish : Anthracite",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Folding Utility Table</td><td>FUT60</td><td>600</td><td rowspan='4'>Anthracite</td></tr><tr><td>FUT75</td><td>750</td></tr><tr><td>FUT90</td><td>900</td></tr><tr><td>FUT120</td><td>1200</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
 }
