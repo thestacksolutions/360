@@ -1,51 +1,258 @@
 {
   "sceneConfig": {
-    "panorama": "media-first-floor-view-05/first-floor-view-05.jpg",
+    "panorama": "media-second-floor-view-05/second-floor-view-05.jpg",
     "rotation": "0 -90 0"
   },
   "hotspots": [
     {
-      "id": "01-05-01",
-      "targetContent": "selection-01-05-01",
-      "position": "4.23 2.24 -4.13",
+      "id": "02-05-01",
+      "targetContent": "selection-02-05-01",
+      "position": "0.40 2.30 -3.40",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-05-02",
+      "targetContent": "selection-02-05-02",
+      "position": "-1.40 -0.20 -2.40",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-05-03",
+      "targetContent": "selection-02-05-03",
+      "position": "4.70 -0.30 0.75",
+      "rotation": "0 0 0"
+    },
+    {
+      "id": "02-05-04",
+      "targetContent": "selection-02-05-04",
+      "position": "2.30 -0.10 -2.40",
       "rotation": "0 0 0"
     }
   ],
-  "selection-01-05-01": {
-    "title": "First Floor View 05",
+  "selection-02-05-01": {
+    "title": "Second Floor View 05",
     "products": [
       {
-        "id": "content-01-05-01-01",
-        "prevContent": "selection-01-05-01",
-        "title": "Linked Sliding Partition System 100 - Soft Close (For Al. Frame 2+1 Doors)",
-        "cardImg": "media-first-floor-view-05/01-05-01-01-01.jpg",
-        "carouselId": "carousel-01-05-01-01",
+        "id": "content-02-05-01-01",
+        "prevContent": "selection-02-05-01",
+        "title": "Pole Shelving System",
+        "cardImg": "media-second-floor-view-05/02-05-01-01-01.jpg",
+        "carouselId": "carousel-02-05-01-01",
         "images": [
-          "media-first-floor-view-05/01-05-01-01-01.jpg"
+          "media-second-floor-view-05/02-05-01-01-01.jpg",
+          "media-second-floor-view-05/02-05-01-01-02.jpg",
+          "media-second-floor-view-05/02-05-01-01-03.gif",
+          "media-second-floor-view-05/02-05-01-01-04.jpg"
         ],
         "features": [
-          "Specially designed fittings for Al. frame sliding partition",
-          "Floor to ceiling installation with top sliding track",
-          "Soft close & soft opening function allows the door to close in slow motion without banging",
-          "High precise roller, stable, smooth & silent sliding.",
-          "Door weight: ≤ 80kg",
-          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Linked Sliding Partition System 100 - Soft Close (For Al. Frame 2+1 Doors)</td><td>LSPS-100A-SC</td><td>-</td><td>Titanium</td></tr><tr><td rowspan='3'>Top Sliding Track (for Sliding Door/Partition System)</td><td>TST-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TST-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TST-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td rowspan='3'>Top Track Cover Profile (for Sliding Door/Partition System)</td><td>TTCP-2</td><td>Aluminium Track Length: 2.5m</td><td>Anodized Black</td></tr><tr><td>TTCP-3</td><td>Aluminium Track Length: 3.66m</td><td>Anodized Black</td></tr><tr><td>TTCP-5</td><td>Aluminium Track Length: 5m</td><td>Anodized Black</td></tr><tr><td>Aluminium Door Profile Horizontal (Top and Bottom with sleeve) (for Sliding Door/PartitionSystem)</td><td>ADP2-H</td><td>Length: 3m</td><td>Anodized Black</td></tr><tr><td>Aluminium Door Profile Vertical with Sleeve (for Sliding Door/Partition System)</td><td>ADP2-V</td><td>Length: 3m</td><td>Anodized Black</td></tr><tr><td>RA Join Connector for Aluminium Door Profile (for Sliding Door/Partition System)</td><td>RA-JC-ADP2</td><td>-</td><td>Silver</td></tr></tbody></table>"
+          "This versatile Display System is equally suited for brand retail stores (Clothing, Apparels, Department) as well as walk in wardrobes at home",
+          "It's highly flexible design enables to change the combination / layout of display without actually removing the pole systems installed",
+          "Multiple Adaptor brackets can be chosen for Hangers, Shelves, Cabinets, Tilting Shelves, etc as per your desired application",
+          "Aluminium sections and die cast parts ensures strength and stability",
+          "Flexibility to mount the pole from floor to wall / ceiling as per the design requirement",
+          "<table><thead><tr><th style='width: 32%;'>Item</th><th style='width: 32%;'>Code</th><th style='width: 18%;'>Size (in mm)</th><th style='width: 17%;'>Finish</th></tr></thead><tbody><tr><tr><td>Aluminum Section</td><td>PPDS-ALS</td><td>1000kgs</td><td>Anodized Brown / Anodized Silver / Champagne</td></tr><tr><td>Height Adjustable Plinth</td><td>PPDS-HAP</td><td>800kgs/ Plinth</td><td>Brown / Silver Champagne</td></tr><tr><td>End Connector Set</td><td>PPDS-ECS</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Right Angle Connector</td><td>PPDS-RAC</td><td>-</td><td>Brown / Silver / Champagne</td></tr><tr><td>Small Shelf Support</td><td>PPDS-SSS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Big Shelf Support</td><td>PPDS-BSS</td><td>20kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Tilting Shelf Bracket</td><td>PPDS-TSB</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Adjustable Glass Shelf Support</td><td>PPDS-AGS</td><td>10kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Concealed Slide Adaptor</td><td>PPDS-CSA</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr><tr><td>Rectangular Rail Support</td><td>PPDS-RRS</td><td>25kgs/ Set</td><td>Brown / Silver / Champagne</td></tr></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-05-02": {
+    "title": "Second Floor View 05",
+    "products": [
+      {
+        "id": "content-02-05-02-01",
+        "prevContent": "selection-02-05-02",
+        "title": "Wardrobe Pullout Drawer Organiser (Soft Close)",
+        "cardImg": "media-second-floor-view-05/02-05-02-01-01.jpg",
+        "carouselId": "carousel-02-05-02-01",
+        "images": [
+          "media-second-floor-view-05/02-05-02-01-01.jpg",
+          "media-second-floor-view-05/02-05-02-01-02.jpg"
+        ],
+        "features": [
+          "Thoughtfully designed to organize your accessories for convenient access and easy pull-out",
+          "Ready to use product that can be installed easily in any type of wardrobe",
+          "Soft velvet material at bottom protects your accessories from any type of dirt & damage",
+          "Ideal for storing variety of jewellery such as necklaces, rings, earrings or more.",
+          "in built soft close feature for silent & effortless closing",
+          "Design for 450, 600, 800 and 900mm wide cabinets, with soft close feature",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Wardrobe Pullout Drawer Organiser (Soft Close)</td><td>WPDO-45 SC BR</td><td>414 x 470 x 56</td><td rowspan='4'>Brown</td></tr><tr><td>WPDO-60-SC-BR</td><td>564 x 470 x 56</td></tr><tr><td>WPDO-80-SC-BR</td><td>764 x 470 x 56</td></tr><tr><td>WPDO-90-SC-BR</td><td>864 x 470 x 56</td></tr></tbody></table>"
         ]
       },
       {
-        "id": "content-01-05-01-02",
-        "prevContent": "selection-01-05-01",
-        "title": "Handle with Latch for Sliding Partition System",
-        "cardImg": "media-first-floor-view-05/01-05-01-02-01.jpg",
-        "carouselId": "carousel-01-05-01-02",
+        "id": "content-02-05-02-02",
+        "prevContent": "selection-02-05-02",
+        "title": "Wardrobe Pullout Basket - (Soft Close)",
+        "cardImg": "media-second-floor-view-05/02-05-02-02-01.jpg",
+        "carouselId": "carousel-02-05-02-02",
         "images": [
-          "media-first-floor-view-05/01-05-01-02-01.jpg",
-          "media-first-floor-view-05/01-05-01-02-02.jpg"
+          "media-second-floor-view-05/02-05-02-02-01.jpg",
+          "media-second-floor-view-05/02-05-02-02-02.jpg"
         ],
         "features": [
-          "Set of 2 PC handles (1 with latch and 1 without latch) for Sliding Partition System",
-          "Material - Aluminium",
-          "<table><thead><tr><th style='width: 34%;'>Item</th><th style='width: 30%;'>Code</th><th style='width: 20%;'>Size (in mm)</th><th style='width: 15%;'>Finish</th></tr></thead><tbody><tr><td>Handle with Latch for Sliding Partition System</td><td>HL1-SPS</td><td>-</td><td>Black</td></tr></tbody></table>"
+          "Organise your clothes in a better way with these pull-out baskets for wardrobes.",
+          "Easy pull out providing clear access to your outfits.",
+          "In built soft close feature for silent & effortless closing",
+          "Design for 450, 600, 800 and 900mm wide cabinets, with soft close feature.",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Wardrobe Pullout Basket - (Soft Close)</td><td> WPB-45-SC-BR</td><td> 414 x 470 x 140</td><td rowspan='4'>Brown</td></tr><tr><td> WPB-60-SC-BR</td><td> 564 x 470 x 140</td></tr><tr><td> WPB-80-SC-BR</td><td> 764 x 470 x 140</td></tr><tr><td> WPB-90-SC-BR</td><td> 864 x 470 x 140</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-05-02-03",
+        "prevContent": "selection-02-05-02",
+        "title": "Wardrobe Rail Fittings - Rectangular With Luminor 16",
+        "cardImg": "media-second-floor-view-05/02-05-02-03-01.webp",
+        "carouselId": "carousel-02-05-02-03",
+        "images": [
+          "media-second-floor-view-05/02-05-02-03-01.webp",
+          "media-second-floor-view-05/02-05-02-03-02.webp",
+          "media-second-floor-view-05/02-05-02-03-03.png"
+        ],
+        "features": [
+          "Specially designed wardrobe rail rectangular with integrated luminor 16, offering ambient illumination for the closet or wardrobe space.",
+          "Recommended to use with Ebco's LED Strip light 5mm (LED to be purchased separately)",
+          "Finish: Anodized Brown, Brushed Al. (Rail), Brown, Brushed Al. (Bracket)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='2'>Wardrobe Rail Fittings - Rectangular With Luminor 16</td><td>WRF-RRL—3M- AN</td><td>3m</td><td>Anodized Brown</td></tr><tr><td>WRF-RRL—3M-BA</td><td>3m</td><td>Brushed Aluminium</td></tr><tr><td>Wardrobe Rail Fittings - Rectangular Bracket</td><td>WRF-BR2</td><td>-</td><td>Brown / Brushed Aluminium</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-05-02-04",
+        "prevContent": "selection-02-05-02",
+        "title": "Power Supply Unit - Series 2 & 3",
+        "cardImg": "media-second-floor-view-05/02-05-02-04-01.jpg",
+        "carouselId": "carousel-02-05-02-04",
+        "images": [
+          "media-second-floor-view-05/02-05-02-04-01.jpg",
+          "media-second-floor-view-05/02-05-02-04-02.jpg",
+          "media-second-floor-view-05/02-05-02-04-03.jpg",
+          "media-second-floor-view-05/02-05-02-04-04.jpg"
+        ],
+        "features": [
+          "In-built distributors",
+          "Red gold-plated 5A terminal for stability & durability",
+          "Centralized as well as independent sensor control to achieve diverse lighting management using a single power supply",
+          "Input voltage: AC200-240V",
+          "Comes with 1 mtr power cable",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='3'>Power Supply Unit - Series 2</td><td>PSU2-2424</td><td>24W/24V</td><td>White</td></tr><tr><td>PSU2-2436</td><td>36W/24V</td><td>White</td></tr><tr><td>PSU2-2460</td><td>60W/24V</td><td>White</td></tr><tr><td rowspan='3'>Power Supply Unit - Series 3</td><td>PSU3-2436</td><td>36W/24V</td><td>Black</td></tr><tr><td>PSU3-2465</td><td>65W/24V</td><td>Black</td></tr><tr><td>PSU3-24120</td><td>120W/24V</td><td>Black</td></tr><tr><td>Sensor Adapter Cord</td><td>SAC1</td><td>150mm, 2pin to 4pin</td><td>Black</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-05-02-05",
+        "prevContent": "selection-02-05-02",
+        "title": "Wardrobe Pullout Basket - Wicker - Soft Close",
+        "cardImg": "media-second-floor-view-05/02-05-02-05-01.jpg",
+        "carouselId": "carousel-02-05-02-05",
+        "images": [
+          "media-second-floor-view-05/02-05-02-05-01.jpg",
+          "media-second-floor-view-05/02-05-02-05-02.jpg"
+        ],
+        "features": [
+          "Well - designed plastic wicker basket with soft close feature is ideal for organised storage in wardrobes",
+          "Easy pull out providing clear access to your outfits",
+          "Available in brown finish",
+          "Designed for 450, 600, 800 & 900mm wide cabinets",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='4'>Wardrobe Pullout Basket - Wicker - (Soft Close)</td><td>WPBW-45-SC-BR</td><td>414 x 470 x 140</td><td rowspan='4'>Brown</td></tr><tr><td>WPBW-60-SC-BR</td><td>564 x 470 x 140</td></tr><tr><td>WPBW-80-SC-BR</td><td>764 x 470 x 140</td></tr><tr><td>WPBW-90-SC-BR</td><td>864 x 470 x 140</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-05-03": {
+    "title": "Second Floor View 05",
+    "products": [
+      {
+        "id": "content-02-05-03-01",
+        "prevContent": "selection-02-05-03",
+        "title": "Pro-motion Drawer System 90 - S3",
+        "cardImg": "media-second-floor-view-05/02-05-03-01-01.jpg",
+        "carouselId": "carousel-02-05-03-01",
+        "images": [
+          "media-second-floor-view-05/02-05-03-01-01.jpg",
+          "media-second-floor-view-05/02-05-03-01-02.jpg",
+          "media-second-floor-view-05/02-05-03-01-03.jpg",
+          "media-second-floor-view-05/02-05-03-01-04.jpg",
+          "media-second-floor-view-05/02-05-03-01-05.jpg"
+        ],
+        "features": [
+          "Quick installation and dismantle.",
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 90mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Fascia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Black (BL), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='7'>Pro-motion Drawer System 90 - S3</td><td>PMDS1-30-S3</td><td>90 X 300, 50Kg</td><td rowspan='2'>White / Anthracite</td></tr><tr><td>PMDS1-35-S3</td><td>90 X 350, 50Kg</td></tr><tr><td>PMDS1-40-S3</td><td>90 X 400, 50Kg</td><td>White / Anthracite / Black</td></tr><tr><td>PMDS1-45-S3</td><td>90 X 450, 50Kg</td><td>White / Anthracite/ Brown /Black/ Oak</td></tr><tr><td>PMDS1-50-S3</td><td>90 X 500, 50Kg</td><td rowspan='2'>White / Anthracite/ Brown / Black / Oak</td></tr><tr><td>PMDS1-55-S3</td><td>90 X 550, 50Kg</td></tr><tr><td>PMDS1-60-S3</td><td>90 X 600, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>Fascia Connector for PMDS1 'S3' Series</td><td>PMDS1-S3-FC</td><td>-</td><td>White / Anthracite / Brown / Black</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>450 mm</td><td rowspan='3'>White/Anthracite/Brown</td></tr><tr><td>PMDS-G1-50-S3</td><td>500 mm</td></tr><tr><td>PMDS-G1-55-S3</td><td>550 mm</td></tr><tr><td>PMDS-G1-60-S3</td><td>600 mm</td><td>White/Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-05-03-02",
+        "prevContent": "selection-02-05-03",
+        "title": "Pro-motion Drawer System 122 - S3",
+        "cardImg": "media-second-floor-view-05/02-05-03-02-01.jpg",
+        "carouselId": "carousel-02-05-03-02",
+        "images": [
+          "media-second-floor-view-05/02-05-03-02-01.jpg",
+          "media-second-floor-view-05/02-05-03-02-02.jpg",
+          "media-second-floor-view-05/02-05-03-02-03.jpg",
+          "media-second-floor-view-05/02-05-03-02-04.jpg",
+          "media-second-floor-view-05/02-05-03-02-05.jpg",
+          "media-second-floor-view-05/02-05-03-02-06.jpg"
+        ],
+        "features": [
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 122mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Drawer System 122 - Slim 3</td><td>PMDS2-30-S3</td><td>122 x 300, 50Kg</td><td rowspan='2'>White/ Anthracite</td></tr><tr><td rowspan='6'>Pro-motion Drawer System 122 - Slim 3</td><td>PMDS2-35-S3</td><td>122 x 350, 50Kg</td></tr><tr><td>PMDS2-40-S3</td><td>122 x 400, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>PMDS2-45-S3</td><td>122 x 450, 50Kg</td><td rowspan='3'>White / Anthracite / Brown / Oak / Black</td></tr><tr><td>PMDS2-50-S3</td><td>122 x 500, 50Kg</td></tr><tr><td>PMDS2-55-S3</td><td>122 x 550, 50Kg</td></tr><tr><td>PMDS2-60-S3</td><td>120 x 600, 50Kg</td><td rowspan='3'>White / Anthracite / Brown / Black</td></tr><tr><td>Facia Connector for PMDS2 'S3' Series</td><td>PMDS2-S3-FC</td><td>-</td></tr><tr><td>Aluminium Facia Panel for PMDS2 'S3' Series</td><td>PMDS2-S3-FP</td><td>90 mm (H) x 3 mtr. (W)</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>450 mm</td><td rowspan='3'>White / Anthracite / Brown</td></tr><tr><td>PMDS-G1-50-S3</td><td>500 mm</td></tr><tr><td>PMDS-G1-55-S3</td><td>550 mm</td></tr><tr><td>PMDS-G1-60-S3</td><td>600 mm</td><td>White / Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "id": "content-02-05-03-03",
+        "prevContent": "selection-02-05-03",
+        "title": "Pro-motion Drawer System 172 - S3",
+        "cardImg": "media-second-floor-view-05/02-05-03-03-01.jpg",
+        "carouselId": "carousel-02-05-03-03",
+        "images": [
+          "media-second-floor-view-05/02-05-03-03-01.jpg",
+          "media-second-floor-view-05/02-05-03-03-02.jpg"
+        ],
+        "features": [
+          "Length: 300, 350, 400, 450, 500, 550 & 600mm",
+          "Side panel height: 172mm",
+          "Drawer width can be designed freely with automatic error adjustment.",
+          "Load capacity: 50kg",
+          "Full extension of drawer with soft close feature",
+          "Quick installation and dismantle.",
+          "Facia panel system for internal drawers",
+          "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='10'>Pro-Motion Drawer System 172 -S3</td><td>PMDS3-30-S3</td><td>172 x 300, 50Kg</td><td rowspan='2'>White/ Anthracite</td></tr><tr><td>PMDS3-35-S3</td><td>172 x 350, 50Kg</td></tr><tr><td>PMDS3-40-S3</td><td>172 x 400, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>PMDS3-45-S3</td><td>172 x 450, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-45-S3-OK</td><td>172 x 450, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-50-S3</td><td>172 x 500, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-50-S3-OK</td><td>172 x 500, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-55-S3</td><td>172 x 550, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-55-S3-OK</td><td>172 x 550, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-60-S3</td><td>172 x 600, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>Aluminium Facia Panel for PMDS3 'S3' Series</td><td>PMDS3-S3-FP</td><td>90 mm (H) x 3 mtr. (W)</td><td>White / Anthracite / Brown / Black</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 45</td><td>PMDS3-S3-FG-45</td><td>for 450mm Glass Cabinet</td><td rowspan='3'>-</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 60</td><td>PMDS3-S3-FG-60</td><td>for 600mm Glass Cabinet</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 90</td><td>PMDS3-S3-FG-90</td><td>for 900mm Glass Cabinet</td></tr><tr><td>Aluminium Fascia Rail for PMDS3 'S3' Series</td><td>PMDS3-S3-FR</td><td>Length: 3 mtr.</td><td rowspan='6'>White / Anthracite / Brown / Black</td></tr><tr><td>Facia connector for PMDS3 'S3' Series for Rail</td><td>PMDS3-S3-FC-R</td><td>Length: 3 mtr.</td></tr><tr><td>Facia connector for PMDS3 'S3' Series for Glass/Aluminium Panel</td><td>PMDS3S3-FC-GP</td><td>-</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>450 mm</td></tr><tr><td>PMDS-G1-50-S3</td><td>500 mm</td></tr><tr><td>PMDS-G1-55-S3</td><td>550 mm</td></tr><tr><td>PMDS-G1-60-S3</td><td>600 mm</td><td>White/Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-05-04": {
+    "title": "Second Floor View 05",
+    "products": [
+      {
+        "id": "content-02-05-04-01",
+        "prevContent": "selection-02-05-04",
+        "title": "Wardrobe Cabinet Tray",
+        "cardImg": "media-second-floor-view-05/02-05-04-01-01.png",
+        "carouselId": "carousel-02-05-04-01",
+        "images": [
+          "media-second-floor-view-05/02-05-04-01-01.png",
+          "media-second-floor-view-05/02-05-04-01-02.png",
+          "media-second-floor-view-05/02-05-04-01-03.png"
+        ],
+        "features": [
+          "This new storage box size cabinet tray with handle is ideal for storing stacks of Shirts, T- Shirts, Trousers, Scarfs, Belts or more.",
+          "Keeps your wardrobe properly organised",
+          "Leather finish from inside gives aesthetic look and keep your accessories safe from scratches.",
+          "Can be easily positioned anywhere in the wardrobe as per your convenience",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Cabinet Tray</td><td>WCT 4026 GR</td><td>400 x 260 x 75</td><td>Grey</td></tr></tbody></table>"
         ]
       }
     ]
