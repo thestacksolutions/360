@@ -21,6 +21,12 @@
       "targetContent": "selection-02-05-03",
       "position": "4.70 -0.30 0.75",
       "rotation": "0 0 0"
+    },
+    {
+      "id": "02-05-04",
+      "targetContent": "selection-02-05-04",
+      "position": "2.30 -0.10 -2.40",
+      "rotation": "0 0 0"
     }
   ],
   "selection-02-05-01": {
@@ -223,6 +229,30 @@
           "Facia panel system for internal drawers",
           "Finish: White (WH), Anthracite (AT), Brown (BR), Oak (OK)",
           "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td rowspan='10'>Pro-Motion Drawer System 172 -S3</td><td>PMDS3-30-S3</td><td>172 x 300, 50Kg</td><td rowspan='2'>White/ Anthracite</td></tr><tr><td>PMDS3-35-S3</td><td>172 x 350, 50Kg</td></tr><tr><td>PMDS3-40-S3</td><td>172 x 400, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>PMDS3-45-S3</td><td>172 x 450, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-45-S3-OK</td><td>172 x 450, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-50-S3</td><td>172 x 500, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-50-S3-OK</td><td>172 x 500, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-55-S3</td><td>172 x 550, 50Kg</td><td>White/ Anthracite / Brown / Black</td></tr><tr><td>PMDS3-55-S3-OK</td><td>172 x 550, 50Kg</td><td>Oak</td></tr><tr><td>PMDS3-60-S3</td><td>172 x 600, 50Kg</td><td>White/ Anthracite / Black</td></tr><tr><td>Aluminium Facia Panel for PMDS3 'S3' Series</td><td>PMDS3-S3-FP</td><td>90 mm (H) x 3 mtr. (W)</td><td>White / Anthracite / Brown / Black</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 45</td><td>PMDS3-S3-FG-45</td><td>for 450mm Glass Cabinet</td><td rowspan='3'>-</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 60</td><td>PMDS3-S3-FG-60</td><td>for 600mm Glass Cabinet</td></tr><tr><td>Glass Facia Panel for PMDS3 'S3' Series - 90</td><td>PMDS3-S3-FG-90</td><td>for 900mm Glass Cabinet</td></tr><tr><td>Aluminium Fascia Rail for PMDS3 'S3' Series</td><td>PMDS3-S3-FR</td><td>Length: 3 mtr.</td><td rowspan='6'>White / Anthracite / Brown / Black</td></tr><tr><td>Facia connector for PMDS3 'S3' Series for Rail</td><td>PMDS3-S3-FC-R</td><td>Length: 3 mtr.</td></tr><tr><td>Facia connector for PMDS3 'S3' Series for Glass/Aluminium Panel</td><td>PMDS3S3-FC-GP</td><td>-</td></tr><tr><td rowspan='4'>Add-on Galley(Pro-motion'Slim 3' Series)</td><td>PMDS-G1-45-S3</td><td>450 mm</td></tr><tr><td>PMDS-G1-50-S3</td><td>500 mm</td></tr><tr><td>PMDS-G1-55-S3</td><td>550 mm</td></tr><tr><td>PMDS-G1-60-S3</td><td>600 mm</td><td>White/Anthracite</td></tr><tr><td>LED for PMDS 'S3' Series - 50</td><td>PMDS-S3-LED-50</td><td>500mm</td><td rowspan='2'>Anthracite</td></tr><tr><td>Logo Plate for Pro-motion Drawer System - Slim 3</td><td>PMDS-LP1-S3-AT</td><td>-</td></tr></tbody></table>"
+        ]
+      }
+    ]
+  },
+  "selection-02-05-04": {
+    "title": "Second Floor View 05",
+    "products": [
+      {
+        "id": "content-02-05-04-01",
+        "prevContent": "selection-02-05-04",
+        "title": "Wardrobe Cabinet Tray",
+        "cardImg": "media-second-floor-view-05/02-05-04-01-01.png",
+        "carouselId": "carousel-02-05-04-01",
+        "images": [
+          "media-second-floor-view-05/02-05-04-01-01.png",
+          "media-second-floor-view-05/02-05-04-01-02.png",
+          "media-second-floor-view-05/02-05-04-01-03.png"
+        ],
+        "features": [
+          "This new storage box size cabinet tray with handle is ideal for storing stacks of Shirts, T- Shirts, Trousers, Scarfs, Belts or more.",
+          "Keeps your wardrobe properly organised",
+          "Leather finish from inside gives aesthetic look and keep your accessories safe from scratches.",
+          "Can be easily positioned anywhere in the wardrobe as per your convenience",
+          "<table><thead><tr><th style='width: auto;'>Item</th><th style='width: auto;'>Code</th><th style='width: auto;'>Size (in mm)</th><th style='width: auto;'>Finish</th></tr></thead><tbody><tr><td>Wardrobe Cabinet Tray</td><td>WCT 4026 GR</td><td>400 x 260 x 75</td><td>Grey</td></tr></tbody></table>"
         ]
       }
     ]
